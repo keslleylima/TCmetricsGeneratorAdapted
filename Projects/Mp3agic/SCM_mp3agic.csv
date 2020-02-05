@@ -1,0 +1,1438 @@
+Kind;Name;CountInput;CountLineCode;CountLineCodeDecl;CountLineCodeExe;CountOutput;CountPath;CountPathLog;CountStmt;CountStmtDecl;CountStmtExe;Cyclomatic;CyclomaticModified;CyclomaticStrict;Essential;Knots;MaxEssentialKnots;MaxNesting;MinEssentialKnots
+File;AbstractID3v2FrameData.java;;48;19;25;;;;36;17;19;;;;;;;1;
+File;AbstractID3v2Tag.java;;1101;441;648;;;;822;363;459;;;;;;;4;
+File;BaseException.java;;33;9;19;;;;24;9;15;;;;;;;2;
+File;BaseExceptionTest.java;;31;21;17;;;;24;18;6;;;;;;;0;
+File;BufferTools.java;;244;64;146;;;;202;70;132;;;;;;;4;
+File;BufferToolsTest.java;;522;244;317;;;;370;179;191;;;;;;;1;
+File;ByteBufferUtils.java;;15;9;8;;;;13;9;4;;;;;;;0;
+File;EncodedText.java;;228;85;139;;;;164;72;92;;;;;;;3;
+File;EncodedTextTest.java;;271;89;185;;;;224;68;156;;;;;;;1;
+File;FileWrapper.java;;44;20;15;;;;39;20;19;;;;;;;1;
+File;FileWrapperTest.java;;62;33;28;;;;45;25;20;;;;;;;0;
+File;ID3Wrapper.java;;264;42;140;;;;165;42;123;;;;;;;1;
+File;ID3WrapperTest.java;;1140;662;524;;;;749;469;280;;;;;;;0;
+File;ID3v1.java;;20;19;0;;;;19;19;0;;;;;;;0;
+File;ID3v1Genres.java;;164;153;153;;;;12;6;6;;;;;;;3;
+File;ID3v1GenresTest.java;;25;14;5;;;;14;9;5;;;;;;;0;
+File;ID3v1Tag.java;;253;84;159;;;;182;66;116;;;;;;;3;
+File;ID3v1TagTest.java;;149;51;111;;;;126;40;86;;;;;;;0;
+File;ID3v2.java;;74;73;0;;;;73;73;0;;;;;;;0;
+File;ID3v22Tag.java;;24;10;9;;;;16;8;8;;;;;;;0;
+File;ID3v22TagTest.java;;138;84;85;;;;107;69;38;;;;;;;0;
+File;ID3v23Tag.java;;23;9;10;;;;16;7;9;;;;;;;0;
+File;ID3v24Frame.java;;22;10;6;;;;14;7;7;;;;;;;1;
+File;ID3v24Tag.java;;61;24;30;;;;42;18;24;;;;;;;1;
+File;ID3v24TagTest.java;;29;20;16;;;;24;18;6;;;;;;;0;
+File;ID3v2ChapterFrameData.java;;173;48;106;;;;138;43;95;;;;;;;2;
+File;ID3v2ChapterFrameDataTest.java;;173;107;93;;;;109;72;37;;;;;;;0;
+File;ID3v2ChapterTOCFrameData.java;;192;54;113;;;;151;50;101;;;;;;;2;
+File;ID3v2ChapterTOCFrameDataTest.java;;174;109;94;;;;111;75;36;;;;;;;0;
+File;ID3v2CommentFrameData.java;;137;37;89;;;;106;32;74;;;;;;;2;
+File;ID3v2CommentFrameDataTest.java;;204;127;112;;;;144;98;46;;;;;;;0;
+File;ID3v2Frame.java;;173;64;105;;;;129;63;66;;;;;;;2;
+File;ID3v2FrameSet.java;;56;20;30;;;;44;17;27;;;;;;;2;
+File;ID3v2FrameSetTest.java;;13;7;4;;;;7;6;1;;;;;;;0;
+File;ID3v2FrameTest.java;;93;47;62;;;;76;41;35;;;;;;;1;
+File;ID3v2ObseleteFrame.java;;31;16;12;;;;20;12;8;;;;;;;0;
+File;ID3v2ObseleteFrameTest.java;;32;19;20;;;;27;17;10;;;;;;;0;
+File;ID3v2ObseletePictureFrameData.java;;33;10;17;;;;23;9;14;;;;;;;1;
+File;ID3v2ObseletePictureFrameDataTest.java;;34;21;19;;;;27;18;9;;;;;;;0;
+File;ID3v2PictureFrameData.java;;145;39;92;;;;113;34;79;;;;;;;2;
+File;ID3v2PictureFrameDataTest.java;;165;108;85;;;;116;84;32;;;;;;;0;
+File;ID3v2PopmFrameData.java;;91;34;52;;;;68;28;40;;;;;;;2;
+File;ID3v2PopmFrameDataTest.java;;129;80;65;;;;90;62;28;;;;;;;1;
+File;ID3v2TagFactory.java;;37;10;22;;;;25;10;15;;;;;;;1;
+File;ID3v2TagTest.java;;537;217;385;;;;438;179;259;;;;;;;1;
+File;ID3v2TextFrameData.java;;66;24;35;;;;49;19;30;;;;;;;2;
+File;ID3v2TextFrameDataTest.java;;91;61;44;;;;64;48;16;;;;;;;0;
+File;ID3v2UrlFrameData.java;;104;30;64;;;;80;25;55;;;;;;;2;
+File;ID3v2UrlFrameDataTest.java;;125;83;63;;;;88;65;23;;;;;;;0;
+File;ID3v2WWWFrameData.java;;47;17;20;;;;31;14;17;;;;;;;2;
+File;ID3v2WWWFrameDataTest.java;;11;7;3;;;;8;6;2;;;;;;;0;
+File;InvalidDataException.java;;13;6;4;;;;9;6;3;;;;;;;0;
+File;InvalidDataExceptionTest.java;;25;15;10;;;;18;12;6;;;;;;;0;
+File;Maven__junit_junit_4_12.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__nl_jqno_equalsverifier_equalsverifier_2_3_2.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_hamcrest_hamcrest_core_1_3.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Mp3File.java;;427;120;254;;;;336;120;216;;;;;;;6;
+File;Mp3FileTest.java;;421;146;260;;;;320;121;199;;;;;;;1;
+File;MpegFrame.java;;527;88;427;;;;372;89;283;;;;;;;3;
+File;MpegFrameTest.java;;163;68;109;;;;123;56;67;;;;;;;1;
+File;MutableInteger.java;;36;14;18;;;;27;12;15;;;;;;;1;
+File;MutableIntegerTest.java;;62;39;25;;;;41;29;12;;;;;;;0;
+File;NoSuchTagException.java;;13;6;4;;;;9;6;3;;;;;;;0;
+File;NotSupportedException.java;;13;6;4;;;;9;6;3;;;;;;;0;
+File;NotSupportedExceptionTest.java;;25;15;10;;;;18;12;6;;;;;;;0;
+File;TestHelper.java;;59;25;29;;;;54;28;26;;;;;;;2;
+File;UnsupportedTagException.java;;13;6;4;;;;9;6;3;;;;;;;0;
+File;UnsupportedTagExceptionTest.java;;25;15;10;;;;18;12;6;;;;;;;0;
+File;Version.java;;19;10;6;;;;13;9;4;;;;;;;0;
+File;VersionTest.java;;17;10;3;;;;10;7;3;;;;;;;0;
+Package;com;;0;0;0;;;;0;0;0;;;;;;;0;
+Package;com.mpatric;;0;0;0;;;;0;0;0;;;;;;;0;
+Package;com.mpatric.mp3agic;;9909;4274;5778;;;;7190;3359;3831;;;;;;;6;
+Public Abstract Class;com.mpatric.mp3agic.AbstractID3v2FrameData;;47;18;25;;;;35;16;19;;;;;;;1;
+Public Constructor;com.mpatric.mp3agic.AbstractID3v2FrameData.AbstractID3v2FrameData(boolean);24;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2FrameData.equals(Object);9;12;2;10;2;5;1;11;2;9;5;5;5;5;4;4;1;4
+Protected Abstract Method;com.mpatric.mp3agic.AbstractID3v2FrameData.getLength();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2FrameData.hashCode();7;6;3;4;1;1;0;5;3;2;2;2;2;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2FrameData.packAndUnsynchroniseFrameData();2;7;2;4;4;2;0;5;2;3;2;2;3;1;1;0;1;0
+Protected Abstract Method;com.mpatric.mp3agic.AbstractID3v2FrameData.packFrameData();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2FrameData.synchroniseAndUnpackFrameData(byte[]);10;8;2;5;3;2;0;5;2;3;2;2;3;1;1;0;1;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2FrameData.toBytes();56;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Abstract Method;com.mpatric.mp3agic.AbstractID3v2FrameData.unpackFrameData(byte[]);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Abstract Class;com.mpatric.mp3agic.AbstractID3v2Tag;;1098;438;648;;;;819;360;459;;;;;;;4;
+Public Constructor;com.mpatric.mp3agic.AbstractID3v2Tag.AbstractID3v2Tag();3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.AbstractID3v2Tag.AbstractID3v2Tag(byte[]);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.AbstractID3v2Tag.AbstractID3v2Tag(byte[],boolean);4;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.addFrame(ID3v2Frame,boolean);39;13;2;10;6;3;0;10;2;8;3;3;3;1;2;0;1;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.calculateDataLength();8;12;2;8;4;18;1;14;4;10;6;6;6;1;1;0;2;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.clearAlbumImage();3;3;1;1;1;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.clearFrameSet(String);3;5;1;2;2;2;0;3;1;2;2;2;2;1;0;0;1;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.createFrame(String,byte[]);37;4;1;2;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.createFrame(byte[],int);4;4;1;2;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.createPictureFrameData(String);5;15;4;10;7;4;1;11;4;7;4;4;4;3;3;2;3;2
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.equals(Object);10;21;2;19;2;22;1;35;2;33;18;18;18;18;23;23;2;23
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractChapterFrameData(String);3;18;5;12;7;4;1;13;6;7;4;4;4;1;2;0;3;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractChapterTOCFrameData(String);3;18;5;12;7;4;1;13;6;7;4;4;4;1;2;0;3;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractCommentFrameData(String,boolean);6;18;3;11;9;6;1;13;4;9;6;6;7;6;11;11;4;11
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractGenreDescription(String);4;13;3;8;6;4;1;9;3;6;4;4;4;4;4;4;3;4
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractGenreNumber(String);3;12;3;7;7;4;1;8;3;5;4;4;4;4;3;3;3;3
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractLyricsFrameData(String);3;14;3;8;6;4;1;10;4;6;4;4;4;4;4;4;3;4
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractPopmFrameData(String);3;13;4;8;6;3;0;9;4;5;3;3;3;3;2;2;2;2
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractTextFrameData(String);22;13;4;8;6;3;0;9;4;5;3;3;3;3;2;2;2;2
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractUrlFrameData(String);3;13;4;8;6;3;0;9;4;5;3;3;3;3;2;2;2;2
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.extractWWWFrameData(String);10;13;4;8;6;3;0;9;4;5;3;3;3;3;2;2;2;2
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getAlbum();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getAlbumArtist();4;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getAlbumImage();3;5;2;3;3;2;0;5;2;3;3;3;3;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getAlbumImageMimeType();3;5;2;3;3;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getArtist();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getArtistUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getAudioSourceUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getAudiofileUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getBPM();4;12;3;8;8;3;0;8;3;5;4;4;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getChapterTOC();2;6;1;3;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getChapters();2;6;1;3;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getComment();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getCommercialUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getComposer();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getCopyright();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getCopyrightUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getDataLength();4;6;1;3;3;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getDate();4;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getEncoder();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getFrameSets();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getGenre();3;7;2;4;5;2;0;5;2;3;3;3;4;1;1;0;1;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.getGenre(String);3;11;2;7;5;3;0;7;2;5;3;3;4;3;3;3;2;3
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getGenreDescription();5;19;5;13;7;5;1;13;5;8;6;6;9;5;5;5;3;5
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getGrouping();4;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getItunesComment();4;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getKey();4;7;2;4;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getLength();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getLyrics();3;10;2;7;4;3;0;8;2;6;3;3;3;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getObseleteFormat();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getOriginalArtist();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getPadding();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getPartOfSet();4;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getPaymentUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getPublisher();4;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getPublisherUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getRadiostationUrl();1;5;2;3;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getTitle();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getTrack();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getUrl();3;5;2;3;3;2;0;5;2;3;3;3;3;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getVersion();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getWmpRating();1;7;2;4;4;2;0;5;2;3;2;2;3;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.getYear();3;5;2;3;4;2;0;5;2;3;3;3;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.hasFooter();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.hasUnsynchronisation();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.invalidateDataLength();39;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.isCompilation();4;5;2;3;5;2;0;5;2;3;3;3;4;1;1;0;1;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.packExtendedHeader(byte[],int);6;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Protected Abstract Method;com.mpatric.mp3agic.AbstractID3v2Tag.packFlags(byte[],int);2;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.packFooter(byte[],int);10;18;4;13;9;8;1;13;4;9;4;4;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.packFrames(byte[],int);3;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.packHeader(byte[],int);10;18;4;13;9;8;1;13;4;9;4;4;4;1;1;0;1;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.packSpecifiedFrames(byte[],int,String,String);7;14;2;8;8;5;1;11;4;7;5;5;8;1;0;0;4;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.packTag(byte[]);5;10;2;6;4;4;1;7;2;5;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setAlbum(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setAlbumArtist(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setAlbumImage(byte[],String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setAlbumImage(byte[],String,byte,String);7;10;3;7;8;2;0;5;2;3;3;3;6;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setArtist(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setArtistUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setAudioSourceUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setAudiofileUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setBPM(int);3;7;2;4;7;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setChapterTOC(ArrayList<ID3v2ChapterTOCFrameData>);2;14;2;9;4;4;1;10;3;7;4;4;4;1;1;0;3;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setChapters(ArrayList<ID3v2ChapterFrameData>);2;14;2;9;4;4;1;10;3;7;4;4;4;1;1;0;3;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setComment(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setCommercialUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setCompilation(boolean);3;5;2;3;6;1;0;4;2;2;2;2;2;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setComposer(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setCopyright(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setCopyrightUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setDate(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setEncoder(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setFooter(boolean);2;6;1;3;2;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setGenre(int);5;10;4;7;8;2;0;7;4;3;3;3;3;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setGenreDescription(String);1;7;2;4;2;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setGrouping(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setItunesComment(String);4;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setKey(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setLyrics(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setOriginalArtist(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setPadding(boolean);2;6;1;3;2;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setPartOfSet(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setPaymentUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setPublisher(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setPublisherUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setRadiostationUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setTitle(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setTrack(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setUnsynchronisation(boolean);2;6;1;3;2;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setUrl(String);2;7;2;4;7;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setWmpRating(int);2;8;3;5;6;2;0;6;3;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.setYear(String);2;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.AbstractID3v2Tag.toBytes();12;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.unpackExtendedHeader(byte[],int);4;5;1;3;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Protected Abstract Method;com.mpatric.mp3agic.AbstractID3v2Tag.unpackFlags(byte[]);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.unpackFooter(byte[],int);5;6;1;3;5;2;0;4;1;3;2;2;2;1;0;0;1;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.unpackFrames(byte[],int,int);4;14;3;9;4;3;0;10;3;7;3;3;3;3;3;2;2;1
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.unpackHeader(byte[]);9;13;3;10;7;8;1;13;3;10;4;4;6;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.AbstractID3v2Tag.unpackTag(byte[]);6;17;3;12;6;9;1;13;3;10;5;5;5;1;1;0;2;0
+Protected Method;com.mpatric.mp3agic.AbstractID3v2Tag.useFrameUnsynchronisation();41;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.BaseException;;32;8;19;;;;23;8;15;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.BaseException.BaseException();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.BaseException.BaseException(String);8;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.BaseException.BaseException(String,Throwable);6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BaseException.getDetailedMessage();3;20;3;15;8;5;1;15;3;12;4;4;5;3;3;2;2;1
+Public Class;com.mpatric.mp3agic.BaseExceptionTest;;28;18;17;;;;21;15;6;;;;;;;0;
+Public Method;com.mpatric.mp3agic.BaseExceptionTest.generatesCorrectDetailedMessageForChainedBaseExceptions();0;9;6;7;8;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BaseExceptionTest.generatesCorrectDetailedMessageForChainedExceptionsWithOtherExceptionInMix();0;9;6;7;7;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BaseExceptionTest.generatesCorrectDetailedMessageForSingleException();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.BufferTools;;242;62;146;;;;200;68;132;;;;;;;4;
+Private Constructor;com.mpatric.mp3agic.BufferTools.BufferTools();0;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.asciiOnly(String);2;12;3;8;5;3;0;10;4;6;3;3;4;1;1;0;2;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.byteBufferToString(byte[],int,int);25;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.byteBufferToString(byte[],int,int,String);9;4;1;2;1;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.byteBufferToStringIgnoringEncodingIssues(byte[],int,int);11;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.checkBit(byte,int);11;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.copyBuffer(byte[],int,int);18;7;2;4;2;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.copyIntoByteBuffer(byte[],int,int,byte[],int);13;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.indexOfTerminator(byte[]);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.indexOfTerminator(byte[],int);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.indexOfTerminator(byte[],int,int);21;16;3;9;1;8;1;16;4;12;6;6;6;6;5;5;4;5
+Public Static Method;com.mpatric.mp3agic.BufferTools.indexOfTerminatorForEncoding(byte[],int,int);9;4;2;2;2;1;0;3;2;1;2;2;3;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.packInteger(int);4;8;2;6;1;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.packSynchsafeInteger(int);4;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.packSynchsafeInteger(int,byte[],int);6;6;1;4;1;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.padStringRight(String,int,char);7;8;2;5;4;3;0;7;2;5;3;3;3;1;1;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.setBit(byte,int,boolean);12;9;2;5;1;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.shiftByte(byte,int);4;9;2;6;1;3;0;7;2;5;3;3;3;3;2;2;1;2
+Public Static Method;com.mpatric.mp3agic.BufferTools.sizeSynchronisationWouldSubtract(byte[]);5;10;2;6;1;6;1;10;3;7;4;4;9;1;0;0;2;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.sizeUnsynchronisationWouldAdd(byte[]);5;10;2;6;1;6;1;10;3;7;4;4;7;1;0;0;2;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.stringIntoByteBuffer(String,int,int,byte[],int);22;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.stringIntoByteBuffer(String,int,int,byte[],int,String);11;7;3;4;3;2;0;5;3;2;2;2;2;1;0;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.stringToByteBuffer(String,int,int);23;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.stringToByteBuffer(String,int,int,String);7;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.stringToByteBufferIgnoringEncodingIssues(String,int,int);3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.substitute(String,String,String);7;22;4;15;7;11;1;16;4;12;6;6;7;1;1;0;2;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.synchroniseBuffer(byte[]);8;15;4;11;2;4;1;15;5;10;4;4;7;1;1;0;2;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.trimStringRight(String);4;14;3;9;4;9;1;13;3;10;5;5;5;5;4;4;2;4
+Public Static Method;com.mpatric.mp3agic.BufferTools.unpackInteger(byte,byte,byte,byte);10;7;2;5;2;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.unpackSynchsafeInteger(byte,byte,byte,byte);10;7;2;5;2;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.BufferTools.unsynchroniseBuffer(byte[]);8;17;4;12;2;7;1;16;5;11;5;5;7;1;1;0;2;0
+Public Class;com.mpatric.mp3agic.BufferToolsTest;;517;239;317;;;;365;174;191;;;;;;;1;
+Public Method;com.mpatric.mp3agic.BufferToolsTest.ReturnsMinusOneWhenNoSingleTerminator();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.convertsBufferContainingHighAscii();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsDoubleTerminator();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsDoubleTerminatorWhenFirstElement();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsDoubleTerminatorWhenLastElement();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsFirstDoubleTerminator();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsFirstDoubleTerminatorAfterFromIndex();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsFirstDoubleTerminatorOnAnEvenByte();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsFirstSingleTerminator();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsFirstSingleTerminatorAfterFromIndex();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsNotFindDoubleTerminatorIfNotOnEvenByte();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsSingleTerminator();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsSingleTerminatorWhenFirstElement();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.findsSingleTerminatorWhenLastElement();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.returnsMinusOneWhenNoDoubleTerminator();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldConvertNonAsciiCharactersToQuestionMarksInString();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldConvertStringToBufferAndBack();1;6;4;4;4;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldConvertSubstringToBufferAndBack();1;6;4;4;4;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldConvertUnicodeStringToBufferAndBack();1;6;4;4;4;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldConvertUnicodeSubstringToBufferAndBack();1;6;4;4;4;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopyBuffersWithValidOffsetsAndLengths();1;8;2;6;2;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopyStringToEndOfByteBuffer();4;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopyStringToStartOfByteBuffer();4;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopySubstringToMiddleOfByteBuffer();2;8;4;6;3;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopySubstringToStartOfByteBuffer();2;8;4;6;3;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopyUnicodeStringToEndOfByteBuffer();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopyUnicodeStringToStartOfByteBuffer();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldCopyUnicodeSubstringToStartOfByteBuffer();0;8;4;6;3;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldDetermineSynchronisationSizesCorrectly();2;9;1;7;2;1;0;8;1;7;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldDetermineUnsynchronisationSizesCorrectly();2;9;1;7;2;1;0;8;1;7;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldExtractBitsCorrectly();0;11;2;9;3;1;0;10;2;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldExtractStringFromEndOfBuffer();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldExtractStringFromMiddleOfBuffer();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldExtractStringFromStartOfBuffer();4;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldExtractUnicodeStringFromMiddleOfBuffer();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldPackAndUnpackIntegerBackToOriginalValue();0;6;4;4;3;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldPackAndUnpackSynchsafeIntegerBackToOriginalValue();0;6;4;4;3;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldPackIntegerCorrectly();4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldPackSynchsafeIntegersCorrectly();0;7;1;5;2;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldPadRightWithNullCharacters();0;6;1;4;2;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRaiseExceptionWhenCopyingStringIntoByteBufferWithDestinationOffsetOutOfRange();1;12;3;10;3;4;1;9;3;6;3;3;3;1;2;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRaiseExceptionWhenCopyingStringIntoByteBufferWithLengthOutOfRange();0;16;3;14;3;8;1;12;3;9;4;4;4;1;3;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRaiseExceptionWhenCopyingStringIntoByteBufferWithOffsetOutOfRange();0;12;3;10;3;4;1;9;3;6;3;3;3;1;2;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldReplaceTokensWithSpecifiedStrings();0;6;2;4;2;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldReturnOriginalBufferIfNoUnynchronisationOrSynchronisationIsRequired();0;7;4;5;3;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldReturnOriginalStringForSubstitutionWithEmptyString();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldReturnOriginalStringIfTokenToSubstituteDoesNotExistInString();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRightPadStringsCorrectly();0;7;1;5;2;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRightPadUnicodeStringsCorrectly();0;6;1;4;2;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRightTrimStringsCorrectly();0;10;1;8;3;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldRightTrimUnicodeStringsCorrectly();0;8;1;6;3;1;0;7;1;6;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldSetBitsInBytesCorrectly();0;9;2;7;2;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldSubstituteEmptyStringWhenDestinationStringIsNull();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldThrowAnExceptionWhenConvertingStringToBytesWithLengthOutOfRange();0;15;2;13;3;8;1;11;2;9;4;4;4;1;3;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldThrowAnExceptionWhenConvertingStringToBytesWithOffsetOutOfRange();0;11;2;9;3;4;1;8;2;6;3;3;3;1;2;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldThrowExceptionForLengthExtendingBeyondEndOfArray();5;8;2;5;2;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldThrowExceptionForOffsetAfterEndOfArray();5;8;2;5;2;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldThrowExceptionForOffsetBeforeStartOfArray();4;8;2;5;2;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldUnpackIntegerCorrectly();5;5;1;3;2;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldUnpackSynchsafeIntegersCorrectly();0;7;1;5;2;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldUnsynchroniseThenSynchroniseBufferFullOfFFsCorrectly();1;8;5;6;3;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldUnsynchroniseThenSynchroniseBufferMinimalBufferCorrectly();1;8;5;6;3;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldUnsynchroniseThenSynchroniseFF00BytesCorrectly();1;8;5;6;3;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.shouldUnsynchroniseThenSynchroniseFFExBytesCorrectly();4;8;5;6;3;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.BufferToolsTest.throwsExceptionWhenCopyingBufferWithInvalidOffsetAndOrLength();1;15;2;13;2;8;1;11;2;9;4;4;4;1;3;0;1;0
+Public Class;com.mpatric.mp3agic.ByteBufferUtils;;13;7;8;;;;11;7;4;;;;;;;0;
+Private Constructor;com.mpatric.mp3agic.ByteBufferUtils.ByteBufferUtils();0;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.ByteBufferUtils.extractNullTerminatedString(ByteBuffer);3;10;5;8;7;1;0;9;5;4;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.EncodedText;;220;77;139;;;;156;64;92;;;;;;;3;
+Public Constructor;com.mpatric.mp3agic.EncodedText.EncodedText(String);31;11;1;7;7;3;0;9;2;7;3;3;4;3;3;3;2;3
+Public Constructor;com.mpatric.mp3agic.EncodedText.EncodedText(String,byte);2;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.EncodedText.EncodedText(byte,String);75;5;1;3;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.EncodedText.EncodedText(byte,byte[]);22;10;1;7;5;2;0;6;1;5;2;2;3;1;1;0;1;0
+Public Constructor;com.mpatric.mp3agic.EncodedText.EncodedText(byte[]);5;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Static Method;com.mpatric.mp3agic.EncodedText.bytesToCharBuffer(byte[],String);4;5;3;3;5;1;0;4;3;1;1;1;1;1;0;0;0;0
+Private Static Method;com.mpatric.mp3agic.EncodedText.bytesToString(byte[],String);3;7;4;5;5;2;0;7;4;3;2;2;2;1;1;0;1;0
+Protected Static Method;com.mpatric.mp3agic.EncodedText.charBufferToBytes(CharBuffer,String);4;6;4;4;7;1;0;5;4;1;1;1;1;1;0;0;0;0
+Private Static Method;com.mpatric.mp3agic.EncodedText.characterSetForTextEncoding(byte);8;7;1;4;1;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.EncodedText.equals(Object);7;14;2;12;3;6;1;13;2;11;6;6;6;6;5;5;1;5
+Public Method;com.mpatric.mp3agic.EncodedText.getCharacterSet();5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.getTerminator();9;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.getTextEncoding();10;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.hashCode();6;7;3;5;2;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.setTextEncoding(byte);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.setTextEncoding(byte,boolean);8;8;3;5;5;2;0;6;3;3;2;2;2;1;0;0;1;0
+Private Static Method;com.mpatric.mp3agic.EncodedText.stringToBytes(String,String);4;7;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Private Method;com.mpatric.mp3agic.EncodedText.stripBomAndTerminator();7;28;7;20;2;63;2;24;8;16;9;9;16;4;3;3;3;2
+Private Static Method;com.mpatric.mp3agic.EncodedText.textEncodingForBytesFromBOM(byte[]);8;11;1;8;1;4;1;8;1;7;4;4;11;4;3;3;1;3
+Public Method;com.mpatric.mp3agic.EncodedText.toBytes();6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.toBytes(boolean);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedText.toBytes(boolean,boolean);25;28;6;20;4;19;1;20;6;14;9;9;9;1;1;0;3;0
+Public Method;com.mpatric.mp3agic.EncodedText.toString();36;7;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Class;com.mpatric.mp3agic.EncodedTextTest;;266;84;185;;;;219;63;156;;;;;;;1;
+Public Method;com.mpatric.mp3agic.EncodedTextTest.UTF16ShouldDecodeBEWhenSpecifiedInBOM();3;6;4;4;4;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldConstructFromStringOrBytes();10;15;2;12;4;1;0;14;2;12;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldDetectUTF16BEEncodingFromBytesWithBOM();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldDetectUTF16EncodingFromBytesWithBOM();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldDetectUTF8EncodingFromBytesWithBOM();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldEncodeAndDecodeISO8859_1Text();4;23;4;19;9;1;0;22;4;18;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldEncodeAndDecodeUTF16BEText();4;23;4;19;9;1;0;22;4;18;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldEncodeAndDecodeUTF16Text();4;23;4;19;9;1;0;22;4;18;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldEncodeAndDecodeUTF8Text();4;24;5;20;9;1;0;23;5;18;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldHandleBacktickCharacterInString();1;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldInferISO8859_1EncodingFromBytesWithNoBOM();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldReturnNullWhenDecodingInvalidString();1;6;4;4;5;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldStillReturnBytesWhenDataIsEmpty();1;13;2;10;3;1;0;12;2;10;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldStillReturnBytesWhenStringIsEmpty();1;7;2;5;2;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldStillReturnBytesWhenUnicodeDataIsEmpty();1;23;2;20;3;1;0;22;2;20;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldStillReturnBytesWhenUnicodeStringIsEmpty();1;7;2;5;2;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldThrowAnExceptionWhenAttemptingToTranscodeToACharacterSetWithUnmappableCharacters();3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldThrowExceptionWhenEncodingWithInvalidCharacterSet();2;8;1;5;4;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldThrowExceptionWhenTranscodingWithInvalidCharacterSet();2;9;2;6;6;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldTranscodeFromOneEncodingToAnother();4;15;2;12;6;1;0;14;2;12;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.EncodedTextTest.shouldUseAppropriateEncodingWhenConstructingFromStringOnly();2;10;3;6;3;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.FileWrapper;;36;12;15;;;;31;12;19;;;;;;;1;
+Protected Constructor;com.mpatric.mp3agic.FileWrapper.FileWrapper();0;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.FileWrapper.FileWrapper(File);4;5;1;3;5;2;0;5;1;4;2;2;2;1;0;0;1;0
+Public Constructor;com.mpatric.mp3agic.FileWrapper.FileWrapper(Path);3;5;1;3;3;2;0;5;1;4;2;2;2;1;0;0;1;0
+Public Constructor;com.mpatric.mp3agic.FileWrapper.FileWrapper(String);6;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapper.getFilename();11;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapper.getLastModified();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapper.getLength();8;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.FileWrapper.init();5;6;1;4;7;4;1;7;1;6;3;3;3;1;0;0;1;0
+Public Class;com.mpatric.mp3agic.FileWrapperTest;;54;25;28;;;;37;17;20;;;;;;;0;
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldFailForMalformedFilename();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldFailForNonExistentFile();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldFailForNullFilename();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldFailForNullFilenameFile();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldFailForNullPath();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldReadValidFile();2;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldReadValidFilename();2;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.FileWrapperTest.shouldReadValidPath();2;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3Wrapper;;263;41;140;;;;164;41;123;;;;;;;1;
+Public Constructor;com.mpatric.mp3agic.ID3Wrapper.ID3Wrapper(ID3v1,ID3v2);109;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.clearComment();5;8;1;4;2;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.clearCopyright();4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.clearEncoder();4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getAlbum();7;9;1;6;3;3;0;6;1;5;3;3;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getAlbumArtist();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getAlbumImage();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getAlbumImageMimeType();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getArtist();7;9;1;6;3;3;0;6;1;5;3;3;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getComment();7;9;1;6;3;3;0;6;1;5;3;3;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getComposer();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getCopyright();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getEncoder();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getGenre();6;9;1;6;2;3;0;6;1;5;3;3;4;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getGenreDescription();5;9;1;6;2;3;0;6;1;5;3;3;3;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getId3v1Tag();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getId3v2Tag();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getLyrics();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getOriginalArtist();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getTitle();7;9;1;6;3;3;0;6;1;5;3;3;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getTrack();7;9;1;6;3;3;0;6;1;5;3;3;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getUrl();3;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.getYear();7;9;1;6;3;3;0;6;1;5;3;3;5;3;2;2;1;2
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setAlbum(String);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setAlbumArtist(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setAlbumImage(byte[],String);5;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setArtist(String);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setComment(String);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setComposer(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setCopyright(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setEncoder(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setGenre(int);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setLyrics(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setOriginalArtist(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setTitle(String);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setTrack(String);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setUrl(String);4;5;1;2;1;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3Wrapper.setYear(String);7;8;1;4;1;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Class;com.mpatric.mp3agic.ID3WrapperTest;;1130;652;524;;;;739;459;280;;;;;;;0;
+Private Static Class;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting;;81;44;18;;;;45;27;18;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getAlbum();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getArtist();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getComment();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getGenre();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getGenreDescription();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getTitle();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getTrack();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getVersion();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.getYear();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setAlbum(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setArtist(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setComment(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setGenre(int);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setGenreDescription(String);3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setTitle(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setTrack(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.setYear(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v1TagForTesting.toBytes();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Class;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting;;268;150;48;;;;128;81;47;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.addFrameSet(String,ID3v2FrameSet);6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.clearAlbumImage();0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.clearFrameSet(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getAlbumArtist();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getAlbumImage();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getAlbumImageMimeType();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getArtistUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getAudioSourceUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getAudiofileUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getBPM();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getChapterTOC();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getChapters();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getCommercialUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getComposer();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getCopyright();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getCopyrightUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getDataLength();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getDate();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getEncoder();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getFrameSets();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getGrouping();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getItunesComment();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getKey();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getLength();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getLyrics();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getObseleteFormat();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getOriginalArtist();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getPadding();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getPartOfSet();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getPaymentUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getPublisher();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getPublisherUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getRadiostationUrl();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getUrl();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.getWmpRating();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.hasFooter();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.hasUnsynchronisation();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.isCompilation();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setAlbumArtist(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setAlbumImage(byte[],String);2;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setAlbumImage(byte[],String,byte,String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setArtistUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setAudioSourceUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setAudiofileUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setBPM(int);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setChapterTOC(ArrayList<ID3v2ChapterTOCFrameData>);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setChapters(ArrayList<ID3v2ChapterFrameData>);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setCommercialUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setCompilation(boolean);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setComposer(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setCopyright(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setCopyrightUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setDate(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setEncoder(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setFooter(boolean);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setGenreDescription(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setGrouping(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setItunesComment(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setKey(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setLyrics(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setOriginalArtist(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setPadding(boolean);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setPartOfSet(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setPaymentUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setPublisher(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setPublisherUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setRadiostationUrl(String);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setUnsynchronisation(boolean);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setUrl(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.ID3v2TagForTesting.setWmpRating(int);0;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.clearCopyrightDoesNotThrowExceptionWhenV2TagDoesNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.clearEncoderDoesNotThrowExceptionWhenV2TagDoesNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.clearsCommentFrameOnV2Tag();1;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.clearsCommentOnV1Tag();0;7;3;5;5;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.clearsCopyrightFrameOnV2Tag();1;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.clearsEncoderFrameOnV2Tag();1;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumArtistReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumArtistReturnsV2TagsAlbumArtist();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumImageReturnsNullIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumImageReturnsV2TagsAlbumImage();0;8;4;6;6;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsV1TagsAlbumIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsV1TagsAlbumIfV2TagsAlbumDoesNotExist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsV1TagsAlbumIfV2TagsAlbumIsEmpty();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsV2TagsAlbumBeforeV1TagsAlbum();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getArtistReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getArtistReturnsV1TagsArtistIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getArtistReturnsV1TagsArtistIfV2TagsArtistDoesNotExist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getArtistReturnsV1TagsArtistIfV2TagsArtistIsEmpty();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getArtistReturnsV2TagsArtistBeforeV1TagsArtist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCommentReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCommentReturnsV1TagsCommentIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCommentReturnsV1TagsCommentIfV2TagsCommentDoesNotExist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCommentReturnsV1TagsCommentIfV2TagsCommentIsEmpty();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCommentReturnsV2TagsCommentBeforeV1TagsComment();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getComposerReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getComposerReturnsV2TagsComposer();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCopyrightReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getCopyrightReturnsV2TagsCopyright();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getEncoderReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getEncoderReturnsV2TagsEncoder();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreDescriptionReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreDescriptionReturnsV1TagsGenreDescriptionIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreDescriptionReturnsV2TagsGenreDescriptionBeforeV1TagsGenreDescription();0;8;4;6;5;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreReturnsNegativeOneIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreReturnsV1TagsGenreIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreReturnsV1TagsGenreIfV2TagsGenreIsNegativeOne();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getGenreReturnsV2TagsGenreBeforeV1TagsGenre();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getLyricsReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getLyricsReturnsV2TagsLyrics();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getOriginalArtistReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getOriginalArtistReturnsV2TagsOriginalArtist();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTitleReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTitleReturnsV1TagsTitleIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTitleReturnsV1TagsTitleIfV2TagsTitleDoesNotExist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTitleReturnsV1TagsTitleIfV2TagsTitleIsEmpty();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTitleReturnsV2TagsTitleBeforeV1TagsTitle();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTrackReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTrackReturnsV1TagsTrackIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTrackReturnsV1TagsTrackIfV2TagsTrackDoesNotExist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTrackReturnsV1TagsTrackIfV2TagsTrackIsEmpty();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getTrackReturnsV2TagsTrackBeforeV1TagsTrack();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getUrlReturnsNullIfV2TagDoesNotExist();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getUrlReturnsV2TagsUrl();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getYearReturnsNullIfBothTagsDoNotExist();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getYearReturnsV1TagsYearIfV2TagDoesNotExist();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getYearReturnsV1TagsYearIfV2TagsYearDoesNotExist();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getYearReturnsV1TagsYearIfV2TagsYearIsEmpty();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.getYearReturnsV2TagsYearBeforeV1TagsYear();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.returnsNullV1Tag();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.returnsNullV2Tag();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.returnsV1Tag();0;6;4;4;3;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.returnsV2Tag();0;6;4;4;3;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setAlbumArtistDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setAlbumDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setAlbumImageDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setArtistDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setCommentDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setComposerDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setCopyrightDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setEncoderDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setGenreDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setLyricsDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setOriginalArtistDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setTitleDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setTrackDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setUrlDoesNotThrowExceptionWhenV2TagDoesNotExist();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setYearDoesNotThrowExceptionWhenBothTagsDoNotExist();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsAlbumArtistOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsAlbumImageOnV2Tag();0;8;4;6;6;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsAlbumOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsAlbumOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsAlbumOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsArtistOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsArtistOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsArtistOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsCommentOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsCommentOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsCommentOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsComposerOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsCopyrightOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsEncoderOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsGenreOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsGenreOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsGenreOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsLyricsOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsOriginalArtistOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsTitleOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsTitleOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsTitleOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsTrackOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsTrackOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsTrackOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsUrlOnV2Tag();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsYearOnBothV1AndV2Tags();0;8;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsYearOnV1TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3WrapperTest.setsYearOnV2TagOnly();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Interface;com.mpatric.mp3agic.ID3v1;;19;18;0;;;;18;18;0;;;;;;;0;
+Abstract Method;com.mpatric.mp3agic.ID3v1.getAlbum();10;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getArtist();10;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getComment();11;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getGenre();13;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getGenreDescription();10;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getTitle();10;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getTrack();10;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getVersion();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.getYear();8;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setAlbum(String);8;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setArtist(String);8;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setComment(String);10;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setGenre(int);6;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setTitle(String);8;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setTrack(String);7;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.setYear(String);7;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v1.toBytes();7;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v1Genres;;163;152;153;;;;11;5;6;;;;;;;3;
+Private Constructor;com.mpatric.mp3agic.ID3v1Genres.ID3v1Genres();0;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.ID3v1Genres.matchGenreDescription(String);10;10;1;5;3;4;1;8;2;6;4;4;5;4;4;4;3;4
+Public Class;com.mpatric.mp3agic.ID3v1GenresTest;;22;11;5;;;;11;6;5;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v1GenresTest.ignoresCase();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1GenresTest.returnsCorrectGenreIdForFirstExistentGenre();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1GenresTest.returnsCorrectGenreIdForLastExistentGenre();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1GenresTest.returnsCorrectGenreIdForPolka();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1GenresTest.returnsMinusOneForNonExistentGenre();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v1Tag;;250;81;159;;;;179;63;116;;;;;;;3;
+Public Constructor;com.mpatric.mp3agic.ID3v1Tag.ID3v1Tag();3;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v1Tag.ID3v1Tag(byte[]);11;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.equals(Object);8;42;2;40;3;201;2;41;2;39;23;23;23;23;34;34;2;34
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getAlbum();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getArtist();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getComment();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getGenre();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getGenreDescription();6;7;1;4;1;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getTitle();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getTrack();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getVersion();3;7;1;4;1;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.getYear();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.hashCode();7;12;3;10;2;1;0;11;3;8;7;7;7;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v1Tag.numericsOnly(String);2;12;3;8;5;3;0;10;4;6;3;3;4;3;3;2;2;1
+Private Method;com.mpatric.mp3agic.ID3v1Tag.packField(byte[],String,int,int);5;8;1;4;3;3;0;4;1;3;3;3;3;1;1;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.packTag(byte[]);24;30;3;23;7;16;1;20;3;17;6;6;6;1;4;0;3;0
+Private Method;com.mpatric.mp3agic.ID3v1Tag.sanityCheckTag(byte[]);5;8;1;4;5;4;1;5;1;4;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setAlbum(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setArtist(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setComment(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setGenre(int);3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setTitle(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setTrack(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.setYear(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.toBytes();3;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1Tag.toBytes(byte[]);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v1Tag.unpackTag(byte[]);17;23;2;18;11;6;1;17;2;15;4;4;4;1;2;0;2;0
+Public Class;com.mpatric.mp3agic.ID3v1TagTest;;146;48;111;;;;123;37;86;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldConvertTagToBytesAndBackToEquivalentTag();0;13;4;11;11;1;0;12;4;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldExtractMaximumLengthFieldsFromValid10Tag();2;13;3;11;12;1;0;12;3;9;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldExtractMaximumLengthFieldsFromValid11Tag();2;15;3;13;12;1;0;14;3;11;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldExtractTrimmedFieldsFromValid11TagWithNullspace();2;16;3;14;13;1;0;15;3;12;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldExtractTrimmedFieldsFromValid11TagWithWhitespace();2;15;3;13;12;1;0;14;3;11;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldGenerateValidTagBuffer();2;16;3;14;13;1;0;15;3;12;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldGenerateValidTagBufferWithHighGenreAndTrackNumber();2;16;3;14;13;1;0;15;3;12;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldReadTagFieldsFromMp3();2;13;4;11;12;1;0;12;4;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldReturnEmptyTrackIfNotSetOn11Tag();2;6;4;4;5;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldThrowExceptionForTagBufferTooLong();1;4;2;2;1;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v1TagTest.shouldThrowExceptionForTagBufferTooShort();1;4;2;2;1;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Interface;com.mpatric.mp3agic.ID3v2;;71;70;0;;;;70;70;0;;;;;;;0;
+Abstract Method;com.mpatric.mp3agic.ID3v2.clearAlbumImage();1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.clearFrameSet(String);3;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getAlbumArtist();2;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getAlbumImage();6;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getAlbumImageMimeType();6;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getArtistUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getAudioSourceUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getAudiofileUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getBPM();3;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getChapterTOC();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getChapters();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getCommercialUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getComposer();7;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getCopyright();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getCopyrightUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getDataLength();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getDate();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getEncoder();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getFrameSets();7;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getGrouping();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getItunesComment();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getKey();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getLength();3;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getLyrics();4;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getObseleteFormat();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getOriginalArtist();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getPadding();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getPartOfSet();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getPaymentUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getPublisher();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getPublisherUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getRadiostationUrl();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getUrl();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.getWmpRating();3;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.hasFooter();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.hasUnsynchronisation();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.isCompilation();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setAlbumArtist(String);2;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setAlbumImage(byte[],String);3;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setAlbumImage(byte[],String,byte,String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setArtistUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setAudioSourceUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setAudiofileUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setBPM(int);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setChapterTOC(ArrayList<ID3v2ChapterTOCFrameData>);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setChapters(ArrayList<ID3v2ChapterFrameData>);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setCommercialUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setCompilation(boolean);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setComposer(String);4;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setCopyright(String);4;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setCopyrightUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setDate(String);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setEncoder(String);4;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setFooter(boolean);2;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setGenreDescription(String);5;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setGrouping(String);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setItunesComment(String);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setKey(String);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setLyrics(String);2;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setOriginalArtist(String);4;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setPadding(boolean);2;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setPartOfSet(String);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setPaymentUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setPublisher(String);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setPublisherUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setRadiostationUrl(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setUnsynchronisation(boolean);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setUrl(String);4;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;com.mpatric.mp3agic.ID3v2.setWmpRating(int);2;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v22Tag;;23;9;9;;;;15;7;8;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.ID3v22Tag.ID3v22Tag();15;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v22Tag.ID3v22Tag(byte[]);13;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v22Tag.ID3v22Tag(byte[],boolean);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v22Tag.packFlags(byte[],int);11;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v22Tag.unpackFlags(byte[]);8;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v22TagTest;;132;78;85;;;;101;63;38;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.setUp();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveAlbumArtist();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveBPM();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveCompilation();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveDate();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveGrouping();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveItunesComment();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveKey();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrieveLyrics();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrievePartOfSet();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldStoreAndRetrievePublisher();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldUnpackAndPackOffCompressionBit();5;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldUnpackAndPackOffUnsynchronizationBit();5;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldUnpackAndPackOnCompressionBit();5;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v22TagTest.shouldUnpackAndPackOnUnsynchronizationBit();5;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v23Tag;;22;8;10;;;;15;6;9;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.ID3v23Tag.ID3v23Tag();10;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v23Tag.ID3v23Tag(byte[]);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v23Tag.packFlags(byte[],int);9;5;1;3;2;1;0;4;1;3;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v23Tag.unpackFlags(byte[]);5;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v24Frame;;21;9;6;;;;13;6;7;;;;;;;1;
+Public Constructor;com.mpatric.mp3agic.ID3v24Frame.ID3v24Frame(String,byte[]);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v24Frame.ID3v24Frame(byte[],int);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v24Frame.equals(Object);1;4;1;2;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Protected Method;com.mpatric.mp3agic.ID3v24Frame.packDataLength();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v24Frame.unpackDataLength(byte[],int);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v24Tag;;60;23;30;;;;41;17;24;;;;;;;1;
+Public Constructor;com.mpatric.mp3agic.ID3v24Tag.ID3v24Tag();8;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v24Tag.ID3v24Tag(byte[]);7;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v24Tag.createFrame(String,byte[]);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v24Tag.createFrame(byte[],int);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v24Tag.getRecordingTime();2;6;2;4;4;2;0;5;2;3;2;2;3;1;1;0;1;0
+Protected Method;com.mpatric.mp3agic.ID3v24Tag.packFlags(byte[],int);11;6;1;4;2;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v24Tag.setGenreDescription(String);3;9;3;6;11;2;0;7;3;4;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v24Tag.setRecordingTime(String);3;7;2;4;8;2;0;5;2;3;2;2;3;1;0;0;1;0
+Protected Method;com.mpatric.mp3agic.ID3v24Tag.unpackFlags(byte[]);6;6;1;4;5;1;0;5;1;4;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v24Tag.useFrameUnsynchronisation();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v24TagTest;;24;15;16;;;;19;13;6;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v24TagTest.shouldSetGenreDescription();1;12;7;10;15;1;0;11;7;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v24TagTest.shouldStoreAndRetrieveRecordingTime();0;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2ChapterFrameData;;170;45;106;;;;135;40;95;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2ChapterFrameData.ID3v2ChapterFrameData(boolean);8;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ChapterFrameData.ID3v2ChapterFrameData(boolean,String,int,int,int,int);24;9;2;6;7;1;0;7;1;6;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ChapterFrameData.ID3v2ChapterFrameData(boolean,byte[]);4;5;2;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.addSubframe(String,AbstractID3v2FrameData);6;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.equals(Object);9;28;2;26;4;19;1;27;2;25;14;14;14;14;17;17;2;17
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getEndOffset();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getEndTime();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getId();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getLength();3;12;2;8;3;6;1;10;3;7;4;4;4;1;0;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getStartOffset();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getStartTime();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.getSubframes();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.hashCode();8;12;3;10;2;1;0;10;3;7;3;3;3;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.packFrameData();7;17;2;13;9;3;0;14;3;11;3;3;3;1;1;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.setEndOffset(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.setEndTime(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.setId(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.setStartOffset(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.setStartTime(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.setSubframes(ArrayList<ID3v2Frame>);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.toString();8;17;2;15;3;1;0;16;2;14;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ChapterFrameData.unpackFrameData(byte[]);4;14;3;11;13;2;0;13;4;9;2;2;2;1;0;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest;;169;103;93;;;;105;68;37;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.equalIfIdIsNullOnBoth();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.equalObjectsHaveSameHashCode();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.equalsItself();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.getsAndSetsEndOffset();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.getsAndSetsEndTime();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.getsAndSetsId();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.getsAndSetsStartOffset();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.getsAndSetsStartTime();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.getsAndSetsSubframes();0;8;3;6;5;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.hashCodeIsConsistent();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfEndOffsetNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfEndTimeNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfIdIsNullOnOne();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfIdNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfOneHasSubframes();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfStartOffsetNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfStartTimeNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualIfUnsynchronizationNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualToDifferentClass();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.notEqualToNull();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();0;9;5;7;4;1;0;8;5;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.shouldConvertFrameDataToBytesAndBackToEquivalentObject();0;21;17;17;7;1;0;9;6;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.toStringOnFullFrameData();0;6;2;4;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterFrameDataTest.toStringOnMostlyEmptyFrameData();0;6;2;4;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData;;188;50;113;;;;147;46;101;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.ID3v2ChapterTOCFrameData(boolean);7;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.ID3v2ChapterTOCFrameData(boolean,boolean,boolean,String,String[]);23;8;2;5;6;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.ID3v2ChapterTOCFrameData(boolean,byte[]);4;5;2;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.addSubframe(String,AbstractID3v2FrameData);6;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.equals(Object);8;26;2;24;4;18;1;25;2;23;13;13;13;13;16;16;2;16
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.getChildren();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.getChilds();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.getFlags();3;10;2;6;1;4;1;7;2;5;3;3;3;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.getId();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.getLength();5;16;2;10;3;18;1;14;4;10;6;6;6;1;0;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.getSubframes();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.hashCode();7;11;3;9;3;1;0;9;3;6;5;5;5;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.isOrdered();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.isRoot();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.packFrameData();5;19;2;14;9;6;1;16;4;12;4;4;4;1;1;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.setChildren(String[]);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.setChilds(String[]);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.setId(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.setOrdered(boolean);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.setRoot(boolean);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.setSubframes(ArrayList<ID3v2Frame>);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.toString();7;15;2;13;3;1;0;14;2;12;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameData.unpackFrameData(byte[]);3;21;5;15;11;16;1;19;7;12;5;5;5;1;0;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest;;170;105;94;;;;107;71;36;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.equalIfIdIsNullOnBoth();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.equalObjectsHaveSameHashCode();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.equalsItself();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.getsAndSetsChildren();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.getsAndSetsId();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.getsAndSetsIsOrdered();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.getsAndSetsIsRoot();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.getsAndSetsSubframes();0;8;3;6;5;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.hashCodeIsConsistent();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfChildrenNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfChildrenNullOnOne();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfIdIsNullOnOne();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfIdNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfIsOrderedNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfIsRootNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfOneDoeNotHaveChildren();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfOneHasSubframes();0;7;4;5;4;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualIfUnsynchronizationNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualToDifferentClass();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.notEqualToNull();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();0;10;6;8;4;1;0;9;6;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.shouldConvertFrameDataToBytesAndBackToEquivalentObject();0;21;17;17;7;1;0;10;7;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.toStringOnFullFrameData();0;6;2;4;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ChapterTOCFrameDataTest.toStringOnMostlyEmptyFrameData();0;6;2;4;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2CommentFrameData;;135;35;89;;;;104;30;74;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2CommentFrameData.ID3v2CommentFrameData(boolean);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2CommentFrameData.ID3v2CommentFrameData(boolean,String,EncodedText,EncodedText);31;9;1;6;6;2;0;7;1;6;2;2;4;1;0;0;1;0
+Public Constructor;com.mpatric.mp3agic.ID3v2CommentFrameData.ID3v2CommentFrameData(boolean,byte[]);12;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.equals(Object);6;25;2;23;5;25;1;24;2;22;13;13;13;13;18;18;2;18
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.getComment();11;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.getDescription();9;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.getLanguage();8;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2CommentFrameData.getLength();4;7;2;5;3;4;1;8;2;6;4;4;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.hashCode();5;10;3;8;4;1;0;7;3;4;4;4;4;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2CommentFrameData.packFrameData();5;32;7;25;10;48;2;25;7;18;8;8;8;1;5;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.setComment(EncodedText);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.setDescription(EncodedText);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameData.setLanguage(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2CommentFrameData.unpackFrameData(byte[]);3;16;2;12;8;4;1;11;2;9;3;3;3;1;2;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2CommentFrameDataTest;;198;121;112;;;;138;92;46;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.constructorThrowsErrorWhenEncodingsDoNotMatch();3;5;1;3;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.convertsEmptyFrameDataToBytesAndBack();0;8;4;6;7;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.convertsFrameDataWithNoCommentToBytesAndBack();2;8;4;6;8;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.convertsFrameDataWithNoDescriptionAndCommentIsUnicodeToBytesAndBack();3;9;5;7;8;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.convertsFrameDataWithNoDescriptionToBytesAndBack();2;8;4;6;8;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.convertsFrameDataWithNoLanguageToBytesAndBack();2;8;4;6;8;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.equalIfCommentIsNullOnBoth();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.equalIfDescriptionIsNullOnBoth();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.equalIfLanguageIsNullOnBoth();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.equalObjectsHaveSameHashCode();2;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.equalsItself();3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.getsAndSetsComment();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.getsAndSetsDescription();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.getsAndSetsLanguage();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.hashCodeIsConsistent();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfCommentIsNullOnOne();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfCommentNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfDescriptionIsNullOnOne();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfDescriptionNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfLanguageIsNullOnOne();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfLanguageNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualIfUnsynchronizationNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualToDifferentClass();3;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.notEqualToNull();3;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.shouldConvertFrameDataToBytesAndBackToEquivalentObject();3;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.shouldConvertFrameDataWithBlankDescriptionAndLanguageToBytesAndBackToEquivalentObject();1;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2CommentFrameDataTest.shouldConvertFrameDataWithUnicodeToBytesAndBackToEquivalentObject();4;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2Frame;;169;60;105;;;;125;59;66;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2Frame.ID3v2Frame(String,byte[]);8;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2Frame.ID3v2Frame(byte[],int);13;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.equals(Object);13;21;2;19;3;4;1;9;2;7;4;4;14;4;3;3;1;3
+Public Method;com.mpatric.mp3agic.ID3v2Frame.getData();21;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.getDataLength();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.getId();9;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.getLength();12;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasCompression();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasDataLengthIndicator();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasEncryption();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasGroup();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasPreserveFile();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasPreserveTag();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hasUnsynchronisation();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.hashCode();11;4;1;2;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.isReadOnly();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2Frame.packDataLength();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v2Frame.packFlags();17;12;2;10;2;1;0;11;2;9;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.packFrame(byte[],int);7;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v2Frame.packHeader(byte[],int);3;8;1;5;5;2;0;5;1;4;2;2;2;1;1;0;1;0
+Protected Method;com.mpatric.mp3agic.ID3v2Frame.sanityCheckUnpackedHeader();2;7;1;3;3;3;0;6;2;4;3;3;6;1;0;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.setData(byte[]);3;5;1;3;2;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.toBytes();4;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2Frame.toBytes(byte[],int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2Frame.unpackDataLength(byte[],int);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v2Frame.unpackFlags(byte[],int);13;10;1;8;9;1;0;9;1;8;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2Frame.unpackFrame(byte[],int);4;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2Frame.unpackHeader(byte[],int);6;6;1;4;5;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2FrameSet;;53;17;30;;;;41;14;27;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2FrameSet.ID3v2FrameSet(String);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.addFrame(ID3v2Frame);4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.clear();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.equals(Object);3;20;2;18;3;13;1;19;2;17;10;10;10;10;13;13;2;13
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.getFrames();16;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.getId();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.hashCode();2;7;3;5;2;1;0;6;3;3;3;3;3;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameSet.toString();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2FrameSetTest;;9;3;4;;;;3;2;1;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2FrameSetTest.shouldCorrectlyImplementHashCodeAndEquals();2;6;1;4;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2FrameTest;;86;40;62;;;;69;34;35;;;;;;;1;
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldCorrectlyImplementHashCodeAndEquals();2;6;1;4;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldCorrectlyUnpackHeader();1;13;3;11;13;1;0;12;3;9;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldPackAndUnpackHeaderToGiveEquivalentObject();1;11;5;8;4;2;0;11;6;5;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldReadValid32CFrame();1;11;5;9;9;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldReadValid32TFrame();1;11;5;9;9;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldReadValid32WFrame();1;11;5;9;9;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2FrameTest.shouldStoreAndRetrieveData();2;11;5;9;7;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2ObseleteFrame;;30;15;12;;;;19;11;8;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.ID3v2ObseleteFrame.ID3v2ObseleteFrame(String,byte[]);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ObseleteFrame.ID3v2ObseleteFrame(byte[],int);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ObseleteFrame.getLength();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ObseleteFrame.packFrame(byte[],int);0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ObseleteFrame.unpackDataLength(byte[],int);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ObseleteFrame.unpackHeader(byte[],int);5;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2ObseleteFrameTest;;28;15;20;;;;23;13;10;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2ObseleteFrameTest.shouldReadValid32ObseleteTFrame();1;11;5;9;9;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ObseleteFrameTest.shouldReadValidLong32ObseleteTFrame();1;11;5;9;9;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2ObseletePictureFrameData;;31;8;17;;;;21;7;14;;;;;;;1;
+Public Constructor;com.mpatric.mp3agic.ID3v2ObseletePictureFrameData.ID3v2ObseletePictureFrameData(boolean);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ObseletePictureFrameData.ID3v2ObseletePictureFrameData(boolean,String,byte,EncodedText,byte[]);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2ObseletePictureFrameData.ID3v2ObseletePictureFrameData(boolean,byte[]);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2ObseletePictureFrameData.unpackFrameData(byte[]);3;19;3;14;10;4;1;14;3;11;3;3;3;1;2;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2ObseletePictureFrameDataTest;;30;17;19;;;;23;14;9;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2ObseletePictureFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ObseletePictureFrameDataTest.shouldReadFrameData();3;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2ObseletePictureFrameDataTest.shouldReadFrameDataWithUnicodeDescription();4;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2PictureFrameData;;142;36;92;;;;110;31;79;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2PictureFrameData.ID3v2PictureFrameData(boolean);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2PictureFrameData.ID3v2PictureFrameData(boolean,String,byte,EncodedText,byte[]);26;7;1;5;6;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2PictureFrameData.ID3v2PictureFrameData(boolean,byte[]);7;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.equals(Object);7;24;2;22;5;19;1;23;2;21;12;12;12;12;15;15;2;15
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.getDescription();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.getImageData();6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2PictureFrameData.getLength();5;8;2;6;3;8;1;10;2;8;4;4;4;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.getMimeType();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.getPictureType();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.hashCode();6;11;3;9;4;1;0;8;3;5;3;3;3;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2PictureFrameData.packFrameData();5;27;5;21;8;24;1;21;5;16;6;6;9;1;3;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.setDescription(EncodedText);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.setImageData(byte[]);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.setMimeType(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameData.setPictureType(byte);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2PictureFrameData.unpackFrameData(byte[]);3;23;3;18;10;6;1;16;3;13;4;4;4;1;3;0;2;0
+Public Class;com.mpatric.mp3agic.ID3v2PictureFrameDataTest;;159;102;85;;;;110;78;32;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.equalIfDescriptionIsNullOnBoth();2;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.equalIfImageDataIsNullOnBoth();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.equalIfMimeTypeIsNullOnBoth();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.equalObjectsHaveSameHashCode();3;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.equalsItself();3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.getsAndSetsDescription();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.getsAndSetsImageData();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.getsAndSetsMimeType();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.getsAndSetsPictureType();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.hashCodeIsConsistent();3;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfDescriptionIsNullOnOne();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfDescriptionNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfImageDataNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfImageDataNullOnOne();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfMimeTypeIsNullOnOne();3;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfMimeTypeNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfPictureTypeNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualIfUnsynchronizationNotEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualToDifferentClass();3;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.notEqualToNull();3;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();3;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.shouldConvertFrameDataToBytesAndBackToEquivalentObject();3;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.shouldConvertFrameDataWithUnicodeDescriptionToBytesAndBackToEquivalentObject();4;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PictureFrameDataTest.shouldUnsynchroniseAndSynchroniseDataWhenPackingAndUnpacking();2;8;5;6;4;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2PopmFrameData;;86;29;52;;;;63;23;40;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2PopmFrameData.ID3v2PopmFrameData(boolean,byte[]);12;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2PopmFrameData.ID3v2PopmFrameData(boolean,int);14;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameData.equals(Object);8;17;2;15;4;9;1;16;2;14;8;8;8;8;9;9;2;9
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameData.getAddress();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2PopmFrameData.getLength();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameData.getRating();9;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameData.hashCode();3;7;3;5;3;1;0;6;3;3;2;2;2;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2PopmFrameData.packFrameData();5;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameData.setAddress(String);5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameData.setRating(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2PopmFrameData.unpackFrameData(byte[]);3;13;2;9;5;4;1;8;2;6;3;3;3;1;2;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2PopmFrameDataTest;;125;76;65;;;;86;58;28;;;;;;;1;
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.ID3v2PopmFrameDataIsNotEqualNull();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.ID3v2PopmFrameDataIsNotEqualOtherType();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.ID3v2PopmFrameDataIsNotEqualOtherWithDifferentAddress();0;7;3;5;4;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.ID3v2PopmFrameDataIsNotEqualOtherWithDifferentRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.ID3v2PopmFrameDataIsNotEqualOtherWithNullAddress();0;7;3;5;4;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.canGetLength();0;6;3;4;5;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.canPackFrameData();1;10;5;7;3;2;0;9;6;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.canSetAndGetAddress();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.canSetAndGetRating();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.hashCodeOfTwoDifferentObjectsAreDifferent();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.sameObjectsAreEquals();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturn1StarRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturn2StarRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturn3StarRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturn4StarRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturn5StarRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturnAddress();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.shouldReturnMinus1ForInvalidRating();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2PopmFrameDataTest.twoEquivalentObjectsAreEquals();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2TagFactory;;36;9;22;;;;24;9;15;;;;;;;1;
+Private Constructor;com.mpatric.mp3agic.ID3v2TagFactory.ID3v2TagFactory();0;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Private Static Method;com.mpatric.mp3agic.ID3v2TagFactory.createID3v22Tag(byte[]);2;7;2;4;5;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Static Method;com.mpatric.mp3agic.ID3v2TagFactory.createTag(byte[]);21;13;2;10;6;4;1;8;2;6;4;2;4;1;6;0;1;0
+Public Static Method;com.mpatric.mp3agic.ID3v2TagFactory.sanityCheckTag(byte[]);9;13;3;8;6;8;1;9;3;6;4;4;6;1;0;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2TagTest;;529;209;385;;;;430;171;259;;;;;;;1;
+Class;com.mpatric.mp3agic.ID3v2TagTest.ID3v22TagForTesting;;9;4;2;;;;5;3;2;;;;;;;0;
+Constructor;com.mpatric.mp3agic.ID3v2TagTest.ID3v22TagForTesting.ID3v22TagForTesting(byte[]);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2TagTest.ID3v22TagForTesting.unpackFrames(byte[],int,int);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;com.mpatric.mp3agic.ID3v2TagTest.ID3v23TagForTesting;;12;5;3;;;;7;4;3;;;;;;;0;
+Constructor;com.mpatric.mp3agic.ID3v2TagTest.ID3v23TagForTesting.ID3v23TagForTesting();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;com.mpatric.mp3agic.ID3v2TagTest.ID3v23TagForTesting.ID3v23TagForTesting(byte[]);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2TagTest.ID3v23TagForTesting.unpackFrames(byte[],int,int);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;com.mpatric.mp3agic.ID3v2TagTest.ID3v24TagForTesting;;9;4;2;;;;5;3;2;;;;;;;0;
+Constructor;com.mpatric.mp3agic.ID3v2TagTest.ID3v24TagForTesting.ID3v24TagForTesting(byte[]);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2TagTest.ID3v24TagForTesting.unpackFrames(byte[],int,int);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;com.mpatric.mp3agic.ID3v2TagTest.ID3v2TagFactoryForTesting;;15;4;10;;;;9;4;5;;;;;;;1;
+Method;com.mpatric.mp3agic.ID3v2TagTest.ID3v2TagFactoryForTesting.createTag(byte[]);3;12;2;9;5;4;1;7;2;5;4;2;4;1;6;0;1;0
+Private Method;com.mpatric.mp3agic.ID3v2TagTest.createTag(byte[]);3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.ID3v2TagTest.setTagFields(ID3v2);13;24;2;22;22;1;0;23;2;21;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldCalculateCorrectDataLengthsFromHeaderBlock();2;9;3;7;4;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldConvert23TagToBytesAndBackToEquivalentTag();1;8;4;6;5;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldConvert24TagWithFooterToBytesAndBackToEquivalentTag();1;9;4;7;6;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldConvert24TagWithPaddingToBytesAndBackToEquivalentTag();2;9;4;7;6;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldExtractChapterTOCAndChapterFramesFromMp3();0;42;16;40;17;1;0;41;16;25;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldExtractChapterTOCFramesFromMp3();0;12;7;10;10;1;0;11;7;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldExtractGenreDescriptionFromCombinedGenreStringsCorrectly();0;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldExtractGenreNumberFromCombinedGenreStringsCorrectly();0;11;2;8;4;2;0;8;2;6;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldGetCommentAndItunesComment();0;6;3;4;5;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldIgnoreInvalidWmpRatingOnWrite();0;8;4;6;5;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldInitialiseFromHeaderBlockWithValidHeaders();2;14;3;11;4;1;0;13;3;10;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldNotUsePaddingOnA24TagIfItHasAFooter();1;8;3;6;6;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadBPM();0;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadCombinedGenreInTag();0;8;4;6;7;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadFloatingPointBPM();0;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadFloatingPointBPMWithCommaDelimiter();0;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadFramesFromMp3With32Tag();0;19;3;17;9;1;0;18;3;15;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadFramesFromMp3WithObselete32Tag();0;17;3;15;9;1;0;16;3;13;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadId3v2WithFooter();0;6;3;4;5;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadTagFieldsFromMp3With24tag();1;28;3;26;27;1;0;27;3;24;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadTagFieldsFromMp3With32tag();1;20;3;18;19;1;0;19;3;16;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadTagFieldsFromMp3With32tagResavedByMp3tagWithUTF16Encoding();1;19;3;17;18;1;0;18;3;15;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadTagFieldsFromMp3WithObselete32tag();0;14;3;12;13;1;0;13;3;10;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadTagFieldsWithUnicodeDataFromMp3();0;8;3;6;7;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldReadWmpRating();0;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldRemoveAlbumImageFrame();1;7;3;5;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldSetCombinedGenreOnTag();1;11;8;9;8;1;0;10;8;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldSetTagFieldsWithUnicodeDataAndSpecifiedEncodingCorrectly();1;14;3;12;12;1;0;13;3;10;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldSortId3TagsAlphabetically();0;12;7;9;10;2;0;10;7;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldThrowExceptionForNonSupportedVersionInId3v2HeaderBlock();2;10;2;7;3;2;0;7;2;5;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.shouldWriteWmpRating();0;9;4;7;5;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.testSetGenreDescriptionOn23Tag();1;14;8;12;11;1;0;13;8;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.testSetGenreDescriptionOn23TagWithUnknownGenre();0;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.testSetGenreDescriptionOn24Tag();1;14;8;12;11;1;0;13;8;5;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TagTest.testSetGenreDescriptionOn24TagWithUnknownGenre();1;14;8;12;11;1;0;13;8;5;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2TextFrameData;;65;23;35;;;;48;18;30;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2TextFrameData.ID3v2TextFrameData(boolean);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2TextFrameData.ID3v2TextFrameData(boolean,EncodedText);40;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2TextFrameData.ID3v2TextFrameData(boolean,byte[]);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameData.equals(Object);4;15;2;13;4;7;1;14;2;12;7;7;7;7;8;8;2;8
+Protected Method;com.mpatric.mp3agic.ID3v2TextFrameData.getLength();3;5;2;3;2;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameData.getText();24;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameData.hashCode();3;6;3;4;3;1;0;5;3;2;2;2;2;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2TextFrameData.packFrameData();2;11;3;7;5;3;0;8;3;5;3;3;3;1;0;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameData.setText(EncodedText);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2TextFrameData.unpackFrameData(byte[]);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2TextFrameDataTest;;85;55;44;;;;58;42;16;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.equalIfTextIsNullOnBoth();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.equalObjectsHaveSameHashCode();2;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.equalsItself();2;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.getsAndSetsDescription();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.hashCodeIsConsistent();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.notEqualIfTextIsNullOnOne();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.notEqualIfTextNotEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.notEqualIfUnsynchronizationNotEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.notEqualToDifferentClass();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.notEqualToNull();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.shouldConvertFrameDataToBytesAndBackToEquivalentObject();2;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2TextFrameDataTest.shouldConvertFrameDataWithUnicodeToBytesAndBackToEquivalentObject();2;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2UrlFrameData;;102;28;64;;;;78;23;55;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2UrlFrameData.ID3v2UrlFrameData(boolean);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2UrlFrameData.ID3v2UrlFrameData(boolean,EncodedText,String);20;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2UrlFrameData.ID3v2UrlFrameData(boolean,byte[]);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameData.equals(Object);5;20;2;18;5;13;1;19;2;17;10;10;10;10;13;13;2;13
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameData.getDescription();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2UrlFrameData.getLength();4;7;2;5;3;4;1;8;2;6;3;3;3;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameData.getUrl();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameData.hashCode();4;7;3;5;4;1;0;6;3;3;3;3;3;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2UrlFrameData.packFrameData();3;20;4;15;7;12;1;15;4;11;5;5;6;1;3;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameData.setDescription(EncodedText);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameData.setUrl(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2UrlFrameData.unpackFrameData(byte[]);3;15;2;11;7;4;1;10;2;8;3;3;3;1;2;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2UrlFrameDataTest;;119;77;63;;;;82;59;23;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.equalIfDescriptionIsNullOnBoth();1;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.equalIfUrlIsNullOnBoth();1;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.equalObjectsHaveSameHashCode();2;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.equalsItself();2;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.getsAndSetsDescription();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.getsAndSetsUrl();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.hashCodeIsConsistent();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualIfDescriptionIsNullOnOne();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualIfDescriptionNotEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualIfIdUrlNullOnOne();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualIfUnsynchronizationNotEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualIfUrlNotEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualToDifferentClass();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.notEqualToNull();2;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.shouldConsiderTwoEquivalentObjectsEqual();2;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.shouldConvertFrameDataToBytesAndBackToEquivalentObject();2;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.shouldConvertFrameDataWithNoDescriptionToBytesAndBackToEquivalentObject();1;8;5;6;5;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.ID3v2UrlFrameDataTest.shouldConvertFrameDataWithUnicodeDescriptionToBytesAndBackToEquivalentObject();3;8;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.ID3v2WWWFrameData;;45;15;20;;;;29;12;17;;;;;;;2;
+Public Constructor;com.mpatric.mp3agic.ID3v2WWWFrameData.ID3v2WWWFrameData(boolean);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2WWWFrameData.ID3v2WWWFrameData(boolean,String);10;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.ID3v2WWWFrameData.ID3v2WWWFrameData(boolean,byte[]);3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2WWWFrameData.getLength();2;5;2;3;2;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.ID3v2WWWFrameData.getUrl();10;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2WWWFrameData.packFrameData();1;10;2;6;4;3;0;6;2;4;3;3;4;1;1;0;2;0
+Public Method;com.mpatric.mp3agic.ID3v2WWWFrameData.setUrl(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;com.mpatric.mp3agic.ID3v2WWWFrameData.unpackFrameData(byte[]);2;7;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Class;com.mpatric.mp3agic.ID3v2WWWFrameDataTest;;8;4;3;;;;5;3;2;;;;;;;0;
+Public Method;com.mpatric.mp3agic.ID3v2WWWFrameDataTest.getsAndSetsId();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.InvalidDataException;;12;5;4;;;;8;5;3;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.InvalidDataException.InvalidDataException();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.InvalidDataException.InvalidDataException(String);16;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.InvalidDataException.InvalidDataException(String,Throwable);7;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.InvalidDataExceptionTest;;21;11;10;;;;14;8;6;;;;;;;0;
+Public Method;com.mpatric.mp3agic.InvalidDataExceptionTest.constructorWithMessage();0;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.InvalidDataExceptionTest.constructorWithMessageAndCause();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.InvalidDataExceptionTest.defaultConstructor();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.Mp3File;;418;111;254;;;;327;111;216;;;;;;;6;
+Protected Constructor;com.mpatric.mp3agic.Mp3File.Mp3File();0;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(File);8;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(File,int);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(File,int,boolean);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(Path);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(Path,int);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(Path,int,boolean);5;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(String);12;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(String,boolean);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(String,int);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3File.Mp3File(String,int,boolean);7;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3File.addBitrate(int);6;9;2;6;5;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.Mp3File.getBitrate();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getBitrates();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getChannelMode();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getCustomTag();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getEmphasis();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getEndOffset();6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getFrameCount();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getId3v1Tag();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getId3v2Tag();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getLayer();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getLengthInMilliseconds();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getLengthInSeconds();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getModeExtension();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getSampleRate();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getStartOffset();6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getVersion();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getXingBitrate();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.getXingOffset();6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.hasCustomTag();10;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.hasId3v1Tag();14;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.hasId3v2Tag();12;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.hasXingFrame();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3File.init(int,boolean);8;16;1;11;8;8;1;13;1;12;4;4;4;1;0;0;2;0
+Private Method;com.mpatric.mp3agic.Mp3File.initCustomTag(SeekableByteChannel);4;14;4;11;8;6;1;13;4;9;4;4;4;1;1;0;2;0
+Private Method;com.mpatric.mp3agic.Mp3File.initId3v1Tag(SeekableByteChannel);3;12;3;9;8;4;1;10;3;7;3;3;3;1;1;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3File.initId3v2Tag(SeekableByteChannel);4;19;4;14;8;9;1;16;4;12;5;5;6;1;3;0;2;0
+Public Method;com.mpatric.mp3agic.Mp3File.isCopyright();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.isOriginal();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.isVbr();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3File.isXingFrame(byte[],int);7;21;1;16;3;10;1;17;1;16;10;10;10;10;18;18;4;18
+Private Method;com.mpatric.mp3agic.Mp3File.maxEndOffset();2;5;2;3;3;2;0;5;2;3;2;2;2;1;0;0;1;0
+Protected Method;com.mpatric.mp3agic.Mp3File.preScanFile(SeekableByteChannel);6;18;4;13;8;4;1;12;4;8;4;4;4;4;4;4;3;4
+Public Method;com.mpatric.mp3agic.Mp3File.removeCustomTag();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.removeId3v1Tag();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.removeId3v2Tag();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3File.sanityCheckFrame(MpegFrame,int);6;7;1;5;7;16;1;9;1;8;5;5;5;1;0;0;1;0
+Public Method;com.mpatric.mp3agic.Mp3File.save(String);12;24;4;17;14;16;1;18;4;14;5;5;5;1;0;0;2;0
+Private Method;com.mpatric.mp3agic.Mp3File.saveMpegFrames(SeekableByteChannel);7;24;4;19;8;10;1;22;4;18;6;6;6;5;5;4;3;3
+Private Method;com.mpatric.mp3agic.Mp3File.scanBlock(byte[],int,int,int);6;16;3;12;9;3;0;12;3;9;3;3;3;3;3;2;2;1
+Private Method;com.mpatric.mp3agic.Mp3File.scanBlockForStart(byte[],int,int,int);7;33;2;27;26;5;1;25;2;23;5;5;7;5;8;8;4;8
+Private Method;com.mpatric.mp3agic.Mp3File.scanFile(SeekableByteChannel);9;45;8;36;12;17;1;37;8;29;10;10;11;8;13;13;6;13
+Public Method;com.mpatric.mp3agic.Mp3File.setCustomTag(byte[]);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.setId3v1Tag(ID3v1);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3File.setId3v2Tag(ID3v2);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.Mp3FileTest;;411;136;260;;;;310;111;199;;;;;;;1;
+Private Class;com.mpatric.mp3agic.Mp3FileTest.Mp3FileForTesting;;11;6;4;;;;8;6;2;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.Mp3FileTest.Mp3FileForTesting.Mp3FileForTesting(File);3;4;2;2;5;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.Mp3FileTest.Mp3FileForTesting.Mp3FileForTesting(String);3;4;2;2;5;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.copyAndCheckTestMp3WithCustomTag(File,int);3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.copyAndCheckTestMp3WithCustomTag(Mp3File);3;13;3;10;10;1;0;10;3;7;1;1;1;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.copyAndCheckTestMp3WithCustomTag(String,int);3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.copyAndCheckTestMp3WithUnicodeFields(File,int);3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.copyAndCheckTestMp3WithUnicodeFields(Mp3File);3;11;3;8;7;1;0;8;3;5;1;1;1;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.copyAndCheckTestMp3WithUnicodeFields(String,int);3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3(File,int);6;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3(Mp3File);7;20;1;18;19;1;0;19;1;18;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3(String,int);6;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithCustomTag(File,int);4;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithCustomTag(Mp3File);3;9;1;7;9;1;0;8;1;7;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithCustomTag(String,int);5;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithNoTags(File,int);3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithNoTags(Mp3File);3;9;1;7;9;1;0;8;1;7;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithNoTags(String,int);3;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithTags(File,int);4;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithTags(Mp3File);3;9;1;7;10;1;0;8;1;7;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithTags(String,int);4;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithUnicodeFields(File,int);4;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithUnicodeFields(Mp3File);3;9;1;7;10;1;0;8;1;7;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.loadAndCheckTestMp3WithUnicodeFields(String,int);5;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldFindProbableStartOfMpegFramesWithPrescan();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldFindProbableStartOfMpegFramesWithPrescanForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldIgnoreIncompleteMpegFrame();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldIgnoreIncompleteMpegFrameForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldInitialiseProperlyWhenNotScanningFile();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldInitialiseProperlyWhenNotScanningFileForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldLoadAndCheckMp3ContainingUnicodeFields();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldLoadMp3WithCustomTag();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldLoadMp3WithFakeStartAndEndFrames();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldLoadMp3WithId3Tags();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldLoadMp3WithNoTags();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveCustomTag();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveCustomTagForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveId3v1AndId3v2AndCustomTags();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveId3v1AndId3v2AndCustomTagsForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveId3v1Tag();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveId3v1TagForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveId3v2Tag();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldRemoveId3v2TagForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldSaveLoadedMp3WhichIsEquivalentToOriginal();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldSaveLoadedMp3WithUnicodeFieldsWhichIsEquivalentToOriginal();1;10;1;8;2;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldThrowExceptionForFileThatIsNotAnMp3();2;8;1;5;4;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldThrowExceptionForFileThatIsNotAnMp3ForFileConstructor();2;8;1;5;4;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldThrowExceptionIfSavingMp3WithSameNameAsSourceFile();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.Mp3FileTest.shouldThrowExceptionIfSavingMp3WithSameNameAsSourceFileForFileConstructor();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldFindProbableStartOfMpegFramesWithPrescan(Mp3FileForTesting);4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldIgnoreIncompleteMpegFrame(Mp3File);3;8;1;6;8;1;0;7;1;6;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldInitialiseProperlyWhenNotScanningFile(Mp3File);3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldRemoveCustomTag(Mp3File);3;13;3;10;10;1;0;10;3;7;1;1;1;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldRemoveId3v1AndId3v2AndCustomTags(Mp3File);3;15;3;12;11;1;0;12;3;9;1;1;1;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldRemoveId3v1Tag(Mp3File);3;13;3;10;10;1;0;10;3;7;1;1;1;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldRemoveId3v2Tag(Mp3File);3;13;3;10;10;1;0;10;3;7;1;1;1;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.Mp3FileTest.testShouldThrowExceptionIfSavingMp3WithSameNameAsSourceFile(Mp3File);5;10;1;7;6;2;0;7;1;6;2;2;2;1;1;0;1;0
+Public Class;com.mpatric.mp3agic.MpegFrame;;526;87;427;;;;371;88;283;;;;;;;3;
+Protected Constructor;com.mpatric.mp3agic.MpegFrame.MpegFrame();1;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.MpegFrame.MpegFrame(byte,byte,byte,byte);6;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.MpegFrame.MpegFrame(byte[]);4;5;2;3;4;2;0;5;2;3;2;2;2;1;0;0;1;0
+Protected Method;com.mpatric.mp3agic.MpegFrame.extractField(long,long);4;10;2;6;1;3;0;9;3;6;3;3;3;3;2;2;2;2
+Public Method;com.mpatric.mp3agic.MpegFrame.getBitrate();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getChannelMode();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getEmphasis();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getLayer();6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getLengthInBytes();9;12;3;7;1;4;1;10;3;7;3;3;3;1;2;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getModeExtension();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getSampleRate();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.getVersion();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.hasPadding();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.isCopyright();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.isOriginal();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.isPrivate();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrame.isProtection();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setBitRate(int);7;233;1;223;3;78;2;154;1;153;78;13;80;78;753;753;3;753
+Private Method;com.mpatric.mp3agic.MpegFrame.setChannelMode(int);6;18;1;15;2;5;1;11;1;10;5;2;5;1;10;0;1;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setCopyright(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setEmphasis(int);5;15;1;12;2;4;1;9;1;8;4;2;4;1;6;0;1;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setFields(long);17;16;2;14;14;2;0;16;2;14;2;2;2;1;0;0;1;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setLayer(int);2;15;1;12;2;4;1;9;1;8;4;2;4;1;6;0;1;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setModeExtension(int);14;38;1;32;3;12;1;24;1;23;12;6;13;12;42;42;3;42
+Private Method;com.mpatric.mp3agic.MpegFrame.setOriginal(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setPadding(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setPrivate(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setProtection(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;com.mpatric.mp3agic.MpegFrame.setSampleRate(int);6;40;1;34;3;13;1;26;1;25;13;7;13;13;38;38;2;38
+Private Method;com.mpatric.mp3agic.MpegFrame.setVersion(int);5;15;1;12;2;4;1;9;1;8;4;2;4;1;6;0;1;0
+Public Class;com.mpatric.mp3agic.MpegFrameTest;;159;64;109;;;;119;52;67;;;;;;;1;
+Class;com.mpatric.mp3agic.MpegFrameTest.MpegFrameForTesting;;8;3;2;;;;5;3;2;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.MpegFrameTest.MpegFrameForTesting.MpegFrameForTesting();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.MpegFrameTest.MpegFrameForTesting.MpegFrameForTesting(byte[]);9;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldExtractValidFields();0;7;2;5;3;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldExtractValidMpegVersion1Header();7;17;3;15;15;1;0;16;3;13;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldProcessValidMpegVersion2Header();7;17;3;15;15;1;0;16;3;13;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldThrowExceptionForFreeBitrate();5;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldThrowExceptionForInvalidBitrate();5;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldThrowExceptionForInvalidFrameSync();5;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldThrowExceptionForInvalidMpegLayer();5;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldThrowExceptionForInvalidMpegVersion();5;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.shouldThrowExceptionForInvalidSampleRate();5;9;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.testBitwiseLeftShiftOperationsOnLong();0;9;5;7;1;1;0;8;5;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.testBitwiseRightShiftOperationsOnLong();0;9;5;7;1;1;0;8;5;3;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MpegFrameTest.testShiftingByteIntoBiggerNumber();0;13;7;11;1;1;0;12;7;5;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.MutableInteger;;35;13;18;;;;26;11;15;;;;;;;1;
+Public Constructor;com.mpatric.mp3agic.MutableInteger.MutableInteger(int);12;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableInteger.equals(Object);4;12;2;10;2;5;1;11;2;9;5;5;5;5;4;4;1;4
+Public Method;com.mpatric.mp3agic.MutableInteger.getValue();4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableInteger.hashCode();3;6;3;4;1;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableInteger.increment();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableInteger.setValue(int);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.MutableIntegerTest;;57;34;25;;;;36;24;12;;;;;;;0;
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.equalIfValueEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.equalObjectsHaveSameHashCode();0;5;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.equalsItself();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.hashCodeIsConsistent();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.incrementsValue();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.initializesValue();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.notEqualIfValueNotEqual();0;5;3;3;2;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.notEqualToDifferentClass();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.notEqualToNull();0;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.MutableIntegerTest.setsValue();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.NoSuchTagException;;12;5;4;;;;8;5;3;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.NoSuchTagException.NoSuchTagException();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.NoSuchTagException.NoSuchTagException(String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.NoSuchTagException.NoSuchTagException(String,Throwable);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.NotSupportedException;;12;5;4;;;;8;5;3;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.NotSupportedException.NotSupportedException();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.NotSupportedException.NotSupportedException(String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.NotSupportedException.NotSupportedException(String,Throwable);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.NotSupportedExceptionTest;;21;11;10;;;;14;8;6;;;;;;;0;
+Public Method;com.mpatric.mp3agic.NotSupportedExceptionTest.constructorWithMessage();0;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.NotSupportedExceptionTest.constructorWithMessageAndCause();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.NotSupportedExceptionTest.defaultConstructor();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.TestHelper;;52;18;29;;;;47;21;26;;;;;;;2;
+Public Static Method;com.mpatric.mp3agic.TestHelper.bytesToHexString(byte[]);8;10;3;7;5;5;1;12;4;8;4;4;4;1;0;0;2;0
+Public Static Method;com.mpatric.mp3agic.TestHelper.deleteFile(String);7;4;2;2;1;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.TestHelper.hexStringToBytes(String);9;8;3;5;4;2;0;8;4;4;2;2;2;1;0;0;1;0
+Public Static Method;com.mpatric.mp3agic.TestHelper.loadFile(String);22;7;3;5;4;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.TestHelper.replaceNumbersWithBytes(byte[],int);10;7;1;3;1;3;0;6;2;4;3;3;4;1;0;0;2;0
+Public Static Method;com.mpatric.mp3agic.TestHelper.replaceSpacesWithNulls(byte[]);5;7;1;3;1;3;0;6;2;4;3;3;3;1;0;0;2;0
+Public Method;com.mpatric.mp3agic.TestHelper.shouldConvertBytesToHexAndBack();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.UnsupportedTagException;;12;5;4;;;;8;5;3;;;;;;;0;
+Public Constructor;com.mpatric.mp3agic.UnsupportedTagException.UnsupportedTagException();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.UnsupportedTagException.UnsupportedTagException(String);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;com.mpatric.mp3agic.UnsupportedTagException.UnsupportedTagException(String,Throwable);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.UnsupportedTagExceptionTest;;21;11;10;;;;14;8;6;;;;;;;0;
+Public Method;com.mpatric.mp3agic.UnsupportedTagExceptionTest.constructorWithMessage();0;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.UnsupportedTagExceptionTest.constructorWithMessageAndCause();0;6;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.UnsupportedTagExceptionTest.defaultConstructor();0;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.Version;;18;9;6;;;;12;8;4;;;;;;;0;
+Private Constructor;com.mpatric.mp3agic.Version.Version();0;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.Version.asString();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.Version.getUrl();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;com.mpatric.mp3agic.Version.getVersion();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;com.mpatric.mp3agic.VersionTest;;14;7;3;;;;7;4;3;;;;;;;0;
+Public Method;com.mpatric.mp3agic.VersionTest.returnsUrl();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.VersionTest.returnsVersion();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;com.mpatric.mp3agic.VersionTest.returnsVersionAndUrlAsString();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+File;compiler.xml;;16;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;encodings.xml;;6;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;misc.xml;;11;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;modules.xml;;8;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;pom.xml;;128;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;vcs.xml;;6;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;workspace.xml;;11;;;;0;0;0;0;0;0;0;0;0;;;0;

@@ -1,0 +1,2 @@
+org.apache.commons.lang3.ObjectUtilsTest.testHashCodeMulti_multiple_emptyArray()
+[8,2,3,4,7,9]

@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.EncodedTextTest.shouldHandleBacktickCharacterInString()
+[11,3,7,8,9,12]

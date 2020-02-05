@@ -1,0 +1,2 @@
+org.apache.commons.cli.CommandLineTest.testNullhOption()
+[8,2,3,9]

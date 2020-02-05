@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsNullIfBothTagsDoNotExist()
+[7,2,4,6,8]

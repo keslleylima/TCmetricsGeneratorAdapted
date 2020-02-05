@@ -1,0 +1,4 @@
+joptsimple.AvailableIfUnlessTest.configureParser()
+[6,2,3,4,3,5,7]
+[6,2,3,4,3,5,7]
+[6,2,3,4,3,5,7]

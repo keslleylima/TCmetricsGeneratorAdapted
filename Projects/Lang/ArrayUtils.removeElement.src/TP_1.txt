@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveElementBooleanArray()
+[6,2,3,4,7]
+[6,2,3,4,7]
+[6,2,3,5,7]
+[6,2,3,5,7]
+[6,2,3,5,7]

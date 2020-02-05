@@ -1,0 +1,5 @@
+org.apache.commons.math4.stat.regression.SimpleRegressionTest.testRegressIfaceMethod()
+[7,2,4,6,8]
+[7,2,4,6,8]
+[7,2,4,6,8]
+[7,2,4,6,8]

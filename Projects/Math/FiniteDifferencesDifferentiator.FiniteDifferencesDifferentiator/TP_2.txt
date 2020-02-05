@@ -1,0 +1,3 @@
+org.apache.commons.math4.analysis.differentiation.FiniteDifferencesDifferentiatorTest.testBounds()
+[16,3,5,6,8,9,10,12,13,14,17]
+[16,3,5,6,8,9,10,12,13,14,17]

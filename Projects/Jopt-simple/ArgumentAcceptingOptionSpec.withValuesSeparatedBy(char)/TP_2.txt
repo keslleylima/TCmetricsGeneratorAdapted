@@ -1,0 +1,2 @@
+joptsimple.ArgumentAcceptingOptionSpecTest.rejectsUnicodeZeroAsCharValueSeparatorForOptionalArgument()
+[6,2,3,7]

@@ -1,0 +1,2 @@
+net.objecthunter.exp4j.FunctionsTest.testFunctionNameNegativeArgs()
+[11,3,4,12]

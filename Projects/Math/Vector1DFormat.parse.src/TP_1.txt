@@ -1,0 +1,3 @@
+org.apache.commons.math4.geometry.euclidean.oned.Vector1DFormatAbstractTest.testParseSimpleNoDecimals()
+[9,2,3,4,8,10]
+[9,2,3,4,8,10]

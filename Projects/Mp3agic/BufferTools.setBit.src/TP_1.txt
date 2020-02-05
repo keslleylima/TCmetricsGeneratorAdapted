@@ -1,0 +1,7 @@
+com.mpatric.mp3agic.BufferToolsTest.shouldSetBitsInBytesCorrectly()
+[7,2,3,6,8]
+[7,2,3,6,8]
+[7,2,3,6,8]
+[7,2,5,6,8]
+[7,2,5,6,8]
+[7,2,5,6,8]

@@ -1,0 +1,3 @@
+org.apache.commons.math4.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting()
+[10,2,3,4,11]
+[10,2,3,4,11]

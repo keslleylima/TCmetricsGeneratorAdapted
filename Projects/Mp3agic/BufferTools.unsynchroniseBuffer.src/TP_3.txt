@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.BufferToolsTest.shouldReturnOriginalBufferIfNoUnynchronisationOrSynchronisationIsRequired()
+[14,2,3,16,15]

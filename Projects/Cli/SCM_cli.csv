@@ -1,0 +1,752 @@
+Kind;Name;CountInput;CountLineCode;CountLineCodeDecl;CountLineCodeExe;CountOutput;CountPath;CountPathLog;CountStmt;CountStmtDecl;CountStmtExe;Cyclomatic;CyclomaticModified;CyclomaticStrict;Essential;Knots;MaxEssentialKnots;MaxNesting;MinEssentialKnots
+File;AlreadySelectedException.java;;26;9;8;;;;15;9;6;;;;;;;0;
+File;AmbiguousOptionException.java;;36;11;16;;;;24;11;13;;;;;;;2;
+File;ApplicationTest.java;;257;57;229;;;;99;42;57;;;;;;;0;
+File;ArgumentIsOptionTest.java;;56;26;28;;;;31;18;13;;;;;;;0;
+File;BasicParser.java;;12;7;1;;;;4;3;1;;;;;;;0;
+File;BasicParserTest.java;;110;56;2;;;;32;30;2;;;;;;;0;
+File;BugCLI133Test.java;;21;16;6;;;;16;14;2;;;;;;;0;
+File;BugCLI13Test.java;;34;21;14;;;;21;16;5;;;;;;;0;
+File;BugCLI148Test.java;;37;24;11;;;;25;20;5;;;;;;;0;
+File;BugCLI162Test.java;;289;81;255;;;;120;71;49;;;;;;;0;
+File;BugCLI18Test.java;;21;13;7;;;;16;12;4;;;;;;;0;
+File;BugCLI252Test.java;;23;14;6;;;;17;12;5;;;;;;;0;
+File;BugCLI265Test.java;;50;33;22;;;;41;29;12;;;;;;;0;
+File;BugCLI266Test.java;;92;38;65;;;;56;34;22;;;;;;;1;
+File;BugCLI71Test.java;;62;34;29;;;;47;28;19;;;;;;;1;
+File;BugsTest.java;;273;120;179;;;;198;102;96;;;;;;;2;
+Class Function;Class;;6;;;;1;0;5;1;4;1;1;1;1;;;0;
+File;CommandLine.java;;219;56;78;;;;121;59;62;;;;;;;3;
+File;CommandLineParser.java;;6;4;0;;;;4;4;0;;;;;;;0;
+File;CommandLineTest.java;;115;56;76;;;;91;46;45;;;;;;;0;
+File;DefaultParser.java;;432;74;202;;;;233;77;156;;;;;;;4;
+File;DefaultParserTest.java;;9;5;2;;;;6;4;2;;;;;;;0;
+File;DisablePartialMatchingTest.java;;33;15;18;;;;25;13;12;;;;;;;0;
+File;GnuParser.java;;64;11;29;;;;35;10;25;;;;;;;4;
+File;GnuParserTest.java;;98;50;2;;;;29;27;2;;;;;;;0;
+File;HelpFormatter.java;;462;121;199;;;;256;110;146;;;;;;;3;
+File;HelpFormatterTest.java;;474;182;351;;;;302;145;157;;;;;;;1;
+Class Function;Interface;;26;;;;1;0;25;4;21;1;1;1;1;;;0;
+File;Maven__junit_junit_4_12.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_hamcrest_hamcrest_core_1_3.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;MissingArgumentException.java;;19;7;5;;;;11;7;4;;;;;;;0;
+File;MissingOptionException.java;;37;12;14;;;;23;12;11;;;;;;;2;
+File;Option.java;;404;105;145;;;;227;98;129;;;;;;;3;
+File;OptionBuilder.java;;148;36;63;;;;92;33;59;;;;;;;1;
+File;OptionBuilderTest.java;;146;38;88;;;;78;23;55;;;;;;;1;
+File;OptionGroup.java;;86;23;34;;;;49;22;27;;;;;;;2;
+File;OptionGroupTest.java;;198;73;120;;;;141;58;83;;;;;;;1;
+File;OptionTest.java;;174;51;99;;;;111;37;74;;;;;;;0;
+File;OptionValidator.java;;38;6;13;;;;17;7;10;;;;;;;3;
+File;Options.java;;143;37;61;;;;90;38;52;;;;;;;2;
+File;OptionsTest.java;;140;51;80;;;;97;40;57;;;;;;;1;
+Function;PackageSymbol;;41;;;;1;0;40;2;38;1;1;1;1;;;0;
+File;ParseException.java;;9;4;2;;;;5;4;1;;;;;;;0;
+File;Parser.java;;221;41;96;;;;116;41;75;;;;;;;5;
+File;ParserTestCase.java;;855;292;528;;;;558;223;335;;;;;;;1;
+File;PatternOptionBuilder.java;;100;27;69;;;;53;26;27;;;;;;;3;
+File;PatternOptionBuilderTest.java;;146;65;83;;;;105;54;51;;;;;;;1;
+File;PosixParser.java;;141;26;64;;;;77;25;52;;;;;;;4;
+File;PosixParserTest.java;;50;26;2;;;;17;15;2;;;;;;;0;
+Function;Type;;171;;;;1;0;152;15;137;1;1;1;1;;;0;
+File;TypeHandler.java;;139;20;50;;;;62;19;43;;;;;;;2;
+File;TypeHandlerTest.java;;126;69;23;;;;52;35;17;;;;;;;0;
+File;UnrecognizedOptionException.java;;19;7;5;;;;11;7;4;;;;;;;0;
+File;Util.java;;29;5;11;;;;15;5;10;;;;;;;1;
+File;UtilTest.java;;24;9;9;;;;16;7;9;;;;;;;0;
+File;ValueTest.java;;264;114;150;;;;178;85;93;;;;;;;0;
+File;ValuesTest.java;;104;30;60;;;;63;20;43;;;;;;;0;
+File;bin.xml;;30;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;changes.xml;;265;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;checkstyle-suppressions.xml;;10;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;checkstyle.xml;;99;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;compiler.xml;;16;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;diagrams-cli2.js;;228;;;;1;0;228;31;197;1;1;1;1;;;0;
+File;diagrams.css;;0;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;diagrams.js;;252;;;;1;0;230;28;202;1;1;1;1;;;2;
+File;download_cli.xml;;91;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;encodings.xml;;6;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;findbugs-exclude-filter.xml;;9;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;index.xml;;89;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;introduction.xml;;81;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;issue-tracking.xml;;54;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;mail-lists.xml;;147;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;misc.xml;;11;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;modules.xml;;8;;;;0;0;0;0;0;0;0;0;0;;;0;
+Package;org;;0;0;0;;;;0;0;0;;;;;;;0;
+Package;org.apache;;0;0;0;;;;0;0;0;;;;;;;0;
+Package;org.apache.commons;;0;0;0;;;;0;0;0;;;;;;;0;
+Package;org.apache.commons.cli;;6170;1915;3115;;;;3572;1550;2022;;;;;;;5;
+Public Class;org.apache.commons.cli.AlreadySelectedException;;25;8;8;;;;14;8;6;;;;;;;0;
+Public Constructor;org.apache.commons.cli.AlreadySelectedException.AlreadySelectedException(OptionGroup,Option);3;7;1;4;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.AlreadySelectedException.AlreadySelectedException(String);2;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.AlreadySelectedException.getOption();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.AlreadySelectedException.getOptionGroup();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.AmbiguousOptionException;;33;8;16;;;;21;8;13;;;;;;;2;
+Public Constructor;org.apache.commons.cli.AmbiguousOptionException.AmbiguousOptionException(String,Collection<String>);5;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Static Method;org.apache.commons.cli.AmbiguousOptionException.createMessage(String,Collection<String>);3;19;3;12;6;3;0;13;3;10;3;3;3;1;0;0;2;0
+Public Method;org.apache.commons.cli.AmbiguousOptionException.getMatchingOptions();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.ApplicationTest;;250;50;229;;;;93;36;57;;;;;;;0;
+Public Method;org.apache.commons.cli.ApplicationTest.testAnt();0;30;7;28;12;1;0;24;6;18;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ApplicationTest.testGroovy();0;63;4;61;13;1;0;17;4;13;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ApplicationTest.testLs();0;19;5;17;13;1;0;14;5;9;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ApplicationTest.testMan();2;77;8;73;5;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ApplicationTest.testNLT();0;53;20;50;13;1;0;29;14;15;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.ArgumentIsOptionTest;;50;20;28;;;;26;13;13;;;;;;;0;
+Public Method;org.apache.commons.cli.ArgumentIsOptionTest.setUp();0;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ArgumentIsOptionTest.testOption();3;10;4;6;5;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ArgumentIsOptionTest.testOptionAndOptionWithArgument();3;13;4;9;6;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ArgumentIsOptionTest.testOptionWithArgument();3;13;4;9;7;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.BasicParser;;10;5;1;;;;3;2;1;;;;;;;0;
+Protected Method;org.apache.commons.cli.BasicParser.flatten(Options,String[],boolean);1;6;3;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.BasicParserTest;;105;51;2;;;;28;26;2;;;;;;;0;
+Public Method;org.apache.commons.cli.BasicParserTest.setUp();0;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testAmbiguousLongWithoutEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testAmbiguousPartialLongOption1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testAmbiguousPartialLongOption2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testAmbiguousPartialLongOption3();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testAmbiguousPartialLongOption4();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testDoubleDash2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testLongWithEqualDoubleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testLongWithEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testLongWithoutEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testMissingArgWithBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testNegativeOption();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testPartialLongOptionSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testPropertiesOption1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testPropertiesOption2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testShortWithEqual();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testShortWithoutEqual();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testStopBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testStopBursting2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testUnambiguousPartialLongOption1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testUnambiguousPartialLongOption2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testUnambiguousPartialLongOption3();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testUnambiguousPartialLongOption4();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.BasicParserTest.testUnrecognizedOptionWithBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.CommandLine;;211;48;78;;;;113;51;62;;;;;;;3;
+Public Static Class;org.apache.commons.cli.CommandLine.Builder;;18;5;6;;;;10;5;5;;;;;;;0;
+Public Method;org.apache.commons.cli.CommandLine.Builder.addArg(String);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.Builder.addOption(Option);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.Builder.build();2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Constructor;org.apache.commons.cli.CommandLine.CommandLine();3;3;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Protected Method;org.apache.commons.cli.CommandLine.addArg(String);6;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;org.apache.commons.cli.CommandLine.addOption(Option);7;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getArgList();26;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getArgs();18;6;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionObject(String);9;12;1;5;4;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionObject(char);3;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionProperties(Option);3;20;3;9;6;5;1;11;4;7;5;5;5;1;1;0;3;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionProperties(String);4;20;3;9;8;5;1;11;4;7;5;5;6;1;1;0;3;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValue(Option);17;9;2;4;2;2;0;5;2;3;3;3;3;1;1;0;1;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValue(Option,String);3;5;2;2;2;1;0;3;2;1;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValue(String);50;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValue(String,String);3;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValue(char);10;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValue(char,String);3;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValues(Option);8;12;2;5;7;3;0;7;3;4;4;4;4;1;0;0;2;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValues(String);14;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptionValues(char);4;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getOptions();3;6;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getParsedOptionValue(Option);4;13;2;6;4;3;0;7;2;5;3;3;3;3;2;2;1;2
+Public Method;org.apache.commons.cli.CommandLine.getParsedOptionValue(String);3;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.getParsedOptionValue(char);2;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.hasOption(Option);14;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.hasOption(String);78;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.hasOption(char);8;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLine.iterator();2;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.CommandLine.resolveOption(String);7;16;1;7;5;4;1;9;2;7;4;4;4;4;6;6;2;6
+Public Interface;org.apache.commons.cli.CommandLineParser;;5;3;0;;;;3;3;0;;;;;;;0;
+Abstract Method;org.apache.commons.cli.CommandLineParser.parse(Options,String[]);81;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;org.apache.commons.cli.CommandLineParser.parse(Options,String[],boolean);9;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Class;org.apache.commons.cli.CommandLineTest;;108;49;76;;;;85;40;45;;;;;;;0;
+Public Method;org.apache.commons.cli.CommandLineTest.testBuilder();0;11;4;7;11;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testGetOptionProperties();0;17;6;14;13;1;0;15;6;9;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testGetOptionPropertiesWithOption();0;19;8;16;13;1;0;17;8;9;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testGetOptions();1;10;2;7;6;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testGetParsedOptionValue();0;9;4;7;10;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testGetParsedOptionValueWithChar();1;9;4;7;10;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testGetParsedOptionValueWithOption();1;11;6;9;10;1;0;10;6;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.CommandLineTest.testNullhOption();1;11;6;9;10;1;0;10;6;4;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.DefaultParser;;427;69;202;;;;228;72;156;;;;;;;4;
+Public Constructor;org.apache.commons.cli.DefaultParser.DefaultParser();9;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.DefaultParser.DefaultParser(boolean);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.DefaultParser.checkRequiredArgs();3;7;1;2;2;2;0;3;1;2;2;2;3;1;0;0;1;0
+Protected Method;org.apache.commons.cli.DefaultParser.checkRequiredOptions();2;7;1;2;2;2;0;3;1;2;2;2;2;1;0;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.getLongPrefix(String);4;16;5;8;5;3;0;12;5;7;3;3;3;3;2;2;2;2
+Private Method;org.apache.commons.cli.DefaultParser.getMatchingLongOptions(String);7;17;3;8;6;3;0;8;3;5;3;3;3;1;1;0;2;0
+Protected Method;org.apache.commons.cli.DefaultParser.handleConcatenatedOptions(String);5;21;2;10;9;4;1;12;3;9;5;5;7;4;6;5;3;4
+Private Method;org.apache.commons.cli.DefaultParser.handleLongOption(String);2;11;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.handleLongOptionWithEqual(String);6;30;7;17;14;4;1;16;7;9;5;5;6;1;3;0;2;0
+Private Method;org.apache.commons.cli.DefaultParser.handleLongOptionWithoutEqual(String);5;17;3;8;9;3;0;8;3;5;4;4;5;1;2;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.handleOption(Option);7;15;1;8;6;2;0;8;1;7;2;2;2;1;1;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.handleProperties(Properties);5;37;6;20;16;12;1;20;7;13;8;8;13;6;5;5;4;5
+Private Method;org.apache.commons.cli.DefaultParser.handleShortAndLongOption(String);4;77;7;42;18;11;1;37;7;30;11;11;13;1;10;0;3;0
+Private Method;org.apache.commons.cli.DefaultParser.handleToken(String);5;32;1;15;13;12;1;15;1;14;7;7;11;1;5;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.handleUnknownToken(String);8;12;1;5;5;4;1;6;1;5;3;3;5;1;0;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.isArgument(String);2;4;1;1;3;1;0;2;1;1;1;1;2;1;0;0;0;0
+Private Method;org.apache.commons.cli.DefaultParser.isJavaProperty(String);4;6;3;3;4;1;0;4;3;1;1;1;3;1;0;0;0;0
+Private Method;org.apache.commons.cli.DefaultParser.isLongOption(String);2;18;3;9;8;4;1;10;3;7;5;5;7;4;3;3;1;3
+Private Method;org.apache.commons.cli.DefaultParser.isNegativeNumber(String);2;12;1;5;2;2;0;5;1;4;2;2;2;1;1;0;1;0
+Private Method;org.apache.commons.cli.DefaultParser.isOption(String);2;4;1;1;3;1;0;2;1;1;1;1;2;1;0;0;0;0
+Private Method;org.apache.commons.cli.DefaultParser.isShortOption(String);3;14;3;7;8;3;0;8;3;5;4;4;6;3;2;2;1;2
+Public Method;org.apache.commons.cli.DefaultParser.parse(Options,String[]);7;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.DefaultParser.parse(Options,String[],Properties);5;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.DefaultParser.parse(Options,String[],Properties,boolean);7;25;2;15;15;6;1;18;3;15;4;4;4;1;0;0;2;0
+Public Method;org.apache.commons.cli.DefaultParser.parse(Options,String[],boolean);3;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.DefaultParser.updateRequiredOptions(Option);4;16;2;7;6;6;1;8;2;6;4;4;4;1;0;0;2;0
+Public Class;org.apache.commons.cli.DefaultParserTest;;7;3;2;;;;4;2;2;;;;;;;0;
+Public Method;org.apache.commons.cli.DefaultParserTest.setUp();0;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.DisablePartialMatchingTest;;29;11;18;;;;21;9;12;;;;;;;0;
+Public Method;org.apache.commons.cli.DisablePartialMatchingTest.testDisablePartialMatching();0;12;4;9;6;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.DisablePartialMatchingTest.testRegularPartialMatching();0;12;4;9;7;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.GnuParser;;60;7;29;;;;32;7;25;;;;;;;4;
+Protected Method;org.apache.commons.cli.GnuParser.flatten(Options,String[],boolean);4;56;5;29;10;22;1;31;6;25;10;10;11;1;6;0;4;0
+Public Class;org.apache.commons.cli.GnuParserTest;;93;45;2;;;;25;23;2;;;;;;;0;
+Public Method;org.apache.commons.cli.GnuParserTest.setUp();0;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testAmbiguousLongWithoutEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testAmbiguousPartialLongOption1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testAmbiguousPartialLongOption2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testAmbiguousPartialLongOption3();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testAmbiguousPartialLongOption4();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testDoubleDash2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testLongWithUnexpectedArgument1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testLongWithUnexpectedArgument2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testLongWithoutEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testMissingArgWithBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testNegativeOption();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testPartialLongOptionSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testShortWithUnexpectedArgument();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testStopBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testStopBursting2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testUnambiguousPartialLongOption1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testUnambiguousPartialLongOption2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testUnambiguousPartialLongOption3();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testUnambiguousPartialLongOption4();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.GnuParserTest.testUnrecognizedOptionWithBursting();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.HelpFormatter;;449;108;199;;;;243;97;146;;;;;;;3;
+Private Static Class;org.apache.commons.cli.HelpFormatter.OptionComparator;;8;3;2;;;;4;3;1;;;;;;;0;
+Public Method;org.apache.commons.cli.HelpFormatter.OptionComparator.compare(Option,Option);2;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.HelpFormatter.appendOption(StringBuffer,Option,boolean);6;24;1;11;7;16;1;11;1;10;7;7;9;1;1;0;1;0
+Private Method;org.apache.commons.cli.HelpFormatter.appendOptionGroup(StringBuffer,OptionGroup);3;24;2;11;9;24;1;13;3;10;6;6;6;1;0;0;2;0
+Protected Method;org.apache.commons.cli.HelpFormatter.createPadding(int);4;6;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Protected Method;org.apache.commons.cli.HelpFormatter.findWrapPos(String,int,int);5;31;3;16;4;9;1;19;3;16;8;8;12;7;6;6;2;6
+Public Method;org.apache.commons.cli.HelpFormatter.getArgName();4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getDescPadding();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getLeftPadding();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getLongOptPrefix();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getLongOptSeparator();2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getNewLine();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getOptPrefix();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getOptionComparator();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getSyntaxPrefix();4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.getWidth();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(PrintWriter,int,String,String,Options,int,int,String);13;6;3;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(PrintWriter,int,String,String,Options,int,int,String,boolean);17;26;3;11;6;16;1;11;1;10;5;5;8;1;1;0;1;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(String,Options);4;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(String,Options,boolean);3;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(String,String,Options,String);4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(String,String,Options,String,boolean);6;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(int,String,String,Options,String);5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printHelp(int,String,String,Options,String,boolean);10;7;3;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printOptions(PrintWriter,int,Options,int,int);6;7;3;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printUsage(PrintWriter,int,String);4;5;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printUsage(PrintWriter,int,String,Options);14;32;6;17;17;14;1;18;7;11;6;6;6;1;1;0;3;0
+Public Method;org.apache.commons.cli.HelpFormatter.printWrapped(PrintWriter,int,String);4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.printWrapped(PrintWriter,int,int,String);7;6;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Protected Method;org.apache.commons.cli.HelpFormatter.renderOptions(StringBuffer,int,Options,int,int);8;65;12;38;24;180;2;39;14;25;14;14;15;1;2;0;3;0
+Protected Method;org.apache.commons.cli.HelpFormatter.renderWrappedText(StringBuffer,int,int,String);12;31;4;17;9;9;1;18;3;15;6;6;7;4;3;3;2;3
+Private Method;org.apache.commons.cli.HelpFormatter.renderWrappedTextBlock(StringBuffer,int,int,String);5;25;4;11;5;4;1;11;4;7;4;4;4;1;2;0;3;0
+Protected Method;org.apache.commons.cli.HelpFormatter.rtrim(String);3;13;2;6;5;3;0;7;2;5;3;3;5;1;1;0;1;0
+Public Method;org.apache.commons.cli.HelpFormatter.setArgName(String);3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setDescPadding(int);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setLeftPadding(int);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setLongOptPrefix(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setLongOptSeparator(String);3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setNewLine(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setOptPrefix(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setOptionComparator(Comparator<Option>);3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setSyntaxPrefix(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatter.setWidth(int);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.HelpFormatterTest;;465;174;350;;;;294;137;157;;;;;;;1;
+Public Method;org.apache.commons.cli.HelpFormatterTest.testAccessors();0;20;2;17;17;1;0;18;2;16;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testAutomaticUsage();0;20;6;17;7;1;0;17;6;11;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testDefaultArgName();1;11;5;8;9;1;0;9;5;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testFindWrapPos();0;16;3;13;2;1;0;14;3;11;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testHeaderStartingWithLineSeparator();1;16;6;13;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testHelpWithLongOptSeparator();2;21;4;18;14;1;0;12;4;8;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testIndentedHeaderAndFooter();1;17;6;14;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testOptionWithoutShortFormat();1;16;4;13;5;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testOptionWithoutShortFormat2();0;62;19;59;13;1;0;25;14;11;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintHelpWithEmptySyntax();0;20;2;8;2;4;1;8;2;6;3;3;3;1;2;0;1;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintOptionGroupUsage();1;13;5;10;7;1;0;11;5;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintOptionWithEmptyArgNameUsage();1;12;5;9;7;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintOptions();1;42;10;39;8;1;0;33;10;23;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintRequiredOptionGroupUsage();1;14;5;11;8;1;0;12;5;7;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintSortedUsage();1;18;4;12;6;1;0;12;5;7;1;1;1;1;0;0;0;0
+Anonymous Class;org.apache.commons.cli.HelpFormatterTest.testPrintSortedUsage.(Anon_1);;5;0;2;;;;2;1;1;;;;;;;0;
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintSortedUsage.(Anon_1).compare(Option,Option);2;4;0;2;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintSortedUsageWithNullComparator();1;12;4;9;6;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testPrintUsage();1;16;8;13;6;1;0;14;8;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRenderWrappedTextMultiLine();1;11;6;8;3;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRenderWrappedTextMultiLinePadded();1;14;8;11;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRenderWrappedTextSingleLine();1;11;7;8;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRenderWrappedTextSingleLinePadded();1;11;7;8;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRenderWrappedTextSingleLinePadded2();1;13;8;10;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRenderWrappedTextWordCut();1;11;7;8;3;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testRtrim();0;7;2;4;2;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.HelpFormatterTest.testUsageWithLongOptSeparator();0;12;4;9;14;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.MissingArgumentException;;18;6;5;;;;10;6;4;;;;;;;0;
+Public Constructor;org.apache.commons.cli.MissingArgumentException.MissingArgumentException(Option);3;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.MissingArgumentException.MissingArgumentException(String);2;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.MissingArgumentException.getOption();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.MissingOptionException;;34;9;14;;;;20;9;11;;;;;;;2;
+Public Constructor;org.apache.commons.cli.MissingOptionException.MissingOptionException(List);3;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.MissingOptionException.MissingOptionException(String);2;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Method;org.apache.commons.cli.MissingOptionException.createMessage(List<?>);2;16;3;9;7;3;0;10;3;7;4;4;4;1;0;0;2;0
+Public Method;org.apache.commons.cli.MissingOptionException.getMissingOptions();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.Option;;400;101;145;;;;223;94;129;;;;;;;3;
+Public Static Class;org.apache.commons.cli.Option.Builder;;87;25;30;;;;53;25;28;;;;;;;1;
+Private Constructor;org.apache.commons.cli.Option.Builder.Builder(String);2;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.argName(String);7;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.build();21;8;1;3;2;2;0;4;1;3;2;2;3;1;0;0;1;0
+Public Method;org.apache.commons.cli.Option.Builder.desc(String);8;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.hasArg();10;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.hasArg(boolean);6;5;1;2;2;1;0;3;1;2;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.hasArgs();1;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.longOpt(String);9;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.numberOfArgs(int);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.optionalArg(boolean);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.required();1;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.required(boolean);5;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.type(Class<?>);6;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.valueSeparator();1;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.Builder.valueSeparator(char);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Constructor;org.apache.commons.cli.Option.Option(Builder);11;12;1;9;10;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.Option.Option(String,String);13;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.Option.Option(String,String,boolean,String);20;12;2;6;6;2;0;7;1;6;2;2;2;1;0;0;1;0
+Public Constructor;org.apache.commons.cli.Option.Option(String,boolean,String);7;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;org.apache.commons.cli.Option.acceptsArg();7;4;1;1;5;1;0;2;1;1;1;1;5;1;0;0;0;0
+Private Method;org.apache.commons.cli.Option.add(String);3;8;1;3;2;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Method;org.apache.commons.cli.Option.addValue(String);0;5;1;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;org.apache.commons.cli.Option.addValueForProcessing(String);12;8;1;3;1;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Static Method;org.apache.commons.cli.Option.builder();6;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.Option.builder(String);19;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;org.apache.commons.cli.Option.clearValues();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.clone();6;13;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.Option.equals(Object);5;21;2;10;3;5;1;11;2;9;7;7;8;5;4;4;1;4
+Public Method;org.apache.commons.cli.Option.getArgName();4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getArgs();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getDescription();12;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getId();1;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;org.apache.commons.cli.Option.getKey();14;4;1;1;1;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getLongOpt();12;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getOpt();21;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getType();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getValue();5;4;1;1;3;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getValue(String);2;5;2;2;2;1;0;3;2;1;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getValue(int);4;4;1;1;3;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getValueSeparator();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getValues();5;4;1;1;4;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.getValuesList();6;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hasArg();16;4;1;1;1;1;0;2;1;1;1;1;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hasArgName();2;4;1;1;2;1;0;2;1;1;1;1;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hasArgs();7;4;1;1;1;1;0;2;1;1;1;1;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hasLongOpt();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.Option.hasNoValues();4;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hasOptionalArg();4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hasValueSeparator();2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.hashCode();3;7;2;3;2;1;0;5;2;3;3;3;3;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.isRequired();8;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.Option.processValue(String);4;19;3;10;6;4;1;11;3;8;4;4;4;4;2;2;3;2
+Method;org.apache.commons.cli.Option.requiresArg();5;12;1;5;3;3;0;6;1;5;3;3;3;3;2;2;1;2
+Public Method;org.apache.commons.cli.Option.setArgName(String);5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setArgs(int);7;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setDescription(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setLongOpt(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setOptionalArg(boolean);4;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setRequired(boolean);6;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setType(Class<?>);3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setType(Object);1;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.setValueSeparator(char);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Option.toString();4;25;2;14;5;12;1;15;2;13;5;5;5;1;1;0;1;0
+Public Class;org.apache.commons.cli.OptionBuilder;;146;34;63;;;;91;32;59;;;;;;;1;
+Private Constructor;org.apache.commons.cli.OptionBuilder.OptionBuilder();0;3;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.create();22;9;1;4;3;2;0;5;1;4;2;2;2;1;0;0;1;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.create(String);24;20;2;13;10;1;0;13;2;11;1;1;1;1;0;0;1;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.create(char);43;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasArg();26;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasArg(boolean);4;5;1;2;2;1;0;3;1;2;2;2;2;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasArgs();10;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasArgs(int);7;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasOptionalArg();10;6;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasOptionalArgs();4;6;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.hasOptionalArgs(int);8;6;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.isRequired();13;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.isRequired(boolean);2;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Static Method;org.apache.commons.cli.OptionBuilder.reset();4;11;1;8;8;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withArgName(String);5;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withDescription(String);18;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withLongOpt(String);41;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withType(Class<?>);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withType(Object);1;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withValueSeparator();8;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.OptionBuilder.withValueSeparator(char);5;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.OptionBuilderTest;;139;31;88;;;;72;17;55;;;;;;;1;
+Public Method;org.apache.commons.cli.OptionBuilderTest.testBaseOptionCharOpt();0;7;3;5;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testBaseOptionStringOpt();0;7;3;5;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testBuilderIsResettedAlways();0;20;1;10;6;4;1;9;1;8;3;3;3;1;2;0;1;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testCompleteOption();0;16;3;14;16;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testCreateIncompleteOption();0;11;1;5;4;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testIllegalOptions();0;20;1;12;4;8;1;10;1;9;4;4;4;1;3;0;1;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testOptionArgNumbers();0;7;3;4;5;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testSpecialOptChars();0;12;3;8;5;2;0;8;3;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.OptionBuilderTest.testTwoCompleteOptions();0;27;3;25;18;1;0;17;2;15;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.OptionGroup;;80;17;34;;;;43;16;27;;;;;;;2;
+Public Method;org.apache.commons.cli.OptionGroup.addOption(Option);16;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroup.getNames();2;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroup.getOptions();4;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroup.getSelected();8;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroup.isRequired();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroup.setRequired(boolean);5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroup.setSelected(Option);6;16;1;7;4;3;0;7;1;6;3;3;4;1;2;0;1;0
+Public Method;org.apache.commons.cli.OptionGroup.toString();1;31;4;18;10;9;1;18;4;14;5;5;5;1;1;0;2;0
+Public Class;org.apache.commons.cli.OptionGroupTest;;189;64;120;;;;133;50;83;;;;;;;1;
+Public Method;org.apache.commons.cli.OptionGroupTest.setUp();1;22;10;19;5;1;0;20;10;10;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testGetNames();0;10;2;7;8;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testNoOptionsExtraArgs();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testSingleLongOption();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testSingleOption();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testSingleOptionFromGroup();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testToString();0;15;3;10;5;4;1;11;3;8;3;3;3;1;0;0;1;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testTwoLongOptionsFromGroup();3;15;2;8;8;2;0;8;2;6;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testTwoOptionsFromDifferentGroup();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testTwoOptionsFromGroup();3;15;2;8;8;2;0;8;2;6;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testTwoOptionsFromGroupWithProperties();2;9;4;6;4;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testTwoValidLongOptions();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testTwoValidOptions();2;11;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionGroupTest.testValidLongOnlyOptions();2;7;3;4;3;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.OptionTest;;167;44;99;;;;104;30;74;;;;;;;0;
+Private Static Class;org.apache.commons.cli.OptionTest.DefaultOption;;15;6;4;;;;8;5;3;;;;;;;0;
+Public Constructor;org.apache.commons.cli.OptionTest.DefaultOption.DefaultOption(String,String,String);4;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.DefaultOption.getValue();1;4;1;1;2;1;0;2;1;1;2;2;2;1;0;0;0;0
+Private Static Class;org.apache.commons.cli.OptionTest.TestOption;;14;5;4;;;;7;4;3;;;;;;;0;
+Public Constructor;org.apache.commons.cli.OptionTest.TestOption.TestOption(String,boolean,String);5;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.TestOption.addValue(String);3;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Static Method;org.apache.commons.cli.OptionTest.checkOption(Option,String,String,String,int,String,boolean,boolean,char,Class<?>);11;14;3;9;10;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testBuilderInsufficientParams1();0;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testBuilderInsufficientParams2();0;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testBuilderMethods();2;32;2;29;12;1;0;16;2;14;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testClear();0;9;2;6;6;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testClone();1;15;3;12;12;1;0;13;3;10;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testGetValue();1;11;2;8;7;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testHasArgName();0;10;2;7;5;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testHasArgs();2;14;2;11;5;1;0;12;2;10;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testHashCode();0;5;1;3;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionTest.testSubclass();1;7;3;4;5;1;0;5;3;2;1;1;1;1;0;0;0;0
+Class;org.apache.commons.cli.OptionValidator;;37;5;13;;;;16;6;10;;;;;;;3;
+Private Static Method;org.apache.commons.cli.OptionValidator.isValidChar(char);3;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Method;org.apache.commons.cli.OptionValidator.isValidOpt(char);2;4;1;1;2;1;0;2;1;1;1;1;3;1;0;0;0;0
+Static Method;org.apache.commons.cli.OptionValidator.validateOption(String);3;26;2;11;5;6;1;11;3;8;6;6;6;1;2;0;3;0
+Public Class;org.apache.commons.cli.Options;;134;28;61;;;;81;29;52;;;;;;;2;
+Public Method;org.apache.commons.cli.Options.addOption(Option);88;18;2;9;10;6;1;10;2;8;4;4;4;1;0;0;2;0
+Public Method;org.apache.commons.cli.Options.addOption(String,String);2;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.addOption(String,String,boolean,String);26;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.addOption(String,boolean,String);18;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.addOptionGroup(OptionGroup);15;14;1;7;8;4;1;9;2;7;3;3;3;1;0;0;1;0
+Public Method;org.apache.commons.cli.Options.addRequiredOption(String,String,boolean,String);4;7;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.getMatchingOptions(String);5;17;2;8;7;4;1;10;3;7;4;4;4;1;1;0;2;0
+Public Method;org.apache.commons.cli.Options.getOption(String);30;9;1;4;4;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.Options.getOptionGroup(Option);7;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;org.apache.commons.cli.Options.getOptionGroups();4;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.getOptions();4;4;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.getRequiredOptions();3;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.hasLongOption(String);6;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.hasOption(String);13;5;1;2;3;1;0;3;1;2;1;1;2;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.hasShortOption(String);4;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Method;org.apache.commons.cli.Options.helpOptions();5;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Options.toString();3;10;2;7;3;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.OptionsTest;;131;42;80;;;;89;32;57;;;;;;;1;
+Public Method;org.apache.commons.cli.OptionsTest.testDuplicateLong();0;7;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testDuplicateSimple();0;7;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testGetMatchingOpts();0;9;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testGetOptionsGroups();0;14;4;11;7;1;0;12;4;8;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testHelpOptions();0;26;10;23;8;1;0;24;10;14;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testLong();0;8;2;5;3;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testMissingOptionException();1;14;2;7;7;2;0;7;2;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.OptionsTest.testMissingOptionsException();1;15;2;8;7;2;0;8;2;6;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.OptionsTest.testSimple();0;8;2;5;3;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.OptionsTest.testToString();0;10;3;7;6;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.ParseException;;8;3;2;;;;4;3;1;;;;;;;0;
+Public Constructor;org.apache.commons.cli.ParseException.ParseException(String);11;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Abstract Class;org.apache.commons.cli.Parser;;213;33;96;;;;109;34;75;;;;;;;5;
+Protected Method;org.apache.commons.cli.Parser.checkRequiredOptions();1;7;1;2;3;2;0;3;1;2;2;2;2;1;0;0;1;0
+Protected Abstract Method;org.apache.commons.cli.Parser.flatten(Options,String[],boolean);1;2;2;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Method;org.apache.commons.cli.Parser.getOptions();5;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;org.apache.commons.cli.Parser.getRequiredOptions();3;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Parser.parse(Options,String[]);36;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Parser.parse(Options,String[],Properties);6;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Parser.parse(Options,String[],Properties,boolean);8;74;7;38;22;232;2;38;8;30;14;14;15;1;5;0;4;0
+Public Method;org.apache.commons.cli.Parser.parse(Options,String[],boolean);5;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.Parser.processArgs(Option,ListIterator<String>);3;25;2;12;11;10;1;12;2;10;5;5;7;4;5;4;2;3
+Protected Method;org.apache.commons.cli.Parser.processOption(String,ListIterator<String>);4;15;3;8;9;4;1;9;3;6;3;3;3;1;0;0;1;0
+Protected Method;org.apache.commons.cli.Parser.processProperties(Properties);5;43;6;22;16;14;1;21;7;14;9;9;14;6;6;6;5;5
+Protected Method;org.apache.commons.cli.Parser.setOptions(Options);2;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.Parser.updateRequiredOptions(Option);3;16;2;7;8;6;1;8;2;6;4;4;4;1;0;0;2;0
+Public Abstract Class;org.apache.commons.cli.ParserTestCase;;844;281;528;;;;547;212;335;;;;;;;1;
+Private Method;org.apache.commons.cli.ParserTestCase.parse(CommandLineParser,Options,String[],Properties);11;9;1;6;3;3;0;6;1;5;3;3;3;3;2;2;1;2
+Public Method;org.apache.commons.cli.ParserTestCase.setUp();4;7;1;4;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testAmbiguousLongWithoutEqualSingleDash();1;11;4;8;9;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testAmbiguousPartialLongOption1();2;20;4;13;10;2;0;13;4;9;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testAmbiguousPartialLongOption2();2;20;4;13;10;2;0;13;4;9;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testAmbiguousPartialLongOption3();2;20;4;13;11;2;0;13;4;9;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testAmbiguousPartialLongOption4();2;20;4;13;11;2;0;13;4;9;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testArgumentStartingWithHyphen();2;6;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testBursting();2;10;3;7;7;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testDoubleDash1();2;10;4;7;5;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testDoubleDash2();2;16;2;9;9;2;0;9;2;7;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testLongWithEqualDoubleDash();1;8;4;5;7;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testLongWithEqualSingleDash();1;8;4;5;7;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testLongWithUnexpectedArgument1();2;16;3;9;7;2;0;9;3;6;2;2;2;1;2;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testLongWithUnexpectedArgument2();2;16;3;9;7;2;0;9;3;6;2;2;2;1;2;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testLongWithoutEqualDoubleDash();1;8;4;5;7;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testLongWithoutEqualSingleDash();1;8;4;5;7;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMissingArg();3;15;3;8;5;2;0;8;3;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMissingArgWithBursting();3;15;3;8;5;2;0;8;3;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMissingRequiredGroup();2;24;3;15;13;3;0;14;3;11;3;3;3;1;3;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMissingRequiredOption();2;21;3;12;13;3;0;11;3;8;3;3;3;1;3;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMissingRequiredOptions();2;23;3;14;13;3;0;13;3;10;3;3;3;1;3;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMultiple();2;15;4;12;10;1;0;11;3;8;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testMultipleWithLong();2;15;4;12;10;1;0;11;3;8;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testNegativeArgument();2;6;3;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testNegativeOption();2;7;3;4;4;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testOptionAndRequiredOption();1;12;4;9;13;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testOptionGroup();1;10;3;7;6;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testOptionGroupLong();1;11;4;8;9;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPartialLongOptionSingleDash();1;10;4;7;8;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertiesOption1();1;17;6;14;12;1;0;15;6;9;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertiesOption2();1;14;6;11;11;1;0;12;6;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOptionFlags();1;44;4;41;9;1;0;42;4;38;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOptionGroup();1;21;7;18;8;1;0;19;7;12;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOptionMultipleValues();1;11;5;8;10;1;0;9;5;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOptionRequired();1;9;4;6;7;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOptionSingularValue();1;11;4;8;10;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOptionUnexpected();1;11;3;7;3;2;0;7;3;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testPropertyOverrideValues();1;15;5;12;10;1;0;13;5;8;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testReuseOptionsTwice();1;14;2;7;5;2;0;7;2;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testShortWithEqual();1;8;4;5;7;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testShortWithUnexpectedArgument();2;16;3;9;7;2;0;9;3;6;2;2;2;1;2;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testShortWithoutEqual();1;8;4;5;7;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testSimpleLong();2;12;4;9;7;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testSimpleShort();2;11;4;8;7;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testSingleDash();2;13;4;10;8;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testStopAtExpectedArg();2;8;3;5;7;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testStopAtNonOptionLong();2;10;4;7;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testStopAtNonOptionShort();2;9;4;6;6;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testStopAtUnexpectedArg();2;10;4;7;5;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testStopBursting();2;9;3;6;7;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testStopBursting2();2;13;3;10;10;1;0;11;3;8;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnambiguousPartialLongOption1();1;9;4;6;6;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnambiguousPartialLongOption2();1;9;4;6;6;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnambiguousPartialLongOption3();1;10;4;7;9;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnambiguousPartialLongOption4();1;10;4;7;9;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnlimitedArgs();2;12;4;9;8;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnrecognizedOption();3;13;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testUnrecognizedOptionWithBursting();3;13;2;6;4;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.ParserTestCase.testWithRequiredOption();1;12;4;9;13;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.PatternOptionBuilder;;95;22;69;;;;48;21;27;;;;;;;3;
+Public Static Method;org.apache.commons.cli.PatternOptionBuilder.getValueClass(char);11;25;1;20;1;10;1;12;1;11;10;2;10;1;45;0;1;0
+Public Static Method;org.apache.commons.cli.PatternOptionBuilder.isValueCode(char);2;13;1;10;1;1;0;2;1;1;1;1;10;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.PatternOptionBuilder.parsePattern(String);11;45;10;30;12;10;1;24;9;15;6;6;6;1;2;0;3;0
+Public Class;org.apache.commons.cli.PatternOptionBuilderTest;;131;50;83;;;;91;40;51;;;;;;;1;
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testClassPattern();1;8;4;5;5;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testEmptyPattern();0;5;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testExistingFilePattern();0;9;5;6;5;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testExistingFilePatternFileNotExist();0;6;4;4;4;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testNumberPattern();1;11;4;8;6;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testObjectPattern();0;9;4;6;5;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testRequiredOption();1;15;3;8;8;2;0;8;3;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testSimplePattern();1;35;5;30;12;4;1;29;5;24;3;3;3;1;2;0;1;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testURLPattern();0;8;4;5;5;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PatternOptionBuilderTest.testUntypedPattern();0;12;4;9;6;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.PosixParser;;135;20;64;;;;72;20;52;;;;;;;4;
+Protected Method;org.apache.commons.cli.PosixParser.burstToken(String,boolean);6;27;2;14;10;5;1;16;3;13;5;5;6;5;9;6;3;5
+Protected Method;org.apache.commons.cli.PosixParser.flatten(Options,String[],boolean);5;64;8;35;27;11;1;33;8;25;12;12;14;1;7;0;4;0
+Private Method;org.apache.commons.cli.PosixParser.gobble(Iterator<String>);4;10;1;3;3;3;0;4;1;3;3;3;3;1;0;0;2;0
+Private Method;org.apache.commons.cli.PosixParser.init();2;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.PosixParser.processNonOptionToken(String,boolean);6;9;1;4;3;2;0;5;1;4;2;2;4;1;0;0;1;0
+Private Method;org.apache.commons.cli.PosixParser.processOptionToken(String,boolean);5;12;1;5;5;4;1;6;1;5;3;3;4;1;0;0;1;0
+Public Class;org.apache.commons.cli.PosixParserTest;;46;22;2;;;;13;11;2;;;;;;;0;
+Public Method;org.apache.commons.cli.PosixParserTest.setUp();0;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testAmbiguousLongWithoutEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testAmbiguousPartialLongOption4();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testDoubleDash2();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testLongWithEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testLongWithUnexpectedArgument1();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testLongWithoutEqualSingleDash();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testNegativeOption();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testShortWithEqual();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.PosixParserTest.testUnambiguousPartialLongOption4();0;3;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.TypeHandler;;131;13;49;;;;55;12;43;;;;;;;2;
+Public Static Method;org.apache.commons.cli.TypeHandler.createClass(String);2;11;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Static Method;org.apache.commons.cli.TypeHandler.createDate(String);1;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.TypeHandler.createFile(String);2;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.TypeHandler.createFiles(String);1;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;org.apache.commons.cli.TypeHandler.createNumber(String);3;15;1;6;5;3;0;6;1;5;3;3;3;3;3;3;2;3
+Public Static Method;org.apache.commons.cli.TypeHandler.createObject(String);3;20;2;7;6;4;1;8;2;6;3;3;3;1;2;0;1;0
+Public Static Method;org.apache.commons.cli.TypeHandler.createURL(String);2;11;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Static Generic Method;org.apache.commons.cli.TypeHandler.createValue(String,Class<T>);25;43;1;20;10;10;1;20;1;19;10;10;10;10;9;9;1;9
+Public Static Method;org.apache.commons.cli.TypeHandler.createValue(String,Object);3;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;org.apache.commons.cli.TypeHandler.createValue.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Static Method;org.apache.commons.cli.TypeHandler.openFile(String);2;11;1;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Class;org.apache.commons.cli.TypeHandlerTest;;118;61;23;;;;44;27;17;;;;;;;0;
+Public Static Class;org.apache.commons.cli.TypeHandlerTest.Instantiable;;3;1;0;;;;1;1;0;;;;;;;0;
+Public Static Class;org.apache.commons.cli.TypeHandlerTest.NotInstantiable;;4;2;0;;;;2;2;0;;;;;;;0;
+Private Constructor;org.apache.commons.cli.TypeHandlerTest.NotInstantiable.NotInstantiable();0;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueClass();2;6;3;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueClass_notFound();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueDate();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueExistingFile();1;6;3;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueExistingFile_nonExistingFile();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueFile();1;6;3;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueFiles();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueInteger_failure();0;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueNumber_Double();1;5;2;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueNumber_Long();1;5;2;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueNumber_noNumber();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueObject_InstantiableClass();1;6;3;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueObject_notInstantiableClass();1;5;2;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueObject_unknownClass();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueString();1;5;2;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueURL();1;7;4;3;3;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.TypeHandlerTest.testCreateValueURL_malformed();1;5;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.UnrecognizedOptionException;;18;6;5;;;;10;6;4;;;;;;;0;
+Public Constructor;org.apache.commons.cli.UnrecognizedOptionException.UnrecognizedOptionException(String);2;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;org.apache.commons.cli.UnrecognizedOptionException.UnrecognizedOptionException(String,String);7;5;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.UnrecognizedOptionException.getOption();10;4;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;org.apache.commons.cli.Util;;28;4;11;;;;14;4;10;;;;;;;1;
+Static Method;org.apache.commons.cli.Util.stripLeadingAndTrailingQuotes(String);4;9;2;4;6;2;0;5;2;3;2;2;5;1;0;0;1;0
+Static Method;org.apache.commons.cli.Util.stripLeadingHyphens(String);11;16;1;7;4;4;1;8;1;7;4;4;4;4;3;3;1;3
+Public Class;org.apache.commons.cli.UtilTest;;20;5;9;;;;12;3;9;;;;;;;0;
+Public Method;org.apache.commons.cli.UtilTest.testStripLeadingAndTrailingQuotes();0;8;1;5;2;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.UtilTest.testStripLeadingHyphens();0;7;1;4;3;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.ValueTest;;256;106;150;;;;171;78;93;;;;;;;0;
+Public Method;org.apache.commons.cli.ValueTest.setUp();1;20;4;16;11;1;0;14;3;11;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongNoArg();1;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongNoArgWithOption();2;5;1;2;5;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalArgValue();1;8;4;5;5;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalArgValueWithOption();1;8;4;5;6;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalArgValues();2;11;4;8;7;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalArgValuesWithOption();2;11;4;8;8;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalNArgValues();2;14;5;10;7;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalNArgValuesWithOption();2;14;5;10;8;1;0;10;4;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalNoValue();1;8;4;5;5;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongOptionalNoValueWithOption();1;8;4;5;6;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongWithArg();1;6;1;3;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testLongWithArgWithOption();2;6;1;3;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortNoArg();1;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortNoArgWithOption();2;5;1;2;5;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalArgNoValue();1;8;4;5;5;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalArgNoValueWithOption();1;8;4;5;6;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalArgValue();1;8;4;5;5;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalArgValueWithOption();1;8;4;5;6;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalArgValues();2;11;4;8;7;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalArgValuesWithOption();2;11;4;8;8;1;0;9;4;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalNArgValues();2;13;4;10;7;1;0;11;4;7;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortOptionalNArgValuesWithOption();2;13;4;10;8;1;0;11;4;7;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortWithArg();1;6;1;3;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValueTest.testShortWithArgWithOption();2;6;1;3;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.ValuesTest;;96;22;60;;;;56;13;43;;;;;;;0;
+Public Method;org.apache.commons.cli.ValuesTest.setUp();0;33;5;30;13;1;0;17;4;13;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testCharSeparator();1;15;1;12;6;1;0;13;1;12;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testComplexValues();1;6;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testExtraArgs();1;4;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testMultipleArgValues();1;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testShortArgs();1;7;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testShortArgsWithValue();2;9;1;6;6;1;0;7;1;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.ValuesTest.testTwoArgValues();1;5;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Package;org.apache.commons.cli.bug;;902;394;594;;;;557;338;219;;;;;;;2;
+Public Class;org.apache.commons.cli.bug.BugCLI133Test;;12;7;6;;;;8;6;2;;;;;;;0;
+Public Method;org.apache.commons.cli.bug.BugCLI133Test.testOrder();0;8;5;6;5;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI13Test;;23;10;14;;;;11;6;5;;;;;;;0;
+Public Method;org.apache.commons.cli.bug.BugCLI13Test.testCLI13();0;19;8;14;13;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI148Test;;27;14;11;;;;16;11;5;;;;;;;0;
+Public Method;org.apache.commons.cli.bug.BugCLI148Test.setUp();1;6;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI148Test.testWorkaround1();1;7;4;4;3;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI148Test.testWorkaround2();1;7;4;4;3;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI162Test;;277;69;255;;;;108;59;49;;;;;;;0;
+Public Method;org.apache.commons.cli.bug.BugCLI162Test.setUp();0;5;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI162Test.testInfiniteLoop();5;13;4;11;4;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI162Test.testLongLineChunking();3;29;4;27;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI162Test.testLongLineChunkingIndentIgnored();3;15;4;13;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI162Test.testPrintHelpLongLines();10;204;47;201;12;1;0;83;45;38;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI18Test;;14;6;7;;;;9;5;4;;;;;;;0;
+Public Method;org.apache.commons.cli.bug.BugCLI18Test.testCLI18();0;10;4;7;3;1;0;8;4;4;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI252Test;;16;7;6;;;;10;5;5;;;;;;;0;
+Private Method;org.apache.commons.cli.bug.BugCLI252Test.getOptions();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI252Test.testAmbiquousOptionName();0;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI252Test.testExactOptionNameMatch();0;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI265Test;;38;21;22;;;;29;17;12;;;;;;;0;
+Public Method;org.apache.commons.cli.bug.BugCLI265Test.setUp();0;8;5;6;11;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI265Test.shouldParseConcatenatedShortOptions();2;9;3;7;6;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI265Test.shouldParseShortOptionWithValue();2;6;3;4;5;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI265Test.shouldParseShortOptionWithoutValue();2;7;3;5;5;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugCLI266Test;;79;25;65;;;;43;21;22;;;;;;;1;
+Private Method;org.apache.commons.cli.bug.BugCLI266Test.buildOptionsGroup(Options);2;28;3;26;8;1;0;12;3;9;1;1;1;1;0;0;0;0
+Private Method;org.apache.commons.cli.bug.BugCLI266Test.getOptions();2;27;10;25;10;1;0;12;6;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI266Test.testOptionComparatorDefaultOrder();1;10;4;7;7;2;0;9;5;4;2;2;2;1;0;0;1;0
+Public Method;org.apache.commons.cli.bug.BugCLI266Test.testOptionComparatorInsertedOrder();1;8;3;5;5;2;0;7;4;3;2;2;2;1;0;0;1;0
+Public Class;org.apache.commons.cli.bug.BugCLI71Test;;50;22;29;;;;36;17;19;;;;;;;1;
+Public Method;org.apache.commons.cli.bug.BugCLI71Test.setUp();1;10;3;8;5;1;0;9;3;6;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI71Test.testBasic();2;6;3;4;3;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI71Test.testGetsDefaultIfOptional();2;7;3;5;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugCLI71Test.testLackOfError();3;9;2;6;5;2;0;6;2;4;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.bug.BugCLI71Test.testMistakenArgument();2;8;3;6;3;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;org.apache.commons.cli.bug.BugsTest;;250;97;179;;;;176;80;96;;;;;;;2;
+Public Method;org.apache.commons.cli.bug.BugsTest.test11456();0;17;5;14;7;1;0;15;5;10;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test11457();0;9;5;6;6;1;0;7;5;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test11458();0;35;8;28;13;4;1;26;8;18;4;3;4;1;3;0;2;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test11680();0;11;5;8;3;1;0;9;5;4;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test12210();0;31;8;23;9;3;0;23;8;15;3;3;3;1;2;0;1;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test13425();0;25;11;19;7;2;0;11;6;5;2;2;2;1;1;0;1;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test13666();0;23;8;16;10;1;0;16;8;8;1;1;1;1;0;0;1;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test13935();0;37;10;30;9;4;1;29;10;19;3;3;3;1;2;0;1;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test14786();0;11;6;8;7;1;0;9;6;3;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test15046();0;12;5;9;8;1;0;10;5;5;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test15648();0;10;6;7;6;1;0;8;6;2;1;1;1;1;0;0;0;0
+Public Method;org.apache.commons.cli.bug.BugsTest.test31148();0;14;7;11;9;1;0;12;7;5;1;1;1;1;0;0;0;0
+File;overview.html;;0;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;package-info.java;;1;1;0;;;;1;1;0;;;;;;;0;
+File;pom.xml;;333;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;properties.xml;;89;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;release_1_0.xml;;24;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;release_1_2.xml;;54;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;release_1_3.xml;;113;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;release_1_3_1.xml;;26;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;release_1_4.xml;;34;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;site.xml;;25;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;src.xml;;23;;;;0;0;0;0;0;0;0;0;0;;;0;
+Function;this.addAttribute;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;this.addMethod;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;this.addNote;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;this.height;;11;;;;4;1;8;1;7;3;3;3;1;;;1;
+Function;this.heightAttributes;;8;;;;2;0;4;1;3;2;2;2;1;;;1;
+Function;this.heightAttributes;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;this.heightMethods;;8;;;;2;0;4;1;3;2;2;2;1;;;1;
+Function;this.heightName;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;this.heightNotes;;5;;;;2;0;3;1;2;2;2;2;1;;;1;
+Function;this.insert;;14;;;;8;1;10;1;9;4;4;4;1;;;1;
+Function;this.insert;;35;;;;1;0;34;1;33;1;1;1;1;;;0;
+Function;this.insertAttributes;;23;;;;4;1;20;1;19;3;3;3;1;;;1;
+Function;this.insertAttributes;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;this.insertMethods;;23;;;;4;1;20;1;19;3;3;3;1;;;1;
+Function;this.insertName;;12;;;;1;0;11;1;10;1;1;1;1;;;0;
+Function;this.insertNotes;;32;;;;3;0;29;1;28;3;3;3;1;;;2;
+Function;this.insertOutline;;12;;;;1;0;11;1;10;1;1;1;1;;;0;
+Function;this.insertOutline;;14;;;;1;0;13;1;12;1;1;1;1;;;0;
+File;upgrading-1.0-to-1.1.xml;;27;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;usage.xml;;354;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;vcs.xml;;6;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;workspace.xml;;11;;;;0;0;0;0;0;0;0;0;0;;;0;

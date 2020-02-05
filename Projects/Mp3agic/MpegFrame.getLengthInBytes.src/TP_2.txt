@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.MpegFrameTest.shouldProcessValidMpegVersion2Header()
+[9,2,11,4,7,8,10]

@@ -1,0 +1,2 @@
+org.apache.commons.math4.stat.correlation.CovarianceTest.testInsufficientData()
+[18,2,3,4,5,8,9,19]

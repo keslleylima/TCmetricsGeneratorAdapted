@@ -1,0 +1,4 @@
+org.apache.commons.math4.geometry.euclidean.oned.Cartesian1DTest.testDistanceSq()
+[5,2,3,4,6]
+[5,2,3,4,6]
+[5,2,3,4,6]

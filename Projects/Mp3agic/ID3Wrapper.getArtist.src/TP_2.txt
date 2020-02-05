@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.ID3WrapperTest.getArtistReturnsV1TagsArtistIfV2TagDoesNotExist()
+[7,2,4,5,8]

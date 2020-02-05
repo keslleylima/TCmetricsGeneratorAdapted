@@ -1,0 +1,2 @@
+org.apache.commons.math4.distribution.fitting.MultivariateNormalMixtureExpectationMaximizationTest.testNonEmptyData()
+[16,4,5,17]

@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.FunctionUtilsTest.testSample()
+[13,2,6,8,9,10,11,10,11,10,11,10,11,10,11,10,11,10,11,10,11,10,11,10,11,10,11,10,12,14]

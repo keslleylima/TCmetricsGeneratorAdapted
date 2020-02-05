@@ -1,0 +1,2 @@
+net.objecthunter.exp4j.FunctionsTest.testFunctionNameZeroArgs()
+[11,3,6,8,9,12]

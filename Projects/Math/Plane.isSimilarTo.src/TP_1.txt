@@ -1,0 +1,5 @@
+org.apache.commons.math4.geometry.euclidean.threed.PlaneTest.testSimilar()
+[5,2,3,6]
+[5,2,3,6]
+[5,2,3,6]
+[5,2,3,6]

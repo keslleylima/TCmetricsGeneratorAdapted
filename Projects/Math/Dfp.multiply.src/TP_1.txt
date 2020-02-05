@@ -1,0 +1,2 @@
+org.apache.commons.math4.ExtendedFieldElementAbstractTest.testMultiplyInt()
+[5,2,3,6]

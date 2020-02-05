@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.interpolation.LoessInterpolatorTest.testOnDistortedSine()
+[12,3,6,7,9,10,13]

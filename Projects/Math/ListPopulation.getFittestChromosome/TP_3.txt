@@ -1,0 +1,2 @@
+org.apache.commons.math4.genetics.ListPopulationTest.testGetFittestChromosome()
+[7,2,3,4,3,4,5,3,4,5,3,6,8]

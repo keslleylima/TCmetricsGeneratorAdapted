@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.FunctionUtilsTest.testSampleNullNumberOfPoints()
+[13,2,3,14]

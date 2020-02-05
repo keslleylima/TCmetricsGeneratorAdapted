@@ -1,0 +1,2 @@
+joptsimple.ArgumentAcceptingOptionSpecTest.rejectsNullConverter()
+[6,2,3,7]

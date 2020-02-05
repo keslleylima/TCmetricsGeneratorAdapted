@@ -1,0 +1,2 @@
+org.apache.commons.cli.PatternOptionBuilderTest.testEmptyPattern()
+[33,2,3,4,5,6,25,32,34]

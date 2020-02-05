@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.solvers.UnivariateSolverUtilsTest.testBadMaximumIterations()
+[34,2,4,6,7,35]

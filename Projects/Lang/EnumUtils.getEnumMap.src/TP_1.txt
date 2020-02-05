@@ -1,0 +1,2 @@
+org.apache.commons.lang3.EnumUtilsTest.test_getEnumMap()
+[6,2,3,4,3,4,3,4,3,5,7]

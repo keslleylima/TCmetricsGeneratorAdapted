@@ -1,0 +1,4 @@
+org.apache.commons.lang3.CharEncodingTest.testSupported()
+[7,2,4,8]
+[7,2,4,8]
+[7,2,4,8]

@@ -1,0 +1,11 @@
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\bin\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.exe
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\bin\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.deps.json
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\bin\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.runtimeconfig.json
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\bin\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.runtimeconfig.dev.json
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\bin\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.dll
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\bin\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.pdb
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\obj\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.csprojAssemblyReference.cache
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\obj\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.AssemblyInfoInputs.cache
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\obj\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.AssemblyInfo.cs
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\obj\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.dll
+D:\GitHub\TCmetricsGeneratorAdapted\TCMetricsGeneratorAdapted\obj\Debug\netcoreapp3.1\TCMetricsGeneratorAdapted.pdb

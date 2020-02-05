@@ -1,0 +1,2 @@
+net.objecthunter.exp4j.ExpressionValidateTest.testValidateNumber()
+[32,2,3,9,10,11,12,13,26,10,29,31,33]

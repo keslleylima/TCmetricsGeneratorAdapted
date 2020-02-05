@@ -1,0 +1,5 @@
+com.mpatric.mp3agic.BufferToolsTest.shouldRightPadUnicodeStringsCorrectly()
+[7,2,9,8]
+[7,2,9,8]
+[7,2,3,4,5,4,6,8]
+[7,2,3,4,5,4,5,4,6,8]

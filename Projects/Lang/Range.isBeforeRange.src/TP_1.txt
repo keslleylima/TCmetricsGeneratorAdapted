@@ -1,0 +1,9 @@
+org.apache.commons.lang3.RangeTest.testIsBeforeRange()
+[5,2,3,6]
+[5,2,4,6]
+[5,2,4,6]
+[5,2,4,6]
+[5,2,4,6]
+[5,2,4,6]
+[5,2,4,6]
+[5,2,4,6]

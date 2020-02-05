@@ -1,0 +1,2 @@
+org.apache.commons.math4.ExtendedFieldElementAbstractTest.testCopySignField()
+[5,2,4,6]

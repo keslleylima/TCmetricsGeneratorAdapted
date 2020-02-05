@@ -1,0 +1,2 @@
+org.apache.commons.lang3.ArrayUtilsTest.testShiftRangeNullChar()
+[30,2,3,31]

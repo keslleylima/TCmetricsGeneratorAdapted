@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.ID3WrapperTest.getComposerReturnsV2TagsComposer()
+[5,2,3,6]

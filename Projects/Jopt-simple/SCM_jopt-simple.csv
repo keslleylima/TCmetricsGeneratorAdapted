@@ -1,0 +1,1704 @@
+Kind;Name;CountInput;CountLineCode;CountLineCodeDecl;CountLineCodeExe;CountOutput;CountPath;CountPathLog;CountStmt;CountStmtDecl;CountStmtExe;Cyclomatic;CyclomaticModified;CyclomaticStrict;Essential;Knots;MaxEssentialKnots;MaxNesting;MinEssentialKnots
+Unnamed Function;(unnamed_function_1);;35;;;;4;1;15;11;4;4;4;4;1;;;3;
+File;AbbreviationMap.java;;111;40;70;;;;91;37;54;;;;;;;2;
+File;AbbreviationMapTest.java;;281;52;205;;;;234;29;205;;;;;;;0;
+File;AbbreviationMapToJavaUtilMapTest.java;;92;33;45;;;;65;20;45;;;;;;;0;
+File;AbstractOptionParserFixture.java;;23;14;5;;;;17;13;4;;;;;;;0;
+File;AbstractOptionSpec.java;;101;45;41;;;;69;35;34;;;;;;;2;
+File;AbstractOptionSpecFixture.java;;27;16;5;;;;16;11;5;;;;;;;0;
+File;AbstractOptionSpecOptionsImmutabilityTestCase.java;;19;12;4;;;;12;9;3;;;;;;;0;
+File;AbstractOptionSpecValuesImmutabilityTestCase.java;;17;12;5;;;;14;11;3;;;;;;;0;
+File;AlternativeLongOptionSpec.java;;27;9;15;;;;13;8;5;;;;;;;1;
+File;AlternativeLongOptionSpecOptionsImmutabilityTest.java;;12;7;2;;;;7;5;2;;;;;;;0;
+File;AlternativeLongOptionSpecValuesImmutabilityTest.java;;24;13;5;;;;12;7;5;;;;;;;0;
+File;AlternativeLongOptionsTest.java;;17;10;7;;;;14;9;5;;;;;;;0;
+File;ArgumentAcceptingOptionSpec.java;;146;61;64;;;;101;47;54;;;;;;;2;
+File;ArgumentAcceptingOptionSpecDefaultValuesImmutabilityTest.java;;17;10;3;;;;10;7;3;;;;;;;0;
+File;ArgumentAcceptingOptionSpecTest.java;;77;38;23;;;;40;22;18;;;;;;;0;
+File;ArgumentList.java;;22;10;6;;;;16;10;6;;;;;;;1;
+File;ArgumentListHasNoMoreArgsTest.java;;22;13;4;;;;13;9;4;;;;;;;0;
+File;ArgumentListTest.java;;36;14;16;;;;27;11;16;;;;;;;0;
+File;AvailableIfAnyTest.java;;43;21;18;;;;30;15;15;;;;;;;0;
+File;AvailableIfUnlessTest.java;;90;36;45;;;;61;24;37;;;;;;;0;
+File;AvailableUnlessAnyTest.java;;43;21;18;;;;30;15;15;;;;;;;0;
+File;BuiltinHelpFormatter.java;;214;65;124;;;;149;64;85;;;;;;;2;
+File;BuiltinHelpFormatterTest.java;;24;17;12;;;;17;14;3;;;;;;;0;
+File;Classes.java;;27;10;13;;;;20;8;12;;;;;;;0;
+File;ClassesUtilityClassTest.java;;7;4;1;;;;5;4;1;;;;;;;0;
+File;ClusterVersusLongOptionTest.java;;48;22;24;;;;35;16;19;;;;;;;0;
+File;ClusterVersusLongOptionWithOptionalArgumentTest.java;;80;34;43;;;;59;24;35;;;;;;;0;
+File;ClusterVersusLongOptionWithRequiredArgumentTest.java;;80;34;43;;;;59;24;35;;;;;;;0;
+File;ClusterWhereManyOptionsAcceptArgumentsTest.java;;115;44;69;;;;88;31;57;;;;;;;0;
+File;Columns.java;;56;27;32;;;;51;29;22;;;;;;;1;
+File;ConfigurableOptionParserHelpTest.java;;374;76;269;;;;153;47;106;;;;;;;0;
+File;ConstructorInvokingValueConverter.java;;22;13;4;;;;14;10;4;;;;;;;0;
+File;CreateWithOptionSpecificationStringTest.java;;18;10;7;;;;12;8;4;;;;;;;0;
+File;Ctor.java;;13;6;3;;;;9;6;3;;;;;;;0;
+File;DateConverter.java;;61;27;28;;;;40;23;17;;;;;;;1;
+File;DateConverterTest.java;;96;48;33;;;;64;39;25;;;;;;;0;
+File;DefaultSettingsOptionParserHelpTest.java;;598;118;437;;;;237;73;164;;;;;;;0;
+File;DefaultValuesForOptionArgumentsTest.java;;49;30;27;;;;41;24;17;;;;;;;0;
+File;EmptyOptionSetTest.java;;58;32;13;;;;33;20;13;;;;;;;0;
+File;EnumConverter.java;;53;26;22;;;;40;24;16;;;;;;;2;
+File;EnumConverterTest.java;;52;31;11;;;;32;22;10;;;;;;;0;
+File;ExceptionExample.java;;8;5;2;;;;6;5;1;;;;;;;0;
+File;ExceptionMatchers.java;;46;10;25;;;;29;16;13;;;;;;;0;
+File;ExportOptionsTest.java;;49;28;26;;;;42;29;13;;;;;;;2;
+File;HTMLEntitifier.java;;46;20;23;;;;36;18;18;;;;;;;2;
+File;HandlingDefaultValuesForOptionArgumentsTest.java;;142;58;96;;;;114;41;73;;;;;;;0;
+File;HelpDisplayForOptionsWithConvertedDefaultValuesTest.java;;24;13;11;;;;14;11;3;;;;;;;0;
+File;HelpFormatter.java;;5;4;0;;;;4;4;0;;;;;;;0;
+File;HelpFormatterExample.java;;60;19;35;;;;43;19;24;;;;;;;1;
+File;HelpScreenExample.java;;29;10;16;;;;17;9;8;;;;;;;0;
+File;IllegalOptionSpecificationException.java;;12;7;3;;;;8;6;2;;;;;;;0;
+File;InetAddressConverter.java;;38;17;13;;;;20;13;7;;;;;;;1;
+File;InetAddressConverterTest.java;;24;16;4;;;;17;13;4;;;;;;;0;
+File;InterleavedArgumentsTest.java;;82;43;48;;;;61;34;27;;;;;;;0;
+File;Issue76Test.java;;35;13;17;;;;26;14;12;;;;;;;1;
+File;JVMSystemPropertiesArgumentParsingTest.java;;20;13;5;;;;13;11;2;;;;;;;0;
+File;KeyValuePair.java;;33;17;14;;;;24;14;10;;;;;;;1;
+File;KeyValuePairTest.java;;45;24;19;;;;30;17;13;;;;;;;0;
+File;KeyValuePairUnequalKeysTest.java;;12;7;2;;;;7;5;2;;;;;;;0;
+File;KeyValuePairUnequalValuesTest.java;;12;7;2;;;;7;5;2;;;;;;;0;
+File;Level.java;;6;5;0;;;;2;2;0;;;;;;;0;
+File;LongOptionNoArgumentTest.java;;42;20;19;;;;31;15;16;;;;;;;0;
+File;LongOptionOptionalArgumentTest.java;;34;17;15;;;;25;13;12;;;;;;;0;
+File;LongOptionRequiredArgumentTest.java;;59;26;30;;;;44;19;25;;;;;;;0;
+File;LongOptionsTest.java;;16;10;6;;;;13;9;4;;;;;;;0;
+File;LongOptionsWithArgumentPositioningTest.java;;20;10;10;;;;17;9;8;;;;;;;0;
+File;LongOptionsWithArgumentsTest.java;;46;15;32;;;;41;13;28;;;;;;;0;
+File;Maven__com_google_collections_google_collections_1_0_rc1.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__commons_io_commons_io_1_4.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__commons_lang_commons_lang_2_4.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__joda_time_joda_time_2_9_7.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__junit_junit_4_12.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_apache_ant_ant_1_8_4.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_apache_ant_ant_launcher_1_8_4.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_hamcrest_hamcrest_all_1_3.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_hamcrest_hamcrest_core_1_3.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Maven__org_infinitest_continuous_testing_toolkit_1_0.xml;;13;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;Messages.java;;16;10;6;;;;13;10;3;;;;;;;0;
+File;MessagesUtilityClassTest.java;;7;4;1;;;;5;4;1;;;;;;;0;
+File;MethodInvokingValueConverter.java;;24;14;5;;;;16;11;5;;;;;;;0;
+File;MissingRequiredOptionsException.java;;12;7;3;;;;8;6;2;;;;;;;0;
+File;MultipleArgumentsForOptionException.java;;12;7;3;;;;8;6;2;;;;;;;0;
+File;MultipleDelimitedArgumentsTest.java;;27;19;11;;;;19;16;3;;;;;;;0;
+File;NoArgumentOptionSpec.java;;49;26;11;;;;27;16;11;;;;;;;0;
+File;NoArgumentOptionSpecOptionsImmutabilityTest.java;;7;4;1;;;;4;3;1;;;;;;;0;
+File;NoArgumentOptionSpecTest.java;;19;12;3;;;;12;9;3;;;;;;;0;
+File;NoArgumentOptionSpecValuesImmutabilityTest.java;;23;12;5;;;;12;7;5;;;;;;;0;
+File;NonOptionArgumentSpec.java;;74;38;22;;;;45;25;20;;;;;;;1;
+File;NonOptionArgumentSpecTest.java;;71;43;33;;;;45;34;11;;;;;;;0;
+File;OptionArgumentConversionException.java;;14;8;4;;;;10;7;3;;;;;;;0;
+File;OptionArgumentConverterTest.java;;19;13;6;;;;16;12;4;;;;;;;0;
+File;OptionArgumentValueTypeTest.java;;21;10;11;;;;18;9;9;;;;;;;0;
+File;OptionDeclarer.java;;13;12;0;;;;12;12;0;;;;;;;0;
+File;OptionDescriptor.java;;15;14;0;;;;14;14;0;;;;;;;0;
+File;OptionException.java;;72;34;27;;;;56;34;22;;;;;;;2;
+File;OptionExceptionLocalizedMessageTest.java;;49;18;27;;;;19;15;4;;;;;;;0;
+File;OptionExceptionMessageTest.java;;105;29;69;;;;35;21;14;;;;;;;1;
+File;OptionExceptionOptionsImmutabilityTest.java;;24;11;8;;;;14;10;4;;;;;;;0;
+File;OptionMissingRequiredArgumentException.java;;12;7;3;;;;8;6;2;;;;;;;0;
+File;OptionNameMap.java;;10;9;0;;;;9;9;0;;;;;;;0;
+File;OptionParser.java;;314;112;158;;;;246;116;130;;;;;;;3;
+File;OptionParserAlternateHelpFormatterTest.java;;49;24;24;;;;40;22;18;;;;;;;0;
+File;OptionParserArgumentExceptionTest.java;;41;22;9;;;;22;13;9;;;;;;;0;
+File;OptionParserNewDeclarationTest.java;;243;57;184;;;;208;41;167;;;;;;;0;
+File;OptionParserOptionExceptionTest.java;;46;18;23;;;;33;12;21;;;;;;;0;
+File;OptionParserRecognizedOptionsTest.java;;32;12;18;;;;25;10;15;;;;;;;0;
+File;OptionParserState.java;;39;7;26;;;;27;9;18;;;;;;;2;
+File;OptionParserTest.java;;239;78;156;;;;185;56;129;;;;;;;0;
+File;OptionParserUnrecognizedOptionsAllowedTest.java;;20;11;7;;;;15;9;6;;;;;;;0;
+File;OptionSet.java;;153;60;84;;;;122;61;61;;;;;;;2;
+File;OptionSetAsMapTest.java;;36;22;20;;;;30;21;9;;;;;;;0;
+File;OptionSetDetectedOptionsTest.java;;16;13;7;;;;13;12;1;;;;;;;0;
+File;OptionSetEqualsHashCodeTest.java;;25;14;9;;;;16;10;6;;;;;;;0;
+File;OptionSetNonOptionArgumentsImmutabilityTest.java;;23;14;7;;;;15;10;5;;;;;;;0;
+File;OptionSetSpecsImmutabilityTest.java;;20;12;5;;;;13;9;4;;;;;;;0;
+File;OptionSetSpecsWithNonOptionsTest.java;;27;11;16;;;;13;9;4;;;;;;;0;
+File;OptionSetValuesOfOptionStringImmutabilityTest.java;;23;14;7;;;;15;10;5;;;;;;;0;
+File;OptionSetValuesOfSpecImmutabilityTest.java;;22;13;7;;;;15;10;5;;;;;;;0;
+File;OptionSpec.java;;12;9;1;;;;10;9;1;;;;;;;0;
+File;OptionSpecBuilder.java;;85;27;49;;;;77;35;42;;;;;;;2;
+File;OptionSpecBuilderOptionsImmutabilityTest.java;;8;5;1;;;;5;4;1;;;;;;;0;
+File;OptionSpecBuilderValuesImmutabilityTest.java;;24;13;5;;;;13;8;5;;;;;;;0;
+File;OptionSpecTokenizer.java;;72;18;45;;;;56;18;38;;;;;;;2;
+File;OptionSpecTokenizerTest.java;;147;69;73;;;;105;50;55;;;;;;;0;
+File;OptionSpecsReportTheirOptionsSortedSpeciallyTest.java;;14;11;3;;;;11;10;1;;;;;;;0;
+File;OptionSynonymCommonPrefixesTest.java;;48;23;16;;;;30;15;15;;;;;;;0;
+File;OptionSynonymNoArgumentTest.java;;34;17;12;;;;24;13;11;;;;;;;0;
+File;OptionSynonymOptionalArgumentTest.java;;41;22;13;;;;27;17;10;;;;;;;0;
+File;OptionSynonymOverwritingTest.java;;18;10;6;;;;13;8;5;;;;;;;0;
+File;OptionSynonymRequiredArgumentTest.java;;42;21;15;;;;26;16;10;;;;;;;0;
+File;OptionSynonymTest.java;;24;15;10;;;;21;15;6;;;;;;;1;
+File;OptionalArgumentOptionSpec.java;;32;9;17;;;;21;8;13;;;;;;;2;
+File;OptionalArgumentOptionSpecOptionsImmutabilityTest.java;;7;4;1;;;;4;3;1;;;;;;;0;
+File;OptionalArgumentOptionSpecTest.java;;19;12;3;;;;12;9;3;;;;;;;0;
+File;OptionalArgumentOptionSpecValuesImmutabilityTest.java;;24;13;5;;;;12;7;5;;;;;;;0;
+Class Function;PR_DecodeHelper;;4;;;;1;0;3;1;2;1;1;1;1;;;0;
+Function;PR_DecodeHelper.prototype.decode;;38;;;;22;1;26;8;18;8;8;10;1;;;4;
+Class Function;PR_Token;;7;;;;2;0;5;1;4;2;2;2;1;;;1;
+Function;PR_Token.prototype.toString;;3;;;;1;0;2;1;1;2;2;2;1;;;0;
+Class Function;PR_TokenEnd;;10;;;;4;1;7;1;6;3;3;3;3;;;1;
+Function;PR_TokenEnd.prototype.toString;;4;;;;1;0;2;1;1;2;2;2;1;;;0;
+Function;PR_attribToHtml;;7;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;PR_chunkify;;25;;;;5;1;18;7;11;5;5;7;5;;;4;
+Function;PR_endsWith;;4;;;;1;0;2;1;1;1;1;2;1;;;0;
+Function;PR_expandTabs;;40;;;;11;1;30;11;19;8;6;8;3;;;4;
+Function;PR_getInnerHtml;;20;;;;8;1;14;4;10;5;5;5;1;;;2;
+Function;PR_isDigitChar;;3;;;;1;0;2;1;1;1;1;2;1;;;0;
+Function;PR_isIdentifierPart;;3;;;;1;0;2;1;1;1;1;2;1;;;0;
+Function;PR_isIdentifierStart;;3;;;;1;0;2;1;1;1;1;4;1;;;0;
+Function;PR_isRawContent;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;PR_isSpaceChar;;3;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;PR_isWordChar;;3;;;;1;0;2;1;1;1;1;4;1;;;0;
+Function;PR_lexMarkup;;7;;;;1;0;6;2;4;1;1;1;1;;;0;
+Function;PR_lexOne;;18;;;;6;1;12;3;9;7;7;7;6;;;5;
+Function;PR_lexSource;;13;;;;3;0;10;4;6;3;3;3;3;;;2;
+Function;PR_normalizedHtml;;29;;;;15;1;20;3;17;9;6;10;6;;;3;
+Function;PR_prefixMatch;;11;;;;4;1;7;1;6;4;4;4;4;;;2;
+Function;PR_splitAttributeQuotes;;62;;;;1458;3;43;10;33;15;15;17;7;;;2;
+Function;PR_splitChunks;;38;;;;21;1;27;10;17;8;8;8;3;;;3;
+Function;PR_splitMarkup;;182;;;;8643;4;119;15;104;54;42;56;3;;;10;
+Function;PR_splitNonStringNonCommentToken;;108;;;;449;3;71;15;56;28;25;37;12;;;10;
+Function;PR_splitSourceAttributes;;54;;;;13;1;36;9;27;13;13;15;1;;;6;
+Function;PR_splitSourceNodes;;110;;;;2945;3;66;11;55;27;27;36;5;;;7;
+Function;PR_splitStringAndCommentTokens;;95;;;;66;2;67;12;55;27;23;30;1;;;12;
+Function;PR_splitTagAttributes;;117;;;;137;2;82;13;69;29;22;30;1;;;7;
+Function;PR_startsWith;;3;;;;1;0;2;1;1;1;1;2;1;;;0;
+Function;PR_textToHtml;;6;;;;1;0;2;1;1;1;1;1;1;;;0;
+Function;PR_tokenizeMarkup;;7;;;;2;0;5;2;3;2;2;3;1;;;1;
+Function;PR_trim;;10;;;;4;1;7;2;5;3;3;5;1;;;1;
+File;ParserRules.java;;42;18;21;;;;34;20;14;;;;;;;1;
+File;ParserRulesUtilityClassTest.java;;6;3;1;;;;4;3;1;;;;;;;0;
+File;ParsingSeparatedConvertedOptionValuesTest.java;;48;16;23;;;;26;16;10;;;;;;;0;
+File;ParsingSeparatedStringOptionValuesTest.java;;35;19;9;;;;21;13;8;;;;;;;0;
+File;ParsingSeparatedTypedOptionValuesTest.java;;30;16;9;;;;18;12;6;;;;;;;0;
+File;PathConverter.java;;38;21;13;;;;28;19;9;;;;;;;3;
+File;PathConverterTest.java;;77;43;39;;;;59;34;25;;;;;;;0;
+File;PathProperties.java;;49;32;8;;;;22;14;8;;;;;;;0;
+File;PathPropertiesTest.java;;41;16;24;;;;34;13;21;;;;;;;0;
+File;PlainOldOptionParserTest.java;;12;9;3;;;;9;8;1;;;;;;;0;
+File;PopulatedOptionSetTest.java;;39;20;12;;;;26;14;12;;;;;;;0;
+File;PosixlyCorrectOptionParserTest.java;;37;17;17;;;;24;13;11;;;;;;;0;
+File;PosixlyCorrectTest.java;;29;13;17;;;;26;12;14;;;;;;;0;
+File;Problematic.java;;16;7;3;;;;10;7;3;;;;;;;0;
+File;PunctuationInLongOptionTest.java;;34;18;9;;;;20;12;8;;;;;;;0;
+File;PunctuationInShortOptionTest.java;;25;14;6;;;;15;10;5;;;;;;;0;
+File;Reflection.java;;70;23;38;;;;51;22;29;;;;;;;2;
+File;ReflectionException.java;;7;4;2;;;;5;4;1;;;;;;;0;
+File;ReflectionTest.java;;57;30;25;;;;42;24;18;;;;;;;0;
+File;ReflectionUtilityClassTest.java;;7;4;1;;;;5;4;1;;;;;;;0;
+File;RegexMatcher.java;;41;20;15;;;;24;16;8;;;;;;;1;
+File;RegexMatcherTest.java;;44;26;11;;;;29;19;10;;;;;;;0;
+File;RequiredArgumentOptionSpec.java;;16;7;5;;;;11;6;5;;;;;;;1;
+File;RequiredArgumentOptionSpecEqualsHashCodeTest.java;;11;6;2;;;;6;4;2;;;;;;;0;
+File;RequiredArgumentOptionSpecOptionsImmutabilityTest.java;;7;4;1;;;;4;3;1;;;;;;;0;
+File;RequiredArgumentOptionSpecValuesImmutabilityTest.java;;24;13;5;;;;12;7;5;;;;;;;0;
+File;RequiredIfAnyTest.java;;44;22;19;;;;31;16;15;;;;;;;0;
+File;RequiredIfExample.java;;11;5;5;;;;9;5;4;;;;;;;0;
+File;RequiredIfTest.java;;64;29;29;;;;45;20;25;;;;;;;0;
+File;RequiredOptionsTest.java;;41;20;15;;;;25;14;11;;;;;;;0;
+File;RequiredUnlessAnyTest.java;;44;22;22;;;;33;17;16;;;;;;;0;
+File;RequiredUnlessExample.java;;11;5;5;;;;9;5;4;;;;;;;0;
+File;RequiredUnlessTest.java;;66;31;30;;;;47;22;25;;;;;;;0;
+File;Row.java;;22;10;9;;;;16;8;8;;;;;;;1;
+File;RowEqualsHashCodeTest.java;;17;9;4;;;;9;6;3;;;;;;;0;
+File;Rows.java;;56;23;26;;;;48;26;22;;;;;;;1;
+File;RowsTest.java;;49;17;30;;;;25;14;11;;;;;;;0;
+File;ShortOptionsClusteringTest.java;;16;10;6;;;;13;9;4;;;;;;;0;
+File;ShortOptionsClusteringWithArgumentTest.java;;19;10;9;;;;16;9;7;;;;;;;0;
+File;ShortOptionsNoArgumentTest.java;;74;29;43;;;;59;22;37;;;;;;;0;
+File;ShortOptionsOptionalArgumentTest.java;;59;27;29;;;;44;20;24;;;;;;;0;
+File;ShortOptionsRequiredArgumentTest.java;;84;36;44;;;;63;26;37;;;;;;;0;
+File;ShortOptionsTest.java;;16;10;6;;;;13;9;4;;;;;;;0;
+File;ShortOptionsWithArgumentPositioningTest.java;;21;10;11;;;;18;9;9;;;;;;;0;
+File;ShortOptionsWithArgumentsTest.java;;22;11;11;;;;19;10;9;;;;;;;0;
+File;ShortOptionsWithMultipleArgumentsForSingleOptionTest.java;;23;16;8;;;;20;15;5;;;;;;;0;
+File;SignallingEndOfOptionsTest.java;;26;12;14;;;;23;11;12;;;;;;;0;
+File;SimpleOptionNameMap.java;;31;17;8;;;;19;12;7;;;;;;;1;
+File;SimpleOptionNameMapTest.java;;48;27;25;;;;37;22;15;;;;;;;0;
+File;SingleHyphenTest.java;;30;17;11;;;;21;13;8;;;;;;;0;
+File;SpecialOptionalArgumentHandlingTest.java;;22;11;11;;;;19;10;9;;;;;;;0;
+File;Strings.java;;21;10;9;;;;18;11;7;;;;;;;1;
+File;StringsUtilityClassTest.java;;7;4;1;;;;5;4;1;;;;;;;0;
+File;SwitchConverter.java;;28;11;13;;;;15;7;8;;;;;;;1;
+File;ToStringTest.java;;36;20;13;;;;23;18;5;;;;;;;1;
+File;TypesafeOptionArgumentRetrievalTest.java;;222;116;120;;;;149;92;57;;;;;;;0;
+File;TypesafeOptionArgumentRetrievalTest.java;;37;20;23;;;;34;19;15;;;;;;;0;
+File;UnavailableOptionException.java;;12;7;3;;;;8;6;2;;;;;;;0;
+File;UnconfiguredOptionException.java;;16;9;4;;;;11;8;3;;;;;;;0;
+File;UnrecognizedOptionException.java;;12;7;3;;;;8;6;2;;;;;;;0;
+File;UnrecognizedOptionsAllowedTest.java;;18;11;7;;;;15;10;5;;;;;;;0;
+File;UtilityClassesUninstantiabilityHarness.java;;23;15;7;;;;19;14;5;;;;;;;0;
+File;ValueConversionException.java;;10;5;3;;;;7;5;2;;;;;;;0;
+File;ValueConverter.java;;9;6;1;;;;7;6;1;;;;;;;0;
+File;ValueConverterAdmitsSubclassesOfValueTypeTest.java;;33;13;15;;;;20;15;5;;;;;;;0;
+File;ValueOfHaver.java;;8;4;1;;;;5;4;1;;;;;;;0;
+File;WAsAbbreviationForLongOptionTest.java;;27;14;10;;;;20;11;9;;;;;;;0;
+File;WAsShortOptionTest.java;;26;14;9;;;;19;11;8;;;;;;;0;
+File;WExtensionNoArgumentTest.java;;28;14;11;;;;21;11;10;;;;;;;0;
+File;WExtensionWithArgumentTest.java;;68;30;36;;;;51;22;29;;;;;;;0;
+File;compiler.xml;;16;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;encodings.xml;;7;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;jopt-simple-eclipse-formatting.xml;;283;;;;0;0;0;0;0;0;0;0;0;;;0;
+Package;joptsimple;;6824;2791;3442;;;;4492;2198;2294;;;;;;;3;
+Public Abstract Class;joptsimple.AbstractOptionParserFixture;;17;8;5;;;;11;7;4;;;;;;;0;
+Static Method;joptsimple.AbstractOptionParserFixture.assertOptionDetected(OptionSet,String);81;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Static Method;joptsimple.AbstractOptionParserFixture.assertOptionNotDetected(OptionSet,String);23;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Static Method;joptsimple.AbstractOptionParserFixture.assertOptionNotDetected(String,OptionSet,String);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionParserFixture.createNewParser();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Abstract Generic Class;joptsimple.AbstractOptionSpec;;93;37;41;;;;61;27;34;;;;;;;2;
+Constructor;joptsimple.AbstractOptionSpec.AbstractOptionSpec(List<String>,String);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Constructor;joptsimple.AbstractOptionSpec.AbstractOptionSpec(String);3;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.AbstractOptionSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Protected Method;joptsimple.AbstractOptionSpec.argumentTypeIndicatorFrom(ValueConverter<V>);3;6;2;4;4;2;0;5;2;3;3;3;3;1;1;0;1;0
+Private Method;joptsimple.AbstractOptionSpec.arrangeOptions(List<String>);3;18;3;14;5;4;1;15;4;11;4;4;4;1;2;0;2;0
+Protected Abstract Method;joptsimple.AbstractOptionSpec.convert(String);1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Method;joptsimple.AbstractOptionSpec.convertWith(ValueConverter<V>,String);5;7;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;joptsimple.AbstractOptionSpec.description();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.equals(Object);3;6;2;4;2;2;0;5;2;3;2;2;2;1;1;0;1;0
+Public Method;joptsimple.AbstractOptionSpec.forHelp();6;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Abstract Method;joptsimple.AbstractOptionSpec.handleOption(OptionParser,ArgumentList,OptionSet,String);4;2;2;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.hashCode();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.isForHelp();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.options();19;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.representsNonOptions();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.toString();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.value(OptionSet);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.valueOptional(OptionSet);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpec.values(OptionSet);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Abstract Class;joptsimple.AbstractOptionSpecFixture;;24;13;5;;;;13;8;5;;;;;;;0;
+Protected Abstract Method;joptsimple.AbstractOptionSpecFixture.createEqualOptionSpecInstance();2;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Abstract Method;joptsimple.AbstractOptionSpecFixture.createNotEqualOptionSpecInstance();3;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Method;joptsimple.AbstractOptionSpecFixture.equal();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AbstractOptionSpecFixture.notEqual();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpecFixture.valueOptionalWithNullOptionSet();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpecFixture.valueWithNullOptionSet();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AbstractOptionSpecFixture.valuesWithNullOptionSet();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Abstract Class;joptsimple.AbstractOptionSpecOptionsImmutabilityTestCase;;16;9;4;;;;9;6;3;;;;;;;0;
+Protected Method;joptsimple.AbstractOptionSpecOptionsImmutabilityTestCase.containedItem();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AbstractOptionSpecOptionsImmutabilityTestCase.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AbstractOptionSpecOptionsImmutabilityTestCase.newList();0;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Protected Abstract Method;joptsimple.AbstractOptionSpecOptionsImmutabilityTestCase.newOptionSpec(String);1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Abstract Generic Class;joptsimple.AbstractOptionSpecValuesImmutabilityTestCase;;13;8;5;;;;10;7;3;;;;;;;0;
+TypeVariable;joptsimple.AbstractOptionSpecValuesImmutabilityTestCase.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Protected Abstract Method;joptsimple.AbstractOptionSpecValuesImmutabilityTestCase.firstArg();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Method;joptsimple.AbstractOptionSpecValuesImmutabilityTestCase.newList();0;7;3;5;8;1;0;6;3;3;1;1;1;1;0;0;0;0
+Protected Abstract Method;joptsimple.AbstractOptionSpecValuesImmutabilityTestCase.newOptionSpec();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Abstract Method;joptsimple.AbstractOptionSpecValuesImmutabilityTestCase.secondArg();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Class;joptsimple.AlternativeLongOptionSpec;;22;4;15;;;;8;3;5;;;;;;;1;
+Constructor;joptsimple.AlternativeLongOptionSpec.AlternativeLongOptionSpec();6;14;1;12;6;1;0;3;1;2;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AlternativeLongOptionSpec.detectOptionArgument(OptionParser,ArgumentList,OptionSet);1;5;1;3;3;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Class;joptsimple.AlternativeLongOptionSpecOptionsImmutabilityTest;;10;5;2;;;;5;3;2;;;;;;;0;
+Protected Method;joptsimple.AlternativeLongOptionSpecOptionsImmutabilityTest.containedItem();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AlternativeLongOptionSpecOptionsImmutabilityTest.newOptionSpec(String);0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.AlternativeLongOptionSpecValuesImmutabilityTest;;23;12;5;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.AlternativeLongOptionSpecValuesImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AlternativeLongOptionSpecValuesImmutabilityTest.firstArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AlternativeLongOptionSpecValuesImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AlternativeLongOptionSpecValuesImmutabilityTest.newOptionSpec();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.AlternativeLongOptionSpecValuesImmutabilityTest.secondArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Abstract Generic Class;joptsimple.ArgumentAcceptingOptionSpec;;137;52;64;;;;92;38;54;;;;;;;2;
+Constructor;joptsimple.ArgumentAcceptingOptionSpec.ArgumentAcceptingOptionSpec(List<String>,boolean,String);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Constructor;joptsimple.ArgumentAcceptingOptionSpec.ArgumentAcceptingOptionSpec(String,boolean);4;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.ArgumentAcceptingOptionSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.acceptsArguments();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.ArgumentAcceptingOptionSpec.addArguments(OptionSet,String);7;9;2;6;3;3;0;6;2;4;3;3;3;1;1;0;2;0
+Private Method;joptsimple.ArgumentAcceptingOptionSpec.addDefaultValue(V);4;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.argumentConverter();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.argumentDescription();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.argumentTypeIndicator();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.ArgumentAcceptingOptionSpec.canConvertArgument(String);3;10;2;7;4;3;0;7;2;5;3;3;3;1;1;0;2;0
+Protected Method;joptsimple.ArgumentAcceptingOptionSpec.convert(String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.defaultValues();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.defaultsTo(V,V...);18;5;1;3;2;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.defaultsTo(V[]);3;5;1;3;2;2;0;5;2;3;2;2;2;1;0;0;1;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.describedAs(String);16;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Protected Abstract Method;joptsimple.ArgumentAcceptingOptionSpec.detectOptionArgument(OptionParser,ArgumentList,OptionSet);1;2;2;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.equals(Object);1;6;2;4;3;2;0;5;2;3;2;2;2;1;1;0;1;0
+Method;joptsimple.ArgumentAcceptingOptionSpec.handleOption(OptionParser,ArgumentList,OptionSet,String);4;7;2;4;2;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.hashCode();1;3;1;1;2;1;0;2;1;1;2;2;2;1;0;0;0;0
+Protected Method;joptsimple.ArgumentAcceptingOptionSpec.isArgumentOfNumberType();2;3;1;1;3;1;0;2;1;1;1;1;2;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.isRequired();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Method;joptsimple.ArgumentAcceptingOptionSpec.ofType(Class<T>);66;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.ArgumentAcceptingOptionSpec.ofType.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.required();5;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.requiresArgument();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Method;joptsimple.ArgumentAcceptingOptionSpec.withValuesConvertedBy(ValueConverter<T>);14;6;1;4;2;2;0;5;1;4;2;2;2;1;0;0;1;0
+TypeVariable;joptsimple.ArgumentAcceptingOptionSpec.withValuesConvertedBy.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.withValuesSeparatedBy(String);5;6;1;4;3;2;0;5;1;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpec.withValuesSeparatedBy(char);7;6;1;4;3;2;0;5;1;4;2;2;2;1;0;0;1;0
+Public Class;joptsimple.ArgumentAcceptingOptionSpecDefaultValuesImmutabilityTest;;14;7;3;;;;7;4;3;;;;;;;0;
+Protected Method;joptsimple.ArgumentAcceptingOptionSpecDefaultValuesImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.ArgumentAcceptingOptionSpecDefaultValuesImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.ArgumentAcceptingOptionSpecDefaultValuesImmutabilityTest.newList();0;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ArgumentAcceptingOptionSpecTest;;73;34;23;;;;36;18;18;;;;;;;0;
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.optionalArgOfNonValueType();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.optionalArgOfNullType();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.optionalArgOfValueTypeBasedOnCtor();1;7;2;5;2;1;0;5;2;3;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.ArgumentAcceptingOptionSpecTest.optionalArgOfValueTypeBasedOnCtor.(lambda_expr_1)();1;4;0;3;5;1;0;2;0;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.optionalArgOfValueTypeBasedOnValueOf();1;4;1;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.ArgumentAcceptingOptionSpecTest.optionalArgOfValueTypeBasedOnValueOf.(lambda_expr_1)();1;1;0;1;3;1;0;0;0;0;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsNullConverter();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsNullDefaultValue();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsNullDefaultValueRemainder();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsNullInDefaultValueRemainder();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsUnicodeZeroAsCharValueSeparatorForOptionalArgument();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsUnicodeZeroAsCharValueSeparatorForRequiredArgument();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsUnicodeZeroInStringValueSeparatorForOptionalArgument();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.rejectsUnicodeZeroInStringValueSeparatorForRequiredArgument();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.requiredArgOfNonValueType();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.requiredArgOfNullType();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.requiredArgOfValueTypeBasedOnCtor();1;4;1;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.ArgumentAcceptingOptionSpecTest.requiredArgOfValueTypeBasedOnCtor.(lambda_expr_1)();1;1;0;1;3;1;0;0;0;0;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentAcceptingOptionSpecTest.requiredArgOfValueTypeBasedOnValueOf();1;4;1;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.ArgumentAcceptingOptionSpecTest.requiredArgOfValueTypeBasedOnValueOf.(lambda_expr_1)();1;1;0;1;3;1;0;0;0;0;1;1;1;1;0;0;0;0
+Class;joptsimple.ArgumentList;;20;8;6;;;;14;8;6;;;;;;;1;
+Constructor;joptsimple.ArgumentList.ArgumentList(String...);4;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.ArgumentList.hasMore();9;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.ArgumentList.next();9;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.ArgumentList.peek();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.ArgumentList.treatNextAsLongOption();7;4;1;2;2;2;0;3;1;2;2;2;2;1;0;0;1;0
+Public Class;joptsimple.ArgumentListHasNoMoreArgsTest;;19;10;4;;;;10;6;4;;;;;;;0;
+Public Method;joptsimple.ArgumentListHasNoMoreArgsTest.next();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentListHasNoMoreArgsTest.peek();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentListHasNoMoreArgsTest.setUp();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentListHasNoMoreArgsTest.treatNextAsLongOption();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ArgumentListTest;;32;10;16;;;;23;7;16;;;;;;;0;
+Private Method;joptsimple.ArgumentListTest.assertNextArgumentIs(String);4;5;1;3;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Private Method;joptsimple.ArgumentListTest.assertNoMoreArguments();3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentListTest.nextAndPeek();0;6;1;4;2;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentListTest.setUp();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ArgumentListTest.treatNextAsLongOption();1;9;1;7;3;1;0;8;1;7;1;1;1;1;0;0;0;0
+Public Class;joptsimple.AvailableIfAnyTest;;38;16;18;;;;25;10;15;;;;;;;0;
+Public Method;joptsimple.AvailableIfAnyTest.acceptsCommandLineWithAllowedOptionsPresent();1;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfAnyTest.configureParser();1;7;3;5;2;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfAnyTest.rejectsCommandLineExistingForbiddenOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfAnyTest.rejectsCommandLineExistingOtherForbiddenOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfAnyTest.rejectsCommandLineOnlyForbiddenOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfAnyTest.rejectsCommandLineWithNotAllConditionallyRequiredOptionsPresent();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.AvailableIfUnlessTest;;83;29;45;;;;54;17;37;;;;;;;0;
+Public Method;joptsimple.AvailableIfUnlessTest.acceptsCommandLineWithConditionallyAllowedOptionsPresent1();1;9;2;7;7;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.acceptsCommandLineWithConditionallyAllowedOptionsPresent2();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.configureParser();1;11;1;9;7;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.presenceOfHelpOptionNegatesAllowedIfness();1;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.presenceOfHelpOptionNegatesAllowedUnlessness();1;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsCommandLineOnlyContainingForbiddenOptionSynonym();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsConflictingCommandLineOptions1();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsConflictingCommandLineOptions2();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsEmptyMutualExclusiveness();2;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsIncompatibleOptions1();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsIncompatibleOptions2();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableIfUnlessTest.rejectsOptionNotAlreadyConfigured();3;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.AvailableUnlessAnyTest;;38;16;18;;;;25;10;15;;;;;;;0;
+Public Method;joptsimple.AvailableUnlessAnyTest.acceptsCommandLineWithAllowedOptionsPresent();1;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableUnlessAnyTest.configureParser();1;7;2;5;3;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableUnlessAnyTest.rejectsCommandLineExistingForbiddenOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableUnlessAnyTest.rejectsCommandLineExistingOtherForbiddenOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableUnlessAnyTest.rejectsCommandLineOnlyForbiddenOption();1;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.AvailableUnlessAnyTest.rejectsCommandLineWithNotAllConditionallyRequiredOptionsPresent();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.BuiltinHelpFormatter;;204;55;124;;;;139;54;85;;;;;;;2;
+Constructor;joptsimple.BuiltinHelpFormatter.BuiltinHelpFormatter();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;joptsimple.BuiltinHelpFormatter.BuiltinHelpFormatter(int,int);4;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addHeaders(Collection<? extends OptionDescriptor>);2;9;1;6;3;2;0;6;1;5;2;2;2;1;1;0;1;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addNonOptionRow(String);3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addNonOptionsDescription(Collection<? extends OptionDescriptor>);2;7;2;4;5;2;0;5;2;3;2;2;2;1;0;0;1;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addOptionRow(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addOptionRow(String,String);6;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addOptions(Collection<? extends OptionDescriptor>);2;6;1;3;4;3;0;5;2;3;3;3;3;1;0;0;2;0
+Protected Method;joptsimple.BuiltinHelpFormatter.addRows(Collection<? extends OptionDescriptor>);2;10;1;7;7;2;0;7;1;6;2;2;2;1;1;0;1;0
+Protected Method;joptsimple.BuiltinHelpFormatter.appendOptionHelp(StringBuilder,String,String,boolean);5;7;2;4;1;2;0;4;1;3;2;2;2;1;1;0;1;0
+Protected Method;joptsimple.BuiltinHelpFormatter.appendTypeIndicator(StringBuilder,String,String,char,char);6;12;2;8;2;6;1;9;1;8;4;4;4;1;0;0;2;0
+Protected Method;joptsimple.BuiltinHelpFormatter.createDefaultValuesDisplay(List<?>);2;3;1;1;4;1;0;2;1;1;2;2;2;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.createDescriptionDisplay(OptionDescriptor);3;16;5;13;12;2;0;7;4;3;2;2;2;1;1;0;1;0
+Lambda Method;joptsimple.BuiltinHelpFormatter.createDescriptionDisplay.(lambda_expr_1)();3;3;0;3;5;1;0;0;0;0;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.BuiltinHelpFormatter.createDescriptionDisplay.(lambda_expr_1).(lambda_expr_2)();2;1;0;1;2;1;0;0;0;0;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.createNonOptionArgumentsDisplay(OptionDescriptor);2;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.createOptionDisplay(OptionDescriptor);2;12;3;9;10;3;0;11;4;7;4;4;4;1;0;0;2;0
+Protected Method;joptsimple.BuiltinHelpFormatter.extractTypeIndicator(OptionDescriptor);2;9;2;6;7;3;0;7;2;5;3;3;5;3;2;2;1;2
+Protected Method;joptsimple.BuiltinHelpFormatter.findAndRemoveNonOptionsSpec(Collection<? extends OptionDescriptor>);2;10;2;6;6;3;0;8;3;5;3;3;3;3;3;3;2;3
+Protected Method;joptsimple.BuiltinHelpFormatter.fitRowsToWidth();3;4;1;2;1;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.BuiltinHelpFormatter.format(Map<String,? extends OptionDescriptor>);4;11;4;8;6;1;0;8;3;5;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.BuiltinHelpFormatter.format.(lambda_expr_1)(,);2;2;0;2;5;1;0;0;0;0;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.formattedHelpOutput();2;8;3;6;6;2;0;7;3;4;2;2;2;1;0;0;1;0
+Protected Method;joptsimple.BuiltinHelpFormatter.hasRequiredOption(Collection<? extends OptionDescriptor>);2;7;1;4;2;3;0;6;2;4;3;3;3;3;3;3;2;3
+Private Method;joptsimple.BuiltinHelpFormatter.isDateOption(OptionDescriptor);2;11;4;7;5;3;0;8;4;4;3;3;3;1;0;0;2;0
+Protected Method;joptsimple.BuiltinHelpFormatter.maybeAppendNonOptionsDescription(StringBuilder,OptionDescriptor);3;4;1;2;4;1;0;2;1;1;2;2;3;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.maybeAppendOptionInfo(StringBuilder,OptionDescriptor);4;9;3;6;7;2;0;5;3;2;2;2;4;1;0;0;1;0
+Protected Method;joptsimple.BuiltinHelpFormatter.message(String,Object...);7;8;1;6;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.nonOptionOutput();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.optionLeader(String);4;3;1;1;2;1;0;2;1;1;2;2;2;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.optionOutput();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.BuiltinHelpFormatter.shouldShowNonOptionArgumentDisplay(OptionDescriptor);2;5;1;3;5;1;0;2;1;1;1;1;3;1;0;0;0;0
+Public Class;joptsimple.BuiltinHelpFormatterTest;;17;11;12;;;;11;8;3;;;;;;;0;
+Public Method;joptsimple.BuiltinHelpFormatterTest.testFormatHelpWithDateOptionAndPatternThatContainsDots();0;15;9;12;8;1;0;10;7;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ClusterVersusLongOptionTest;;44;18;24;;;;31;12;19;;;;;;;0;
+Public Method;joptsimple.ClusterVersusLongOptionTest.initializeParser();1;6;1;4;1;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionTest.resolvesAbbreviationToLongOption();1;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionTest.resolvesShortOptionToShortOption();1;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionTest.resolvesShortOptionToShortOptionEvenWithDoubleHyphen();1;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionTest.resolvesToLongOptionEvenWithMatchingShortOptions();1;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionTest.resolvesToLongOptionWithSingleDashEvenWithMatchingShortOptions();1;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest;;75;29;43;;;;54;19;35;;;;;;;0;
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.initializeParser();1;6;1;4;2;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.longOptionWithMessedUpOrder();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.resolvesAbbreviationToLongOption();1;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.resolvesShortOptionToShortOption();1;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.resolvesShortOptionToShortOptionEvenWithDoubleHyphen();1;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.resolvesToLongOptionEvenWithMatchingShortOptions();1;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.resolvesToLongOptionWithSingleDashEvenWithMatchingShortOptions();1;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.resolvesToShortOptionsWithArgumentFollowingX();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.shortOptionsInDifferentOrder();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithOptionalArgumentTest.withArgumentComingAfterCluster();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest;;75;29;43;;;;54;19;35;;;;;;;0;
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.initializeParser();1;6;1;4;2;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.longOptionWithMessedUpOrder();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.resolvesAbbreviationToLongOption();1;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.resolvesShortOptionToShortOption();1;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.resolvesShortOptionToShortOptionEvenWithDoubleHyphen();1;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.resolvesToLongOptionEvenWithMatchingShortOptions();1;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.resolvesToLongOptionWithSingleDashEvenWithMatchingShortOptions();1;7;2;5;4;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.resolvesToShortOptionsWithArgumentFollowingX();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.shortOptionsInDifferentOrder();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterVersusLongOptionWithRequiredArgumentTest.withArgumentComingAfterCluster();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest;;110;39;69;;;;83;26;57;;;;;;;0;
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.foxPermutation();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.foxPermutationWithFollowingArg();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.fxoPermutation();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.fxoPermutationWithFollowingArg();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.initializeParser();1;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.ofxPermutation();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.ofxPermutationWithFollowingArg();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.oxfPermutation();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.oxfPermutationWithFollowingArg();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.xfoPermutation();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.xfoPermutationWithFollowingArg();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.xofPermutation();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ClusterWhereManyOptionsAcceptArgumentsTest.xofPermutationWithFollowingArg();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ConfigurableOptionParserHelpTest;;359;61;269;;;;138;32;106;;;;;;;0;
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.alternativeLongOptions();3;9;1;7;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Private Method;joptsimple.ConfigurableOptionParserHelpTest.assertHelpLines(String...);30;5;1;3;5;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.bothColumnsExceedingAllocatedWidths();3;15;1;13;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.createSink();1;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.dateConverterShowsDatePattern();3;9;1;7;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.dateConverterShowsDatePatternInCombinationWithDescription();3;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.gradleHelp();4;70;1;68;8;1;0;26;1;25;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.includesDefaultValueForArgumentWithDescription();4;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.includesDefaultValueForOptionalOptionArgument();3;9;1;7;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.includesDefaultValueForRequiredOptionArgument();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.includesListOfDefaultsForArgumentWithDescription();3;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.leavesEmbeddedNewlinesInDescriptionsAlone();4;15;3;12;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.marksRequiredOptionsSpecially();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionNoArgNoDescription();3;9;1;7;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionNoArgWithDescription();3;9;1;7;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionOptionalArgNoDescription();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionOptionalArgNoDescriptionWithType();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionOptionalArgWithDescription();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionOptionalArgWithDescriptionAndType();3;10;1;8;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionRequiredArgNoDescription();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionRequiredArgNoDescriptionWithType();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionRequiredArgWithDescription();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.oneOptionRequiredArgWithDescriptionAndType();3;10;1;8;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.optionSynonymsSortedByShortOptionThenLexicographical();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.optionSynonymsWithOptionalArgument();4;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.optionSynonymsWithRequiredArgument();3;9;1;7;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.optionSynonymsWithoutArguments();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.twoOptionsNoArgWithDescription();3;11;1;9;3;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ConfigurableOptionParserHelpTest.unconfiguredParser();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.CreateWithOptionSpecificationStringTest;;15;7;7;;;;9;5;4;;;;;;;0;
+Public Method;joptsimple.CreateWithOptionSpecificationStringTest.createsParserWithOptionSpecificationString();0;12;5;7;3;1;0;8;4;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.CreateWithOptionSpecificationStringTest.createsParserWithOptionSpecificationString.(Anon_1);;6;1;4;;;;3;0;3;;;;;;;0;
+Public Class;joptsimple.Ctor;;12;5;3;;;;8;5;3;;;;;;;0;
+Public Constructor;joptsimple.Ctor.Ctor(String);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.Ctor.getS();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Static Method;joptsimple.Ctor.valueOf(String);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.DefaultSettingsOptionParserHelpTest;;579;99;437;;;;218;54;164;;;;;;;0;
+Private Static Class;joptsimple.DefaultSettingsOptionParserHelpTest.FakeOutputStream;;12;7;2;;;;7;5;2;;;;;;;0;
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.FakeOutputStream.close();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.FakeOutputStream.flush();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.alternativeLongOptions();3;9;1;7;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Private Method;joptsimple.DefaultSettingsOptionParserHelpTest.assertHelpLines(String...);40;5;1;3;5;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.bothColumnsExceedingAllocatedWidths();3;16;1;14;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.canUseCustomHelpFormatter();2;16;2;14;2;1;0;14;2;12;1;1;1;1;0;0;0;0
+Lambda Method;joptsimple.DefaultSettingsOptionParserHelpTest.canUseCustomHelpFormatter.(lambda_expr_1)(Map (inferred));1;13;1;12;15;1;0;11;1;10;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.createSink();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.dateConverterShowsDatePattern();3;11;1;9;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.dateConverterShowsDatePatternInCombinationWithDescription();3;12;1;10;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.fixForIssue56();4;13;1;11;5;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.fixForIssue85();4;36;1;34;8;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.gradleHelp();4;97;1;95;8;1;0;26;1;25;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.includesDefaultValueForArgumentWithDescription();4;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.includesDefaultValueForOptionalOptionArgument();3;9;1;7;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.includesDefaultValueForRequiredOptionArgument();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.includesListOfDefaultsForArgumentWithDescription();3;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.inetAddressConverterShowsType();3;11;1;9;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.leavesEmbeddedNewlinesInDescriptionsAlone();4;15;3;12;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.marksRequiredOptionsSpecially();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionNoArgNoDescription();3;9;1;7;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionNoArgWithDescription();3;9;1;7;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionOptionalArgNoDescription();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionOptionalArgNoDescriptionWithType();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionOptionalArgWithDescription();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionOptionalArgWithDescriptionAndType();3;10;1;8;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionRequiredArgNoDescription();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionRequiredArgNoDescriptionWithType();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionRequiredArgWithDescription();3;9;1;7;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.oneOptionRequiredArgWithDescriptionAndType();3;10;1;8;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.optionSynonymsSortedByShortOptionThenLexicographical();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.optionSynonymsWithOptionalArgument();4;10;1;8;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.optionSynonymsWithRequiredArgument();3;9;1;7;6;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.optionSynonymsWithoutArguments();3;9;1;7;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.outputStreamFlushedButNotClosedWhenPrintingHelp();3;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.rejectsNullHelpFormatter();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.repeatedCalls();3;13;1;11;3;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.showsNonOptionArgumentDescription();3;10;1;8;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.showsNonOptionArgumentType();4;10;1;8;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.showsNonOptionArgumentTypeAndArgumentDescription();4;10;1;8;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.showsNonOptionArgumentTypeAndDescription();4;10;1;8;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.showsNonOptionArgumentTypeAndDescriptionAndArgumentDescription();4;10;1;8;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.showsNonOptionArgumentTypeDescribedAs();3;10;1;8;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.twoOptionsNoArgWithDescription();3;11;1;9;3;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.unconfiguredParser();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.DefaultSettingsOptionParserHelpTest.writingToOutputStream();2;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.EmptyOptionSetTest;;52;26;13;;;;27;14;13;;;;;;;0;
+Public Method;joptsimple.EmptyOptionSetTest.hasArgument();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.hasOptions();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.setUp();1;4;1;2;5;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valueOf();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valueOfOptional();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valueOfOptionalWithNullOptionSpec();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valueOfOptionalWithNullString();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valueOfWithNullOptionSpec();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valueOfWithNullString();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valuesOf();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valuesOfWithNullOptionSpec();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.EmptyOptionSetTest.valuesOfWithNullString();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ExceptionMatchers;;41;5;25;;;;24;11;13;;;;;;;0;
+Private Constructor;joptsimple.ExceptionMatchers.ExceptionMatchers();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.ExceptionMatchers.withCauseOfType(Class<? extends Throwable>);1;12;1;8;1;1;0;7;3;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.ExceptionMatchers.withCauseOfType.(Anon_2);;9;0;7;;;;5;2;3;;;;;;;0;
+Public Method;joptsimple.ExceptionMatchers.withCauseOfType.(Anon_2).describeTo(Description);2;4;0;3;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ExceptionMatchers.withCauseOfType.(Anon_2).matchesSafely(Throwable);2;3;0;2;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.ExceptionMatchers.withOption(String);19;12;1;8;1;1;0;7;3;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.ExceptionMatchers.withOption.(Anon_1);;9;0;7;;;;5;2;3;;;;;;;0;
+Public Method;joptsimple.ExceptionMatchers.withOption.(Anon_1).describeTo(Description);2;4;0;3;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ExceptionMatchers.withOption.(Anon_1).matchesSafely(OptionException);2;3;0;2;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.ExceptionMatchers.withTargetOfType(Class<? extends Throwable>);1;12;1;8;1;1;0;7;3;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.ExceptionMatchers.withTargetOfType.(Anon_3);;9;0;7;;;;5;2;3;;;;;;;0;
+Public Method;joptsimple.ExceptionMatchers.withTargetOfType.(Anon_3).describeTo(Description);2;4;0;3;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ExceptionMatchers.withTargetOfType.(Anon_3).matchesSafely(InvocationTargetException);2;3;0;2;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.HandlingDefaultValuesForOptionArgumentsTest;;133;49;96;;;;105;32;73;;;;;;;0;
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.allowsListOfDefaults();2;8;5;5;9;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.optionalArgOptionWithDefaultGivesArgIfSpecifiedOnCommandLine();2;19;5;16;22;1;0;17;4;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.optionalArgOptionWithDefaultGivesDefaultIfArgNotSpecifiedOnCommandLine();2;19;5;16;23;1;0;17;4;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.optionalArgOptionWithDefaultGivesDefaultIfOptionNotOnCommandLine();2;18;4;15;22;1;0;16;3;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.requiredArgOptionWithDefaultGivesArgIfArgSpecifiedOnCommandLine();2;19;5;16;22;1;0;17;4;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.requiredArgOptionWithDefaultGivesDefaultIfOptionNotOnCommandLine();2;18;4;15;22;1;0;16;3;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.requiredArgOptionWithDefaultStillsFailToParseIfArgNotSpecifiedOnCommandLine();1;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.specifiedOptionArgumentsTrumpsListOfDefaults();2;9;5;6;10;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.HandlingDefaultValuesForOptionArgumentsTest.withCompileTimeArraySpecifyingDefaults();2;8;5;5;9;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.HelpDisplayForOptionsWithConvertedDefaultValuesTest;;17;6;11;;;;7;4;3;;;;;;;0;
+Public Method;joptsimple.HelpDisplayForOptionsWithConvertedDefaultValuesTest.respectsRevertedDefaultValues();1;13;3;11;10;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Interface;joptsimple.HelpFormatter;;3;2;0;;;;2;2;0;;;;;;;0;
+Abstract Method;joptsimple.HelpFormatter.format(Map<String,? extends OptionDescriptor>);1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Class;joptsimple.IllegalOptionSpecificationException;;10;5;3;;;;6;4;2;;;;;;;0;
+Constructor;joptsimple.IllegalOptionSpecificationException.IllegalOptionSpecificationException(String);5;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.IllegalOptionSpecificationException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.InterleavedArgumentsTest;;77;38;48;;;;56;29;27;;;;;;;0;
+Public Method;joptsimple.InterleavedArgumentsTest.leadingNonOptionCausesPosixlyCorrectToIgnoreRemainder();0;8;4;6;9;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.onlyAppearingToHaveOptionArguments();0;7;3;5;9;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.onlyAppearingToHaveOptionArgumentsButPosixlyCorrect();0;9;3;7;9;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.optionalAbuttedArgumentVersusPosixlyCorrect();0;7;3;5;8;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.optionalArgument();0;7;3;5;9;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.optionalArgumentAndPosixlyCorrect();0;7;3;5;9;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.optionalKeyValuePairArgumentVersusPosixlyCorrect();0;7;3;5;8;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.requiredArgument();0;7;3;5;9;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.InterleavedArgumentsTest.requiredArgumentAndPosixlyCorrect();0;7;3;5;9;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.Issue76Test;;30;8;17;;;;21;9;12;;;;;;;0;
+Public Method;joptsimple.Issue76Test.setUp();2;19;1;14;8;1;0;14;4;10;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.Issue76Test.setUp.(Anon_1);;14;0;11;;;;10;3;7;;;;;;;1;
+Public Method;joptsimple.Issue76Test.setUp.(Anon_1).convert(String);1;7;0;6;3;3;0;6;1;5;3;3;3;3;2;2;1;2
+Public Method;joptsimple.Issue76Test.setUp.(Anon_1).valuePattern();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.Issue76Test.setUp.(Anon_1).valueType();1;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.Issue76Test.suppliedExample();2;5;2;3;6;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.JVMSystemPropertiesArgumentParsingTest;;13;6;5;;;;6;4;2;;;;;;;0;
+Public Method;joptsimple.JVMSystemPropertiesArgumentParsingTest.initializeParser();2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.JVMSystemPropertiesArgumentParsingTest.parsingJVMSystemPropertiesArguments();1;6;2;4;5;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.LongOptionNoArgumentTest;;36;14;19;;;;25;9;16;;;;;;;0;
+Public Method;joptsimple.LongOptionNoArgumentTest.abbreviationIsALegalOption();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionNoArgumentTest.ambiguousAbbreviation();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionNoArgumentTest.initializeParser();1;4;1;2;1;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionNoArgumentTest.singleLongOption();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionNoArgumentTest.singleLongOptionAbbreviated();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.LongOptionOptionalArgumentTest;;29;12;15;;;;20;8;12;;;;;;;0;
+Public Method;joptsimple.LongOptionOptionalArgumentTest.argumentMissingTrailedByAnotherOption();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionOptionalArgumentTest.argumentSeparate();1;6;2;4;8;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionOptionalArgumentTest.argumentTogether();1;6;2;4;8;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionOptionalArgumentTest.initializeParser();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.LongOptionRequiredArgumentTest;;53;20;30;;;;38;13;25;;;;;;;0;
+Public Method;joptsimple.LongOptionRequiredArgumentTest.argumentFollowedByLegalOption();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionRequiredArgumentTest.argumentMissing();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionRequiredArgumentTest.argumentSeparate();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionRequiredArgumentTest.argumentTogether();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionRequiredArgumentTest.initializeParser();1;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionRequiredArgumentTest.shortOptionSpecifiedAsLongOptionWithArgument();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.LongOptionRequiredArgumentTest.whenEndOfOptionsMarkerIsInPlaceOfRequiredArgument();1;9;2;7;7;1;0;8;2;6;1;1;1;1;0;0;0;0
+Class;joptsimple.MissingRequiredOptionsException;;10;5;3;;;;6;4;2;;;;;;;0;
+Protected Constructor;joptsimple.MissingRequiredOptionsException.MissingRequiredOptionsException(List<? extends OptionSpec>);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.MissingRequiredOptionsException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.MultipleArgumentsForOptionException;;10;5;3;;;;6;4;2;;;;;;;0;
+Constructor;joptsimple.MultipleArgumentsForOptionException.MultipleArgumentsForOptionException(OptionSpec<?>);4;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.MultipleArgumentsForOptionException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.NoArgumentOptionSpec;;45;22;11;;;;23;12;11;;;;;;;0;
+Constructor;joptsimple.NoArgumentOptionSpec.NoArgumentOptionSpec(List<String>,String);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;joptsimple.NoArgumentOptionSpec.NoArgumentOptionSpec(String);15;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.acceptsArguments();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.argumentConverter();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.argumentDescription();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.argumentTypeIndicator();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NoArgumentOptionSpec.convert(String);0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.defaultValues();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.NoArgumentOptionSpec.handleOption(OptionParser,ArgumentList,OptionSet,String);1;4;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.isRequired();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpec.requiresArgument();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.NoArgumentOptionSpecOptionsImmutabilityTest;;6;3;1;;;;3;2;1;;;;;;;0;
+Protected Method;joptsimple.NoArgumentOptionSpecOptionsImmutabilityTest.newOptionSpec(String);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.NoArgumentOptionSpecTest;;14;7;3;;;;7;4;3;;;;;;;0;
+Protected Method;joptsimple.NoArgumentOptionSpecTest.createEqualOptionSpecInstance();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NoArgumentOptionSpecTest.createNotEqualOptionSpecInstance();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NoArgumentOptionSpecTest.optionsContents();0;3;1;1;5;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.NoArgumentOptionSpecValuesImmutabilityTest;;22;11;5;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.NoArgumentOptionSpecValuesImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NoArgumentOptionSpecValuesImmutabilityTest.firstArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NoArgumentOptionSpecValuesImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NoArgumentOptionSpecValuesImmutabilityTest.newOptionSpec();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NoArgumentOptionSpecValuesImmutabilityTest.secondArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Class;joptsimple.NonOptionArgumentSpec;;68;32;22;;;;39;19;20;;;;;;;1;
+Constructor;joptsimple.NonOptionArgumentSpec.NonOptionArgumentSpec();4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;joptsimple.NonOptionArgumentSpec.NonOptionArgumentSpec(String);7;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.NonOptionArgumentSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.NonOptionArgumentSpec.acceptsArguments();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.argumentConverter();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.argumentDescription();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.argumentTypeIndicator();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.NonOptionArgumentSpec.convert(String);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.defaultValues();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.describedAs(String);6;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Method;joptsimple.NonOptionArgumentSpec.handleOption(OptionParser,ArgumentList,OptionSet,String);2;4;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.isRequired();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Method;joptsimple.NonOptionArgumentSpec.ofType(Class<T>);10;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.NonOptionArgumentSpec.ofType.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.NonOptionArgumentSpec.representsNonOptions();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpec.requiresArgument();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Method;joptsimple.NonOptionArgumentSpec.withValuesConvertedBy(ValueConverter<T>);3;6;1;4;2;2;0;5;1;4;2;2;2;1;0;0;1;0
+TypeVariable;joptsimple.NonOptionArgumentSpec.withValuesConvertedBy.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Class;joptsimple.NonOptionArgumentSpecTest;;62;34;33;;;;36;25;11;;;;;;;0;
+Public Method;joptsimple.NonOptionArgumentSpecTest.allowsArgumentDescriptionForNonOptionArguments();1;5;3;3;6;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.allowsDescriptionOfNonOptionArguments();1;5;3;3;5;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.allowsTypeAndDescriptionOfNonOptionArguments();2;5;3;3;6;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.allowsTypingOfNonOptionArguments();2;5;3;3;6;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.convertingUsingConverter();1;7;3;5;8;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.convertingUsingNullConverter();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.doesNotAcceptArguments();1;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.noSpecsCorrespondingToNonOptions();0;6;3;4;6;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.NonOptionArgumentSpecTest.specsCorrespondingToNonOptions();1;11;3;9;7;1;0;5;3;2;1;1;1;1;0;0;0;0
+Class;joptsimple.OptionArgumentConversionException;;12;6;4;;;;8;5;3;;;;;;;0;
+Constructor;joptsimple.OptionArgumentConversionException.OptionArgumentConversionException(OptionSpec<?>,String,Throwable);6;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionArgumentConversionException.messageArguments();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Interface;joptsimple.OptionDeclarer;;11;10;0;;;;10;10;0;;;;;;;0;
+Abstract Method;joptsimple.OptionDeclarer.accepts(String);0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.accepts(String,String);0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.acceptsAll(List<String>);0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.acceptsAll(List<String>,String);0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.allowsUnrecognizedOptions();0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.nonOptions();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.nonOptions(String);0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.posixlyCorrect(boolean);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDeclarer.recognizeAlternativeLongOptions(boolean);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Interface;joptsimple.OptionDescriptor;;12;11;0;;;;11;11;0;;;;;;;0;
+Abstract Method;joptsimple.OptionDescriptor.acceptsArguments();8;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.argumentConverter();2;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.argumentDescription();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.argumentTypeIndicator();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.defaultValues();4;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.description();6;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.isRequired();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.options();4;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.representsNonOptions();4;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionDescriptor.requiresArgument();5;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Abstract Class;joptsimple.OptionException;;61;23;27;;;;45;23;22;;;;;;;2;
+Protected Constructor;joptsimple.OptionException.OptionException(Collection<? extends OptionSpec>);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Constructor;joptsimple.OptionException.OptionException(Collection<? extends OptionSpec>,Throwable);4;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Protected Constructor;joptsimple.OptionException.OptionException(List<String>);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionException.formattedMessage(Locale);2;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionException.getLocalizedMessage();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionException.getMessage();3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionException.localizedMessage(Locale);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Abstract Method;joptsimple.OptionException.messageArguments();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Protected Method;joptsimple.OptionException.multipleOptionString();4;11;3;8;7;3;0;10;4;6;3;3;3;1;0;0;2;0
+Public Method;joptsimple.OptionException.options();3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionException.singleOptionString();6;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionException.singleOptionString(String);3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionException.specToString(OptionSpec<?>);2;3;1;1;5;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionException.specsToStrings(Collection<? extends OptionSpec>);3;6;2;4;3;2;0;6;3;3;2;2;2;1;0;0;1;0
+Static Method;joptsimple.OptionException.unrecognizedOption(String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionExceptionLocalizedMessageTest;;39;8;27;;;;10;6;4;;;;;;;0;
+Public Constructor;joptsimple.OptionExceptionLocalizedMessageTest.OptionExceptionLocalizedMessageTest(OptionException,String);2;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.OptionExceptionLocalizedMessageTest.exceptionsAndMessages();0;26;1;24;10;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionExceptionLocalizedMessageTest.givesCorrectExceptionMessage();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionExceptionMessageTest;;94;18;69;;;;25;11;14;;;;;;;1;
+Public Constructor;joptsimple.OptionExceptionMessageTest.OptionExceptionMessageTest(OptionException,String,String);3;8;4;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.OptionExceptionMessageTest.exceptionsAndMessages();0;55;1;52;12;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionExceptionMessageTest.givesCorrectExceptionMessage();2;4;1;2;5;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionExceptionMessageTest.givesEnglishMessageWhenLocaleIsNotEnglish();2;9;2;6;4;1;0;6;2;4;1;1;1;1;0;0;1;0
+Public Method;joptsimple.OptionExceptionMessageTest.givesLocalizedMessageWhenLocaleIsNotEnglish();2;9;2;6;4;1;0;6;2;4;1;1;1;1;0;0;1;0
+Public Class;joptsimple.OptionExceptionOptionsImmutabilityTest;;20;7;8;;;;10;6;4;;;;;;;0;
+Protected Method;joptsimple.OptionExceptionOptionsImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionExceptionOptionsImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionExceptionOptionsImmutabilityTest.newList();0;9;1;6;3;1;0;5;3;2;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionExceptionOptionsImmutabilityTest.newList.(Anon_1);;6;0;5;;;;3;2;1;;;;;;;0;
+Method;joptsimple.OptionExceptionOptionsImmutabilityTest.newList.(Anon_1).messageArguments();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.OptionMissingRequiredArgumentException;;10;5;3;;;;6;4;2;;;;;;;0;
+Constructor;joptsimple.OptionMissingRequiredArgumentException.OptionMissingRequiredArgumentException(OptionSpec<?>);5;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionMissingRequiredArgumentException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParser;;300;98;158;;;;232;102;130;;;;;;;3;
+Public Constructor;joptsimple.OptionParser.OptionParser();24;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;joptsimple.OptionParser.OptionParser(String);23;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Constructor;joptsimple.OptionParser.OptionParser(boolean);3;12;1;10;11;1;0;9;1;8;2;2;2;1;0;0;0;0
+Private Method;joptsimple.OptionParser._recognizedOptions();3;8;2;5;3;3;0;8;4;4;3;3;3;1;0;0;2;0
+Public Method;joptsimple.OptionParser.accepts(String);149;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.accepts(String,String);26;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.acceptsAll(List<String>);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.acceptsAll(List<String>,String);4;6;1;4;4;2;0;5;1;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionParser.allowsUnrecognizedOptions();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.availableIf(List<String>,OptionSpec<?>);5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.availableIf(List<String>,String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.availableUnless(List<String>,OptionSpec<?>);5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.availableUnless(List<String>,String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.doesAllowsUnrecognizedOptions();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.ensureAllowedOptions(OptionSet);2;6;3;4;4;2;0;5;3;2;2;2;3;1;0;0;1;0
+Private Method;joptsimple.OptionParser.ensureRequiredOptions(OptionSet);2;6;3;4;4;2;0;5;3;2;2;2;3;1;0;0;1;0
+Private Static Method;joptsimple.OptionParser.extractShortOptionsFrom(String);2;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.formatHelpWith(HelpFormatter);6;5;1;3;1;2;0;4;1;3;2;2;2;1;0;0;1;0
+Method;joptsimple.OptionParser.handleLongOptionToken(String,ArgumentList,OptionSet);6;7;3;5;5;2;0;6;3;3;2;2;2;1;0;0;1;0
+Method;joptsimple.OptionParser.handleNonOptionArgument(String,ArgumentList,OptionSet);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.handleShortOptionCluster(String,ArgumentList,OptionSet);5;13;4;9;6;3;0;12;5;7;3;3;4;3;2;2;2;2
+Method;joptsimple.OptionParser.handleShortOptionToken(String,ArgumentList,OptionSet);6;8;2;5;5;2;0;5;2;3;2;2;2;1;1;0;1;0
+Private Method;joptsimple.OptionParser.isHelpOptionPresent(OptionSet);4;10;2;6;5;3;0;8;3;5;3;3;4;3;2;2;2;2
+Method;joptsimple.OptionParser.isRecognized(String);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.looksLikeAnOption(String);2;3;1;1;3;1;0;2;1;1;1;1;2;1;0;0;0;0
+Private Method;joptsimple.OptionParser.missingRequiredOptions(OptionSet);5;18;4;13;13;27;1;17;7;10;7;7;10;1;0;0;2;0
+Public Method;joptsimple.OptionParser.mutuallyExclusive(OptionSpecBuilder...);4;8;1;4;1;4;1;9;3;6;4;4;4;1;0;0;3;0
+Method;joptsimple.OptionParser.noMoreOptions();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.nonOptions();13;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.nonOptions(String);6;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.optionsHasAnyOf(OptionSet,Collection<OptionSpec>);4;7;1;4;2;3;0;6;2;4;3;3;3;3;3;3;2;3
+Public Method;joptsimple.OptionParser.parse(String...);265;11;3;9;11;2;0;10;3;7;2;2;2;1;0;0;1;0
+Private Static Method;joptsimple.OptionParser.parseLongOptionWithArgument(String);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.OptionParser.parseShortOptionWithArgument(String);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.posixlyCorrect();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.posixlyCorrect(boolean);4;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.printHelpOn(OutputStream);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.printHelpOn(Writer);2;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.putDependentOption(List<String>,OptionSpec<?>,Map<List,Set>);7;14;4;9;5;6;1;11;4;7;4;4;4;1;0;0;2;0
+Method;joptsimple.OptionParser.recognize(AbstractOptionSpec<?>);11;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParser.recognizeAlternativeLongOptions(boolean);11;6;1;4;4;2;0;4;1;3;2;2;2;1;1;0;1;0
+Public Method;joptsimple.OptionParser.recognizedOptions();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.requiredIf(List<String>,OptionSpec<?>);5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.requiredIf(List<String>,String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.requiredUnless(List<String>,OptionSpec<?>);5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionParser.requiredUnless(List<String>,String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.reset();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.specFor(String);11;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.specFor(char);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionParser.unavailableOptions(OptionSet);4;16;4;10;10;9;1;13;6;7;5;5;7;1;0;0;2;0
+Private Method;joptsimple.OptionParser.validateOptionCharacters(char[]);2;9;2;6;5;5;1;8;3;5;4;4;4;3;2;2;2;2
+Public Class;joptsimple.OptionParserAlternateHelpFormatterTest;;38;13;24;;;;29;11;18;;;;;;;0;
+Public Method;joptsimple.OptionParserAlternateHelpFormatterTest.asksAlternateFormatterForHelpString();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserAlternateHelpFormatterTest.getsFedOptionDescriptorsForRecognizedOptions();1;16;5;14;19;1;0;15;5;10;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserAlternateHelpFormatterTest.primeParser();2;12;1;9;5;1;0;9;2;7;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionParserAlternateHelpFormatterTest.primeParser.(Anon_1);;5;0;4;;;;3;1;2;;;;;;;0;
+Public Method;joptsimple.OptionParserAlternateHelpFormatterTest.primeParser.(Anon_1).format(Map<String,? extends OptionDescriptor>);1;4;0;3;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParserArgumentExceptionTest;;38;19;9;;;;19;10;9;;;;;;;0;
+Public Method;joptsimple.OptionParserArgumentExceptionTest.createWithNullOptionSpec();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.emptyOptionListToAcceptsAll();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.nullOptionListToAcceptsAll();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.nullOptionListToAcceptsAllWithDescription();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.nullOptionToAccepts();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.nullOptionToAcceptsWithDescription();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.optionListContainingNullToAcceptsAll();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.optionListContainingNullToAcceptsAllWithDescription();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserArgumentExceptionTest.parseNull();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParserNewDeclarationTest;;234;48;184;;;;199;32;167;;;;;;;0;
+Public Method;joptsimple.OptionParserNewDeclarationTest.acceptsIllegalCharacters();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.booleanArgumentType();3;14;2;12;14;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.byteArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.doubleArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.floatArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.illegalOptionArgumentConstructorConversion();2;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.illegalOptionArgumentMethodConversion();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.integerArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.longArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.optionsWithNegativeNumberArgumentsAndNonNumberOptions();1;21;2;19;17;1;0;20;2;18;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.optionsWithOptionalNegativeNumberArguments();1;16;2;14;14;1;0;15;2;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.optionsWithOptionalNegativeNumberArgumentsAndNumberOptions();1;24;2;22;13;1;0;23;2;21;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.shortArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.sqlDateArgumentType();1;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.sqlTimeArgumentType();2;14;2;12;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserNewDeclarationTest.sqlTimestampArgumentType();2;16;2;14;15;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParserOptionExceptionTest;;43;15;23;;;;30;9;21;;;;;;;0;
+Public Method;joptsimple.OptionParserOptionExceptionTest.asteriskIsIllegalOptionCharacter();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserOptionExceptionTest.illegalOptionCharacter();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserOptionExceptionTest.tooManyHyphens();3;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserOptionExceptionTest.unrecognizedOption();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserOptionExceptionTest.valueOfOptionalWhenMultiples();3;7;2;5;6;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserOptionExceptionTest.valueOfWhenMultiples();3;7;2;5;6;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParserRecognizedOptionsTest;;26;6;18;;;;19;4;15;;;;;;;0;
+Public Method;joptsimple.OptionParserRecognizedOptionsTest.basicOptionsRecognized();1;14;2;12;16;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserRecognizedOptionsTest.parserPreservesTrainingOrder();1;8;1;6;6;1;0;5;1;4;1;1;1;1;0;0;0;0
+Abstract Class;joptsimple.OptionParserState;;37;5;26;;;;25;7;18;;;;;;;0;
+Protected Abstract Method;joptsimple.OptionParserState.handleArgument(OptionParser,ArgumentList,OptionSet);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Static Method;joptsimple.OptionParserState.moreOptions(boolean);3;26;2;21;1;1;0;19;3;16;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionParserState.moreOptions.(Anon_2);;23;1;20;;;;17;2;15;;;;;;;2;
+Protected Method;joptsimple.OptionParserState.moreOptions.(Anon_2).handleArgument(OptionParser,ArgumentList,OptionSet);5;21;1;18;9;9;1;17;2;15;7;7;7;5;7;7;2;7
+Static Method;joptsimple.OptionParserState.noMoreOptions();1;8;1;5;1;1;0;4;2;2;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionParserState.noMoreOptions.(Anon_1);;5;0;4;;;;2;1;1;;;;;;;0;
+Protected Method;joptsimple.OptionParserState.noMoreOptions.(Anon_1).handleArgument(OptionParser,ArgumentList,OptionSet);3;3;0;2;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParserTest;;229;68;156;;;;175;46;129;;;;;;;0;
+Public Method;joptsimple.OptionParserTest.abbreviationsCanBeDisallowed();2;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.allowsEmbeddedWhitespaceInArgumentOfOption();1;8;4;6;8;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.allowsEmptyStringAsArgumentOfOption();1;7;3;5;8;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.allowsMixingOfOptionsAndNonOptions();1;13;2;11;11;1;0;12;2;10;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.allowsWhitespaceyStringAsArgumentOfOption();1;8;4;6;8;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.configurationPerformedLaterOverrideThosePerformedEarlierForTheSameOption();1;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.disallowsMixingOfOptionsAndNonOptionsUnderPosixlyCorrect();1;14;2;12;11;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.doubleHyphenSignalsEndsOfOptions();0;18;3;14;9;1;0;14;2;12;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionParserTest.doubleHyphenSignalsEndsOfOptions.(Anon_1);;4;1;2;;;;1;0;1;;;;;;;0;
+Public Method;joptsimple.OptionParserTest.longOptionLeadsWithSingleDash();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.longOptionLeadsWithSingleDashAmbiguous();3;7;1;5;4;1;0;6;1;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.longOptionLeadsWithSingleDashAmbiguousButAShortAcceptsAnArgument();1;11;2;9;10;1;0;10;2;8;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.longOptionLeadsWithSingleDashAmbiguousButAShortIsIllegal();3;8;1;6;4;1;0;7;1;6;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.longOptionLeadsWithSingleDashAmbiguousButShortsAreLegal();1;14;2;12;8;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.optionsAndNonOptionsInterspersed();1;15;4;12;12;1;0;13;3;10;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.parsesLongOptionAsAbbreviatedLongOption();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.parsesLongOptionAsAbbreviatedShortOption();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.requiredOptionButHelpOptionPresent();1;5;1;3;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.requiredOptionWithArgMissing();3;6;1;4;6;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.requiredOptionWithSynonymsMissing();3;15;1;11;7;1;0;9;3;6;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionParserTest.requiredOptionWithSynonymsMissing.(Anon_2);;8;0;6;;;;3;2;1;;;;;;;0;
+Public Method;joptsimple.OptionParserTest.requiredOptionWithSynonymsMissing.(Anon_2).describeTo(Description);0;2;0;1;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionParserTest.requiredOptionWithSynonymsMissing.(Anon_2).matchesSafely(String);1;3;0;2;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.resetHappensAfterParsing();1;8;3;6;4;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.shortOptionSpecifiedAsLongOptionWithoutArgument();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserTest.typedArguments();2;14;2;12;14;1;0;13;2;11;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionParserUnrecognizedOptionsAllowedTest;;15;6;7;;;;10;4;6;;;;;;;0;
+Public Method;joptsimple.OptionParserUnrecognizedOptionsAllowedTest.unrecognizedOptionAllowed();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionParserUnrecognizedOptionsAllowedTest.unrecognizedOptionDisallowed();3;6;1;4;5;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSet;;144;51;84;;;;113;52;61;;;;;;;2;
+Constructor;joptsimple.OptionSet.OptionSet(Map<String,AbstractOptionSpec>);11;7;1;5;7;1;0;6;1;5;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionSet.add(AbstractOptionSpec<?>);8;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionSet.addWithArgument(AbstractOptionSpec<?>,String);16;12;2;9;4;8;1;11;3;8;4;4;4;1;0;0;1;0
+Public Method;joptsimple.OptionSet.asMap();3;8;2;5;6;3;0;7;3;4;3;3;3;1;0;0;2;0
+Private Generic Method;joptsimple.OptionSet.defaultValueFor(OptionSpec<V>);2;3;1;1;5;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.OptionSet.defaultValueFor.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Private Static Method;joptsimple.OptionSet.defaultValues(Map<String,AbstractOptionSpec>);2;6;2;4;6;2;0;6;3;3;2;2;2;1;0;0;1;0
+Private Generic Method;joptsimple.OptionSet.defaultValuesFor(String);5;5;1;3;5;2;0;4;1;3;2;2;2;1;1;0;1;0
+TypeVariable;joptsimple.OptionSet.defaultValuesFor.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.OptionSet.equals(Object);3;11;4;9;3;3;0;9;4;5;3;3;5;3;2;2;1;2
+Public Method;joptsimple.OptionSet.has(OptionSpec<?>);28;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSet.has(String);79;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSet.hasArgument(OptionSpec<?>);12;5;2;3;4;1;0;4;2;2;1;1;2;1;0;0;0;0
+Public Method;joptsimple.OptionSet.hasArgument(String);19;4;2;2;3;1;0;3;2;1;1;1;2;1;0;0;0;0
+Public Method;joptsimple.OptionSet.hasOptions();3;3;1;1;6;1;0;2;1;1;1;1;2;1;0;0;0;0
+Public Method;joptsimple.OptionSet.hashCode();2;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSet.nonOptionArguments();106;4;2;2;3;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSet.specs();6;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSet.specsWithNonOptions();5;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Generic Method;joptsimple.OptionSet.valueOf(OptionSpec<V>);14;12;2;9;6;3;0;7;2;5;3;2;3;1;3;0;1;0
+Public Method;joptsimple.OptionSet.valueOf(String);49;9;3;6;6;2;0;7;3;4;3;3;3;1;1;0;1;0
+TypeVariable;joptsimple.OptionSet.valueOf.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Generic Method;joptsimple.OptionSet.valueOfOptional(OptionSpec<V>);7;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSet.valueOfOptional(String);34;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.OptionSet.valueOfOptional.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Generic Method;joptsimple.OptionSet.valuesOf(OptionSpec<V>);34;11;4;9;8;3;0;11;5;6;3;3;4;1;1;0;1;0
+Public Method;joptsimple.OptionSet.valuesOf(String);106;5;2;3;5;1;0;4;2;2;2;2;2;1;0;0;0;0
+TypeVariable;joptsimple.OptionSet.valuesOf.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Class;joptsimple.OptionSetAsMapTest;;28;14;20;;;;22;13;9;;;;;;;0;
+Public Method;joptsimple.OptionSetAsMapTest.gives();1;25;12;20;7;1;0;21;12;9;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionSetAsMapTest.gives.(Anon_1);;12;1;10;;;;9;1;8;;;;;;;0;
+Public Class;joptsimple.OptionSetDetectedOptionsTest;;12;9;7;;;;9;8;1;;;;;;;0;
+Public Method;joptsimple.OptionSetDetectedOptionsTest.givesSpecsInOrderOfCommandLinePresentation();1;9;7;7;8;1;0;8;7;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSetEqualsHashCodeTest;;22;11;9;;;;13;7;6;;;;;;;0;
+Protected Method;joptsimple.OptionSetEqualsHashCodeTest.equal();0;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetEqualsHashCodeTest.equalButDifferentClass();0;7;3;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.OptionSetEqualsHashCodeTest.equalButDifferentClass.(Anon_1);;1;0;1;;;;0;0;0;;;;;;;0;
+Protected Method;joptsimple.OptionSetEqualsHashCodeTest.notEqual();0;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSetNonOptionArgumentsImmutabilityTest;;19;10;7;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.OptionSetNonOptionArgumentsImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetNonOptionArgumentsImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetNonOptionArgumentsImmutabilityTest.newList();0;7;3;5;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSetSpecsImmutabilityTest;;16;8;5;;;;9;5;4;;;;;;;0;
+Protected Method;joptsimple.OptionSetSpecsImmutabilityTest.containedItem();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetSpecsImmutabilityTest.newItem();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetSpecsImmutabilityTest.newList();0;5;2;3;6;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSetSpecsWithNonOptionsTest;;22;6;16;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.OptionSetSpecsWithNonOptionsTest.intermixOptionsAndNonOptions();2;19;4;16;11;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSetValuesOfOptionStringImmutabilityTest;;19;10;7;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.OptionSetValuesOfOptionStringImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetValuesOfOptionStringImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetValuesOfOptionStringImmutabilityTest.newList();0;7;3;5;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSetValuesOfSpecImmutabilityTest;;18;9;7;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.OptionSetValuesOfSpecImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetValuesOfSpecImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSetValuesOfSpecImmutabilityTest.newList();0;7;3;5;6;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Generic Interface;joptsimple.OptionSpec;;9;6;1;;;;7;6;1;;;;;;;0;
+TypeVariable;joptsimple.OptionSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Abstract Method;joptsimple.OptionSpec.isForHelp();0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionSpec.options();3;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.OptionSpec.value(OptionSet);16;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Method;joptsimple.OptionSpec.valueOptional(OptionSet);11;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Abstract Method;joptsimple.OptionSpec.values(OptionSet);19;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Class;joptsimple.OptionSpecBuilder;;81;23;49;;;;73;31;42;;;;;;;2;
+Constructor;joptsimple.OptionSpecBuilder.OptionSpecBuilder(OptionParser,List<String>,String);6;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionSpecBuilder.attachToParser();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecBuilder.availableIf(OptionSpec<?>,OptionSpec<?>...);4;6;1;4;3;2;0;6;2;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.availableIf(String,String...);4;6;2;4;4;2;0;6;3;3;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.availableUnless(OptionSpec<?>,OptionSpec<?>...);4;6;1;4;3;2;0;6;2;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.availableUnless(String,String...);5;6;2;4;4;2;0;6;3;3;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.requiredIf(OptionSpec<?>,OptionSpec<?>...);4;6;1;4;3;2;0;6;2;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.requiredIf(String,String...);9;6;2;4;4;2;0;6;3;3;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.requiredUnless(OptionSpec<?>,OptionSpec<?>...);4;6;1;4;3;2;0;6;2;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.OptionSpecBuilder.requiredUnless(String,String...);5;7;2;4;4;2;0;6;3;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.OptionSpecBuilder.validatedDependents(String,String...);7;10;2;7;5;3;0;9;3;6;3;3;3;1;0;0;2;0
+Public Method;joptsimple.OptionSpecBuilder.withOptionalArg();68;6;3;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecBuilder.withRequiredArg();87;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSpecBuilderOptionsImmutabilityTest;;6;3;1;;;;3;2;1;;;;;;;0;
+Protected Method;joptsimple.OptionSpecBuilderOptionsImmutabilityTest.newOptionSpec(String);1;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSpecBuilderValuesImmutabilityTest;;22;11;5;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.OptionSpecBuilderValuesImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSpecBuilderValuesImmutabilityTest.firstArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSpecBuilderValuesImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSpecBuilderValuesImmutabilityTest.newOptionSpec();0;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionSpecBuilderValuesImmutabilityTest.secondArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.OptionSpecTokenizer;;69;15;45;;;;53;15;38;;;;;;;2;
+Constructor;joptsimple.OptionSpecTokenizer.OptionSpecTokenizer(String);19;5;1;3;2;2;0;4;1;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.OptionSpecTokenizer.adjustForPosixlyCorrect(OptionParser);4;6;1;3;4;2;0;4;1;3;2;2;2;1;0;0;1;0
+Method;joptsimple.OptionSpecTokenizer.configure(OptionParser);2;5;1;3;4;2;0;4;1;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.OptionSpecTokenizer.handleArgumentAcceptingOption(String);4;8;1;5;6;2;0;6;1;5;2;2;3;1;1;0;1;0
+Private Method;joptsimple.OptionSpecTokenizer.handleReservedForExtensionsToken();4;9;1;6;6;3;0;7;1;6;3;3;3;3;2;2;1;2
+Method;joptsimple.OptionSpecTokenizer.hasMore();8;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.OptionSpecTokenizer.next();6;27;4;22;11;22;1;21;4;17;8;8;9;3;3;2;2;2
+Public Class;joptsimple.OptionSpecTokenizerTest;;138;60;73;;;;96;41;55;;;;;;;0;
+Public Method;joptsimple.OptionSpecTokenizerTest.alternativeLongOptionsMarker();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.alternativeLongOptionsMarkerWithHelpMarker();0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.OptionSpecTokenizerTest.assertNextToken(OptionSpecTokenizer,char,boolean,boolean,boolean);8;9;3;6;12;1;0;7;2;5;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.OptionSpecTokenizerTest.assertNextTokenRequiresAnArgument(OptionSpecTokenizer,char,boolean);10;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.OptionSpecTokenizerTest.assertNextTokenTakesAnOptionalArgument(OptionSpecTokenizer,char,boolean);9;4;2;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.OptionSpecTokenizerTest.assertNextTokenTakesNoArgument(OptionSpecTokenizer,char,boolean);10;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.OptionSpecTokenizerTest.assertNoMoreTokens(OptionSpecTokenizer);19;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeEmpty();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithMixtureOfSpecTypes();0;8;2;6;5;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithMixtureOfSpecTypesAndHelpMarker();0;8;2;6;5;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithOptionalArguments();0;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithOptionalArgumentsAndHelpMarker();0;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithRequiredArguments();0;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithRequiredArgumentsAndHelpMarker();0;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithoutArguments();0;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.tokenizeOptionsWithoutArgumentsAndHelpMarker();0;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.wByItself();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.wByItselfWithHelpMarker();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.wOptionalArg();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.wOptionalArgWithHelpMarker();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.wRequiredArg();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSpecTokenizerTest.wRequiredArgWithHelpMarker();0;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSpecsReportTheirOptionsSortedSpeciallyTest;;8;5;3;;;;5;4;1;;;;;;;0;
+Public Method;joptsimple.OptionSpecsReportTheirOptionsSortedSpeciallyTest.shortOptionsComeFirstFollowedByLongOptionsLexicographically();0;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSynonymCommonPrefixesTest;;44;19;16;;;;26;11;15;;;;;;;0;
+Private Method;joptsimple.OptionSynonymCommonPrefixesTest.assertDetections(String);9;10;2;8;3;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.initializeParser();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingFifthPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingFirstPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingFourthPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingSecondPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingSeventhPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingSixthPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymCommonPrefixesTest.parsingThirdPrefix();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSynonymNoArgumentTest;;28;11;12;;;;18;7;11;;;;;;;0;
+Private Method;joptsimple.OptionSynonymNoArgumentTest.assertDetections(String);5;10;2;8;6;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymNoArgumentTest.hasAllSynonymsWhenFirstSynonymParsed();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymNoArgumentTest.hasAllSynonymsWhenSecondSynonymParsed();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymNoArgumentTest.hasAllSynonymsWhenThirdSynonymParsed();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymNoArgumentTest.initializeParser();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSynonymOptionalArgumentTest;;33;14;13;;;;19;9;10;;;;;;;0;
+Private Method;joptsimple.OptionSynonymOptionalArgumentTest.assertDetections(String[],List<?>);7;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymOptionalArgumentTest.hasAllSynonymsWhenFirstSynonymParsed();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymOptionalArgumentTest.hasAllSynonymsWhenSecondSynonymParsed();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymOptionalArgumentTest.hasAllSynonymsWhenThirdSynonymParsed();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymOptionalArgumentTest.initializeParser();2;4;1;2;5;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymOptionalArgumentTest.reportsSameListOfArgumentsForEverySynonymOption();0;5;1;3;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSynonymOverwritingTest;;14;6;6;;;;9;4;5;;;;;;;0;
+Public Method;joptsimple.OptionSynonymOverwritingTest.initializeParser();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymOverwritingTest.treatsHAsThoughItWereLastDefinedSynonymOfH();1;6;2;4;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionSynonymRequiredArgumentTest;;35;14;15;;;;19;9;10;;;;;;;0;
+Private Method;joptsimple.OptionSynonymRequiredArgumentTest.assertDetections(String[],List<?>);7;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymRequiredArgumentTest.hasAllSynonymsWhenFirstSynonymParsed();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymRequiredArgumentTest.hasAllSynonymsWhenSecondSynonymParsed();1;5;1;3;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymRequiredArgumentTest.hasAllSynonymsWhenThirdSynonymParsed();1;5;1;3;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymRequiredArgumentTest.initializeParser();1;4;1;2;5;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionSynonymRequiredArgumentTest.reportsSameListOfArgumentsForEverySynonymOption();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Generic Class;joptsimple.OptionalArgumentOptionSpec;;30;7;17;;;;19;6;13;;;;;;;2;
+Constructor;joptsimple.OptionalArgumentOptionSpec.OptionalArgumentOptionSpec(List<String>,String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;joptsimple.OptionalArgumentOptionSpec.OptionalArgumentOptionSpec(String);13;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.OptionalArgumentOptionSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Protected Method;joptsimple.OptionalArgumentOptionSpec.detectOptionArgument(OptionParser,ArgumentList,OptionSet);3;13;2;10;9;4;1;9;2;7;4;4;6;1;3;0;2;0
+Private Method;joptsimple.OptionalArgumentOptionSpec.handleOptionArgument(OptionParser,OptionSet,ArgumentList);4;8;1;5;5;2;0;5;1;4;2;2;2;1;1;0;1;0
+Public Class;joptsimple.OptionalArgumentOptionSpecOptionsImmutabilityTest;;6;3;1;;;;3;2;1;;;;;;;0;
+Protected Method;joptsimple.OptionalArgumentOptionSpecOptionsImmutabilityTest.newOptionSpec(String);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionalArgumentOptionSpecTest;;14;7;3;;;;7;4;3;;;;;;;0;
+Protected Method;joptsimple.OptionalArgumentOptionSpecTest.createEqualOptionSpecInstance();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionalArgumentOptionSpecTest.createNotEqualOptionSpecInstance();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.OptionalArgumentOptionSpecTest.optionsContents();0;3;1;1;5;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest;;23;12;5;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest.firstArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest.newOptionSpec();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest.secondArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.ParserRules;;39;15;21;;;;31;17;14;;;;;;;1;
+Private Constructor;joptsimple.ParserRules.ParserRules();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Static Method;joptsimple.ParserRules.ensureLegalOption(String);4;6;1;4;6;4;1;7;2;5;3;3;3;1;0;0;1;0
+Private Static Method;joptsimple.ParserRules.ensureLegalOptionCharacter(char);2;4;1;2;4;2;0;3;1;2;2;2;3;1;0;0;1;0
+Static Method;joptsimple.ParserRules.ensureLegalOptions(List<String>);2;4;1;2;1;2;0;4;2;2;2;2;2;1;0;0;1;0
+Private Static Method;joptsimple.ParserRules.isAllowedPunctuation(char);3;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Static Method;joptsimple.ParserRules.isLongOptionToken(String);5;3;1;1;3;1;0;2;1;1;1;1;2;1;0;0;0;0
+Static Method;joptsimple.ParserRules.isOptionTerminator(String);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Static Method;joptsimple.ParserRules.isShortOptionToken(String);4;5;1;3;4;1;0;2;1;1;1;1;3;1;0;0;0;0
+Public Class;joptsimple.ParserRulesUtilityClassTest;;5;2;1;;;;3;2;1;;;;;;;0;
+Public Constructor;joptsimple.ParserRulesUtilityClassTest.ParserRulesUtilityClassTest();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ParsingSeparatedConvertedOptionValuesTest;;43;11;23;;;;21;11;10;;;;;;;0;
+Private Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.assertCorrectParse(String,char,String...);8;25;2;19;8;1;0;12;6;6;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.ParsingSeparatedConvertedOptionValuesTest.assertCorrectParse.(Anon_1);;17;0;13;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.assertCorrectParse.(Anon_1).convert(String);1;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.assertCorrectParse.(Anon_1).revert(Object);1;3;0;2;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.assertCorrectParse.(Anon_1).valuePattern();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.assertCorrectParse.(Anon_1).valueType();2;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.parsesEqualsSeparatedValuesWhenArgumentAbuttedWithEquals();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.parsesSeparatedValuesAbutting();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.parsesSeparatedValuesAsSeparateArgument();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedConvertedOptionValuesTest.parsesSeparatedValuesWhenArgumentAbuttedWithEquals();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ParsingSeparatedStringOptionValuesTest;;31;15;9;;;;17;9;8;;;;;;;0;
+Private Method;joptsimple.ParsingSeparatedStringOptionValuesTest.assertCorrectParse(String,String,String...);10;5;2;3;7;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedStringOptionValuesTest.handlesConsecutiveDelimiters();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedStringOptionValuesTest.parsesEqualsSeparatedValuesWhenArgumentAbuttedWithEquals();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedStringOptionValuesTest.parsesHyphenSeparatedValuesAbutting();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedStringOptionValuesTest.parsesSeparatedValuesAbutting();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedStringOptionValuesTest.parsesSeparatedValuesAsSeparateArgument();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedStringOptionValuesTest.parsesSeparatedValuesWhenArgumentAbuttedWithEquals();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ParsingSeparatedTypedOptionValuesTest;;25;11;9;;;;13;7;6;;;;;;;0;
+Private Method;joptsimple.ParsingSeparatedTypedOptionValuesTest.assertCorrectParse(String,char,String...);9;7;2;5;8;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedTypedOptionValuesTest.parsesEqualsSeparatedValuesWhenArgumentAbuttedWithEquals();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedTypedOptionValuesTest.parsesSeparatedValuesAbutting();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedTypedOptionValuesTest.parsesSeparatedValuesAsSeparateArgument();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ParsingSeparatedTypedOptionValuesTest.parsesSeparatedValuesWhenArgumentAbuttedWithEquals();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.PlainOldOptionParserTest;;8;5;3;;;;5;4;1;;;;;;;0;
+Public Method;joptsimple.PlainOldOptionParserTest.nonOptionsOnly();1;5;3;3;4;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.PopulatedOptionSetTest;;33;14;12;;;;20;8;12;;;;;;;0;
+Public Method;joptsimple.PopulatedOptionSetTest.hasArgument();1;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PopulatedOptionSetTest.hasOptions();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PopulatedOptionSetTest.setUp();1;5;1;3;7;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PopulatedOptionSetTest.valueOf();1;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PopulatedOptionSetTest.valueOfOptional();1;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PopulatedOptionSetTest.valuesOf();1;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.PosixlyCorrectOptionParserTest;;29;9;17;;;;17;6;11;;;;;;;0;
+Public Constructor;joptsimple.PosixlyCorrectOptionParserTest.PosixlyCorrectOptionParserTest(OptionParser);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PosixlyCorrectOptionParserTest.parseWithPosixlyCorrect();1;11;3;8;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.PosixlyCorrectOptionParserTest.parsers();0;10;1;8;3;1;0;6;1;5;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.PosixlyCorrectOptionParserTest.parsers.(Anon_1);;5;0;5;;;;4;0;4;;;;;;;0;
+Public Class;joptsimple.PunctuationInLongOptionTest;;31;15;9;;;;17;9;8;;;;;;;0;
+Public Method;joptsimple.PunctuationInLongOptionTest.allowsDotInOptionNames();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInLongOptionTest.allowsHyphensInTheMiddleOfOptionNames();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInLongOptionTest.allowsHyphensPrettyMuchAnywhereButTheFront();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInLongOptionTest.allowsQuestionMarkInOptionNames();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInLongOptionTest.allowsUnderscoreInOptionNames();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.PunctuationInLongOptionTest.assertOptionAllowed(String);7;5;2;3;4;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInLongOptionTest.disallowsHyphensAtFrontOfOptionName();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.PunctuationInShortOptionTest;;22;11;6;;;;12;7;5;;;;;;;0;
+Public Method;joptsimple.PunctuationInShortOptionTest.allowsDotAsShortOption();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInShortOptionTest.allowsQuestionMarkAsShortOption();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInShortOptionTest.allowsUnderscoreAsShortOption();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.PunctuationInShortOptionTest.assertOptionAllowed(String);4;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.PunctuationInShortOptionTest.disallowsHyphenAsShortOption();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Generic Class;joptsimple.RequiredArgumentOptionSpec;;14;5;5;;;;9;4;5;;;;;;;1;
+Constructor;joptsimple.RequiredArgumentOptionSpec.RequiredArgumentOptionSpec(List<String>,String);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;joptsimple.RequiredArgumentOptionSpec.RequiredArgumentOptionSpec(String);25;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.RequiredArgumentOptionSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Protected Method;joptsimple.RequiredArgumentOptionSpec.detectOptionArgument(OptionParser,ArgumentList,OptionSet);2;5;1;3;4;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Class;joptsimple.RequiredArgumentOptionSpecEqualsHashCodeTest;;10;5;2;;;;5;3;2;;;;;;;0;
+Protected Method;joptsimple.RequiredArgumentOptionSpecEqualsHashCodeTest.createEqualOptionSpecInstance();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.RequiredArgumentOptionSpecEqualsHashCodeTest.createNotEqualOptionSpecInstance();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.RequiredArgumentOptionSpecOptionsImmutabilityTest;;6;3;1;;;;3;2;1;;;;;;;0;
+Protected Method;joptsimple.RequiredArgumentOptionSpecOptionsImmutabilityTest.newOptionSpec(String);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.RequiredArgumentOptionSpecValuesImmutabilityTest;;23;12;5;;;;11;6;5;;;;;;;0;
+Protected Method;joptsimple.RequiredArgumentOptionSpecValuesImmutabilityTest.containedItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.RequiredArgumentOptionSpecValuesImmutabilityTest.firstArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.RequiredArgumentOptionSpecValuesImmutabilityTest.newItem();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.RequiredArgumentOptionSpecValuesImmutabilityTest.newOptionSpec();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.RequiredArgumentOptionSpecValuesImmutabilityTest.secondArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.RequiredIfAnyTest;;39;17;19;;;;26;11;15;;;;;;;0;
+Public Method;joptsimple.RequiredIfAnyTest.acceptsCommandLineWithConditionallyRequiredOptionsPresent();1;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfAnyTest.acceptsOptionWithPrerequisiteAsNormalIfPrerequisiteNotInPlay();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfAnyTest.configureParser();1;8;3;6;3;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfAnyTest.rejectsCommandLineMissingConditionallyRequiredOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfAnyTest.rejectsCommandLineMissingOtherConditionallyRequiredOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfAnyTest.rejectsCommandLineWithNotAllConditionallyRequiredOptionsPresent();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.RequiredIfTest;;58;23;29;;;;39;14;25;;;;;;;0;
+Public Method;joptsimple.RequiredIfTest.acceptsCommandLineWithConditionallyRequiredOptionsPresent();1;9;2;7;7;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.acceptsOptionWithPrerequisiteAsNormalIfPrerequisiteNotInPlay();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.configureParser();1;6;2;4;6;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.presenceOfHelpOptionNegatesRequiredIfness();1;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.rejectsCommandLineMissingConditionallyRequiredOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.rejectsCommandLineMissingConditionallyRequiredOptionSynonym();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.rejectsCommandLineWithNotAllConditionallyRequiredOptionsPresent();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.rejectsOptionNotAlreadyConfigured();3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredIfTest.rejectsOptionSpecNotAlreadyConfigured();3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.RequiredUnlessAnyTest;;39;17;22;;;;28;12;16;;;;;;;0;
+Public Method;joptsimple.RequiredUnlessAnyTest.acceptsCommandLineWithConditionallyRequiredOptionsPresent();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessAnyTest.acceptsOptionWithPrerequisiteAsNormalIfPrerequisiteNotInPlay();1;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessAnyTest.commandLineMissingConditionallyRequiredOption();1;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessAnyTest.commandLineWithNotAllConditionallyRequiredOptionsPresent();1;8;2;6;3;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessAnyTest.configureParser();1;8;3;6;3;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.RequiredUnlessTest;;59;24;30;;;;40;15;25;;;;;;;0;
+Public Method;joptsimple.RequiredUnlessTest.acceptsCommandLineWithConditionallyRequiredOptionsPresent();1;9;2;7;8;1;0;8;2;6;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.acceptsOptionWithPrerequisite();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.acceptsOptionWithPrerequisiteAsNormal();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.configureParser();1;6;2;4;6;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.presenceOfHelpOptionNegatesRequiredUnlessness();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.rejectsCommandLineMissingConditionallyRequiredOption();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.rejectsCommandLineWithNotAllConditionallyRequiredOptionsPresent();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.rejectsOptionNotAlreadyConfigured();3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.RequiredUnlessTest.rejectsOptionSpecNotAlreadyConfigured();3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ShortOptionsNoArgumentTest;;66;21;43;;;;51;14;37;;;;;;;0;
+Public Method;joptsimple.ShortOptionsNoArgumentTest.appearingMultipleTimes();1;7;2;5;9;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsNoArgumentTest.clusteredOptions();1;13;2;11;9;1;0;12;2;10;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsNoArgumentTest.initializeParser();1;5;1;3;1;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsNoArgumentTest.optionsTerminator();2;8;2;6;10;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsNoArgumentTest.singleOption();1;7;2;5;9;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsNoArgumentTest.singleOptionWithOneNonOptionArgument();1;7;2;5;9;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsNoArgumentTest.twoSingleOptions();1;10;2;8;9;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ShortOptionsOptionalArgumentTest;;52;20;29;;;;37;13;24;;;;;;;0;
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.initializeParser();1;5;1;3;2;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.multipleOfSameOptionSomeWithArgsAndSomeWithout();1;5;2;3;6;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.optionWithOptionalArgumentFollowedByLegalOption();1;8;2;6;6;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.optionWithOptionalArgumentNotPresent();1;6;2;4;6;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.optionWithOptionalArgumentPresent();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.optionWithOptionalArgumentThatLooksLikeAValidOption();1;8;2;6;6;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsOptionalArgumentTest.optionWithOptionalArgumentThatLooksLikeAnInvalidOption();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ShortOptionsRequiredArgumentTest;;76;28;44;;;;55;18;37;;;;;;;0;
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.appearingMultipleTimes();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.argumentNotPresent();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.argumentNotPresentFollowedByAnotherOption();1;8;2;6;9;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.clusteredOptionsWithLastOneAcceptingAnArgument();1;8;2;6;6;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.clusteredOptionsWithLastOneAcceptingAnArgumentButMissing();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.clusteredOptionsWithOneAcceptingAnArgument();1;8;2;6;7;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.inSameToken();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.initializeParser();1;6;1;4;3;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.whenEndOfOptionsMarkerIsInPlaceOfRequiredArgument();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ShortOptionsRequiredArgumentTest.withArgument();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.SingleHyphenTest;;25;12;11;;;;16;8;8;;;;;;;0;
+Public Method;joptsimple.SingleHyphenTest.asArgumentOfOption();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.SingleHyphenTest.asArgumentOfOptionInSameToken();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.SingleHyphenTest.initializeParser();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.SingleHyphenTest.singleHyphen();1;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Class;joptsimple.SwitchConverter;;27;10;13;;;;14;6;8;;;;;;;1;
+Public Method;joptsimple.SwitchConverter.convert(String);1;11;1;9;4;3;0;6;1;5;3;3;3;3;2;2;1;2
+Public Method;joptsimple.SwitchConverter.revert(Object);1;4;2;2;3;1;0;3;2;1;2;2;2;1;0;0;0;0
+Public Method;joptsimple.SwitchConverter.valuePattern();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.SwitchConverter.valueType();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ToStringTest;;25;9;13;;;;13;8;5;;;;;;;1;
+Public Constructor;joptsimple.ToStringTest.ToStringTest(Object,String[]);2;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ToStringTest.givesUsefulStringRepresentations();2;5;2;3;3;2;0;5;3;2;2;2;2;1;0;0;1;0
+Public Static Method;joptsimple.ToStringTest.objectsAndStringRepresentations();0;10;1;8;8;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.TypesafeOptionArgumentRetrievalTest;;213;107;120;;;;140;83;57;;;;;;;0;
+Private Static Generic Class;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec;;22;11;5;;;;12;7;5;;;;;;;0;
+Constructor;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec.FakeOptionSpec(String);5;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec.isForHelp();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec.options();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec.value(OptionSet);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.FakeOptionSpec.values(OptionSet);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.canSubvertTypeSafetyIfYouGiveAnOptionSpecToOptionSetAsTheWrongType();2;7;5;4;6;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.canSubvertTypeSafetyIfYouUseAnOptionSpecAsTheWrongType();2;7;5;4;5;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.canUseBooleanType();2;5;3;3;6;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.cannotFoolHasArgumentWithAnOptionNotIssuedFromBuilder();1;6;3;4;6;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.cannotFoolHasWithAnOptionNotIssuedFromBuilder();1;5;2;3;5;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.cannotFoolValueOfWithAnOptionNotIssuedFromBuilder();1;5;2;3;6;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.cannotFoolValuesOfWithAnOptionNotIssuedFromBuilder();1;5;2;3;7;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveBooleanAllowedAsTypeSpecifier();2;6;3;4;9;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveByteAllowedAsTypeSpecifier();2;6;3;4;10;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveCharAllowedAsTypeSpecifier();2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveDoubleAllowedAsTypeSpecifier();2;6;3;4;9;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveFloatAllowedAsTypeSpecifier();2;6;3;4;9;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveIntAllowedAsTypeSpecifier();2;6;3;4;9;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveLongAllowedAsTypeSpecifier();2;6;3;4;9;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.primitiveShortAllowedAsTypeSpecifier();2;6;3;4;10;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.retrievalOfTypedOptionalArgumentsInATypesafeManner();2;8;3;6;13;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.retrievalOfTypedRequiredArgumentsInATypesafeManner();2;13;7;11;13;1;0;12;7;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.retrievalOfUntypedOptionalArgumentsInATypesafeManner();1;9;5;7;9;1;0;8;5;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.retrievalOfUntypedRequiredArgumentsInATypesafeManner();1;6;3;4;8;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.retrievalWithVoidOption();1;6;3;4;7;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.usesConverterIfProvided();1;19;4;14;6;1;0;10;6;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.TypesafeOptionArgumentRetrievalTest.usesConverterIfProvided.(Anon_1);;13;0;10;;;;6;3;3;;;;;;;0;
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.usesConverterIfProvided.(Anon_1).convert(String);1;3;0;2;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.usesConverterIfProvided.(Anon_1).valuePattern();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.usesConverterIfProvided.(Anon_1).valueType();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.wrapsValueConversionExceptionsRaisedByConverter();3;21;4;16;7;1;0;12;6;6;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.TypesafeOptionArgumentRetrievalTest.wrapsValueConversionExceptionsRaisedByConverter.(Anon_2);;13;0;10;;;;6;3;3;;;;;;;0;
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.wrapsValueConversionExceptionsRaisedByConverter.(Anon_2).convert(String);1;3;0;2;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.wrapsValueConversionExceptionsRaisedByConverter.(Anon_2).valuePattern();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.TypesafeOptionArgumentRetrievalTest.wrapsValueConversionExceptionsRaisedByConverter.(Anon_2).valueType();1;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.UnavailableOptionException;;10;5;3;;;;6;4;2;;;;;;;0;
+Constructor;joptsimple.UnavailableOptionException.UnavailableOptionException(List<? extends OptionSpec>);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.UnavailableOptionException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.UnconfiguredOptionException;;13;6;4;;;;8;5;3;;;;;;;0;
+Constructor;joptsimple.UnconfiguredOptionException.UnconfiguredOptionException(List<String>);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;joptsimple.UnconfiguredOptionException.UnconfiguredOptionException(String);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.UnconfiguredOptionException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.UnrecognizedOptionException;;10;5;3;;;;6;4;2;;;;;;;0;
+Constructor;joptsimple.UnrecognizedOptionException.UnrecognizedOptionException(String);5;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.UnrecognizedOptionException.messageArguments();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Abstract Class;joptsimple.UtilityClassesUninstantiabilityHarness;;15;7;7;;;;11;6;5;;;;;;;0;
+Protected Constructor;joptsimple.UtilityClassesUninstantiabilityHarness.UtilityClassesUninstantiabilityHarness(Class<?>);6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.UtilityClassesUninstantiabilityHarness.attemptToInstantiate();3;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ValueConversionException;;9;4;3;;;;6;4;2;;;;;;;0;
+Public Constructor;joptsimple.ValueConversionException.ValueConversionException(String);8;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Constructor;joptsimple.ValueConversionException.ValueConversionException(String,Throwable);3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Interface;joptsimple.ValueConverter;;8;5;1;;;;6;5;1;;;;;;;0;
+TypeVariable;joptsimple.ValueConverter.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Abstract Method;joptsimple.ValueConverter.convert(String);4;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Method;joptsimple.ValueConverter.revert(Object);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Abstract Method;joptsimple.ValueConverter.valuePattern();1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.ValueConverter.valueType();2;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Public Class;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest;;27;7;15;;;;14;9;5;;;;;;;0;
+Static Class;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.ListOfStrings;;3;2;1;;;;2;2;0;;;;;;;0;
+Public Method;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.subclassOfValueType();0;21;3;14;3;1;0;11;6;5;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.subclassOfValueType.(Anon_1);;17;1;13;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.subclassOfValueType.(Anon_1).convert(String);1;3;0;2;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.subclassOfValueType.(Anon_1).revert(Object);1;3;0;2;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.subclassOfValueType.(Anon_1).valuePattern();0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.ValueConverterAdmitsSubclassesOfValueTypeTest.subclassOfValueType.(Anon_1).valueType();2;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.ValueOfHaver;;7;3;1;;;;4;3;1;;;;;;;0;
+Private Constructor;joptsimple.ValueOfHaver.ValueOfHaver();0;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.ValueOfHaver.valueOf(String);0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.WAsAbbreviationForLongOptionTest;;21;8;10;;;;14;5;9;;;;;;;0;
+Public Method;joptsimple.WAsAbbreviationForLongOptionTest.abbreviation();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WAsAbbreviationForLongOptionTest.initializeParser();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WAsAbbreviationForLongOptionTest.recognizeLongOptionsTrumpsLongOptionAbbreviation();3;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.WAsShortOptionTest;;20;8;9;;;;13;5;8;;;;;;;0;
+Public Method;joptsimple.WAsShortOptionTest.initializeParser();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WAsShortOptionTest.recognizeLongOptionsTrumpsShortOptionW();3;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WAsShortOptionTest.wIsLegal();1;6;2;4;7;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.WExtensionNoArgumentTest;;22;8;11;;;;15;5;10;;;;;;;0;
+Public Method;joptsimple.WExtensionNoArgumentTest.initializeParser();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionNoArgumentTest.turnOffWExtension();3;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionNoArgumentTest.wExtensionWithLongOptionWithoutAnArgument();1;7;2;5;7;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.WExtensionWithArgumentTest;;62;24;36;;;;45;16;29;;;;;;;0;
+Public Method;joptsimple.WExtensionWithArgumentTest.abbreviationWithTogetherArgument();1;8;2;6;8;1;0;7;2;5;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.illegalLongOption();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.initializeParser();1;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.noMoreArguments();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.separateArgument();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.togetherArgument();1;7;2;5;8;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.typedSeparateArg();2;8;3;6;11;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.WExtensionWithArgumentTest.typedTogetherArg();2;8;3;6;11;1;0;7;3;4;1;1;1;1;0;0;0;0
+Package;joptsimple.examples;;703;363;347;;;;569;327;242;;;;;;;2;
+Public Class;joptsimple.examples.AlternativeLongOptionsTest;;12;5;7;;;;9;4;5;;;;;;;0;
+Public Method;joptsimple.examples.AlternativeLongOptionsTest.handlesAlternativeLongOptions();0;9;3;7;10;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.DefaultValuesForOptionArgumentsTest;;37;18;27;;;;29;12;17;;;;;;;0;
+Public Method;joptsimple.examples.DefaultValuesForOptionArgumentsTest.allowsSpecificationOfDefaultValues();4;33;15;26;17;1;0;27;10;17;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ExceptionExample;;6;3;2;;;;4;3;1;;;;;;;0;
+Public Static Method;joptsimple.examples.ExceptionExample.main(String[]);0;4;2;2;2;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ExportOptionsTest;;38;17;26;;;;31;18;13;;;;;;;2;
+Public Method;joptsimple.examples.ExportOptionsTest.allowsExportOfOptions();1;15;9;13;12;1;0;14;9;5;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.examples.ExportOptionsTest.asProperties(OptionSet,String);3;10;3;7;9;2;0;7;4;3;2;2;2;1;0;0;1;0
+Private Static Method;joptsimple.examples.ExportOptionsTest.asPropertyKey(String,OptionSpec<?>);3;7;2;5;3;3;0;7;3;4;4;4;4;3;3;3;2;3
+Private Static Method;joptsimple.examples.ExportOptionsTest.asPropertyValue(List<?>,boolean);3;3;1;1;5;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Class;joptsimple.examples.HelpFormatterExample;;50;9;35;;;;33;9;24;;;;;;;0;
+Private Static Class;joptsimple.examples.HelpFormatterExample.MyFormatter;;25;5;17;;;;20;6;14;;;;;;;1;
+Public Method;joptsimple.examples.HelpFormatterExample.MyFormatter.format(Map<String,? extends OptionDescriptor>);1;7;2;4;5;2;0;6;3;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.examples.HelpFormatterExample.MyFormatter.lineFor(OptionDescriptor);2;16;2;13;13;2;0;13;2;11;2;2;2;1;1;0;1;0
+Public Static Method;joptsimple.examples.HelpFormatterExample.main(String[]);0;23;3;18;2;1;0;12;2;10;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.examples.HelpFormatterExample.main.(Anon_1);;18;1;16;;;;8;0;8;;;;;;;0;
+Public Class;joptsimple.examples.HelpScreenExample;;23;4;16;;;;11;3;8;;;;;;;0;
+Public Static Method;joptsimple.examples.HelpScreenExample.main(String[]);0;21;3;16;1;1;0;10;2;8;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.examples.HelpScreenExample.main.(Anon_1);;17;1;15;;;;7;0;7;;;;;;;0;
+Public Enum Type;joptsimple.examples.Level;;5;4;0;;;;1;1;0;;;;;;;0;
+Public Method;joptsimple.examples.Level.valueOf();0;0;0;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0
+Public Method;joptsimple.examples.Level.values();0;0;0;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.LongOptionsTest;;11;5;6;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.examples.LongOptionsTest.acceptsLongOptions();0;8;3;6;6;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.LongOptionsWithArgumentPositioningTest;;15;5;10;;;;12;4;8;;;;;;;0;
+Public Method;joptsimple.examples.LongOptionsWithArgumentPositioningTest.allowsDifferentFormsOfPairingArgumentWithOption();0;12;3;10;10;1;0;11;3;8;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.LongOptionsWithArgumentsTest;;40;9;32;;;;35;7;28;;;;;;;0;
+Public Method;joptsimple.examples.LongOptionsWithArgumentsTest.supportsLongOptionsWithArgumentsAndAbbreviations();0;16;3;14;15;1;0;15;3;12;1;1;1;1;0;0;0;0
+Public Method;joptsimple.examples.LongOptionsWithArgumentsTest.supportsLongOptionsWithEmptyArguments();0;20;3;18;9;1;0;19;3;16;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.MultipleDelimitedArgumentsTest;;16;8;11;;;;8;5;3;;;;;;;0;
+Public Method;joptsimple.examples.MultipleDelimitedArgumentsTest.supportsMultipleDelimitedArguments();2;13;6;11;15;1;0;7;4;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.OptionArgumentConverterTest;;11;5;6;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.examples.OptionArgumentConverterTest.usesConvertersOnOptionArgumentsWhenTold();0;8;3;6;10;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.OptionArgumentValueTypeTest;;16;5;11;;;;13;4;9;;;;;;;0;
+Public Method;joptsimple.examples.OptionArgumentValueTypeTest.convertsArgumentsToJavaValueTypes();2;13;3;11;11;1;0;12;3;9;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.OptionSynonymTest;;16;7;10;;;;13;7;6;;;;;;;1;
+Public Method;joptsimple.examples.OptionSynonymTest.supportsOptionSynonyms();0;13;5;10;12;2;0;12;6;6;2;2;2;1;0;0;1;0
+Public Class;joptsimple.examples.PosixlyCorrectTest;;22;6;17;;;;19;5;14;;;;;;;0;
+Public Method;joptsimple.examples.PosixlyCorrectTest.supportsPosixlyCorrectBehavior();0;19;4;17;12;1;0;18;4;14;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.RequiredIfExample;;9;3;5;;;;7;3;4;;;;;;;0;
+Public Static Method;joptsimple.examples.RequiredIfExample.main(String[]);0;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.RequiredOptionsTest;;35;14;15;;;;19;8;11;;;;;;;0;
+Public Method;joptsimple.examples.RequiredOptionsTest.aHelpOptionMeansRequiredOptionsNeedNotBePresent();0;11;4;6;3;1;0;7;3;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.examples.RequiredOptionsTest.aHelpOptionMeansRequiredOptionsNeedNotBePresent.(Anon_2);;6;1;4;;;;3;0;3;;;;;;;0;
+Public Method;joptsimple.examples.RequiredOptionsTest.allowsSpecificationOfRequiredOptions();0;9;3;4;1;1;0;5;2;3;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.examples.RequiredOptionsTest.allowsSpecificationOfRequiredOptions.(Anon_1);;5;1;3;;;;2;0;2;;;;;;;0;
+Public Method;joptsimple.examples.RequiredOptionsTest.missingHelpOptionMeansRequiredOptionsMustBePresent();0;10;3;5;1;1;0;6;2;4;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.examples.RequiredOptionsTest.missingHelpOptionMeansRequiredOptionsMustBePresent.(Anon_3);;6;1;4;;;;3;0;3;;;;;;;0;
+Public Class;joptsimple.examples.RequiredUnlessExample;;9;3;5;;;;7;3;4;;;;;;;0;
+Public Static Method;joptsimple.examples.RequiredUnlessExample.main(String[]);0;7;2;5;5;1;0;6;2;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ShortOptionsClusteringTest;;11;5;6;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.examples.ShortOptionsClusteringTest.allowsClusteringShortOptions();0;8;3;6;4;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ShortOptionsClusteringWithArgumentTest;;14;5;9;;;;11;4;7;;;;;;;0;
+Public Method;joptsimple.examples.ShortOptionsClusteringWithArgumentTest.allowsClusteringShortOptionsThatAcceptArguments();0;11;3;9;8;1;0;10;3;7;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ShortOptionsTest;;11;5;6;;;;8;4;4;;;;;;;0;
+Public Method;joptsimple.examples.ShortOptionsTest.supportsShortOptions();0;8;3;6;5;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ShortOptionsWithArgumentPositioningTest;;16;5;11;;;;13;4;9;;;;;;;0;
+Public Method;joptsimple.examples.ShortOptionsWithArgumentPositioningTest.allowsDifferentFormsOfPairingArgumentWithOption();0;13;3;11;7;1;0;12;3;9;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ShortOptionsWithArgumentsTest;;16;5;11;;;;13;4;9;;;;;;;0;
+Public Method;joptsimple.examples.ShortOptionsWithArgumentsTest.allowsOptionsToAcceptArguments();0;13;3;11;12;1;0;12;3;9;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.ShortOptionsWithMultipleArgumentsForSingleOptionTest;;13;6;8;;;;10;5;5;;;;;;;0;
+Public Method;joptsimple.examples.ShortOptionsWithMultipleArgumentsForSingleOptionTest.allowsMultipleValuesForAnOption();2;9;3;7;10;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.SignallingEndOfOptionsTest;;19;5;14;;;;16;4;12;;;;;;;0;
+Public Method;joptsimple.examples.SignallingEndOfOptionsTest.doubleHyphenSignalsEndOfOptions();0;16;3;14;11;1;0;15;3;12;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.SpecialOptionalArgumentHandlingTest;;16;5;11;;;;13;4;9;;;;;;;0;
+Public Method;joptsimple.examples.SpecialOptionalArgumentHandlingTest.handlesNegativeNumberOptionalArguments();0;13;3;11;12;1;0;12;3;9;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.TypesafeOptionArgumentRetrievalTest;;28;11;23;;;;25;10;15;;;;;;;0;
+Public Method;joptsimple.examples.TypesafeOptionArgumentRetrievalTest.allowsTypesafeRetrievalOfOptionArguments();1;25;9;23;18;1;0;24;9;15;1;1;1;1;0;0;0;0
+Public Class;joptsimple.examples.UnrecognizedOptionsAllowedTest;;12;5;7;;;;9;4;5;;;;;;;0;
+Public Method;joptsimple.examples.UnrecognizedOptionsAllowedTest.acceptsLongOptions();0;9;3;7;10;1;0;8;3;5;1;1;1;1;0;0;0;0
+Package;joptsimple.examples.ant;;0;0;0;;;;0;0;0;;;;;;;0;
+Package;joptsimple.examples.ant.filters;;46;20;23;;;;36;18;18;;;;;;;2;
+Public Class;joptsimple.examples.ant.filters.HTMLEntitifier;;39;13;23;;;;29;11;18;;;;;;;2;
+Public Constructor;joptsimple.examples.ant.filters.HTMLEntitifier.HTMLEntitifier();0;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Constructor;joptsimple.examples.ant.filters.HTMLEntitifier.HTMLEntitifier(Reader);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.examples.ant.filters.HTMLEntitifier.chain(Reader);1;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.examples.ant.filters.HTMLEntitifier.read();3;17;3;13;10;8;1;14;3;11;5;5;5;3;2;2;2;2
+Package;joptsimple.internal;;1061;401;563;;;;813;335;478;;;;;;;2;
+Public Generic Class;joptsimple.internal.AbbreviationMap;;108;37;70;;;;88;34;54;;;;;;;2;
+TypeVariable;joptsimple.internal.AbbreviationMap.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Private Method;joptsimple.internal.AbbreviationMap.add(char[],V,int,int);8;20;5;16;6;9;1;17;5;12;6;6;6;1;1;0;1;0
+Private Method;joptsimple.internal.AbbreviationMap.addToMappings(Map<String,V>);5;6;1;4;2;4;1;6;2;4;3;3;3;1;0;0;1;0
+Private Static Method;joptsimple.internal.AbbreviationMap.charsOf(String);4;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMap.contains(String);18;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMap.get(String);20;10;3;7;3;3;0;9;4;5;3;3;3;3;3;3;2;3
+Public Method;joptsimple.internal.AbbreviationMap.put(String,V);33;8;2;6;3;4;1;7;2;5;3;3;3;1;0;0;1;0
+Public Method;joptsimple.internal.AbbreviationMap.putAll(Iterable<String>,V);2;4;1;2;1;2;0;4;2;2;2;2;2;1;0;0;1;0
+Public Method;joptsimple.internal.AbbreviationMap.remove(String);12;6;2;4;3;2;0;5;2;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.internal.AbbreviationMap.remove(char[],int,int);7;14;3;12;6;6;1;13;3;10;5;5;7;3;2;2;1;2
+Private Method;joptsimple.internal.AbbreviationMap.removeAtEndOfKey();3;10;1;8;4;3;0;8;1;7;3;3;3;1;2;0;1;0
+Private Method;joptsimple.internal.AbbreviationMap.setValueToThatOfOnlyChild();4;5;3;3;5;1;0;4;3;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMap.toJavaUtilMap();12;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.AbbreviationMapTest;;277;48;205;;;;230;25;205;;;;;;;0;
+Public Method;joptsimple.internal.AbbreviationMapTest.addKeysWithCommonPrefixThenRemoveNonExistentKeyWithCommonPrefix();1;13;1;11;8;1;0;12;1;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addKeysWithCommonPrefixesStairstepStyle();1;21;1;19;7;1;0;20;1;19;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addKeysWithCommonPrefixesStairstepStyleJumbled();1;15;1;13;7;1;0;14;1;13;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingManyWithNoCommonPrefix();1;23;1;21;5;1;0;22;1;21;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingOne();1;9;1;7;5;1;0;8;1;7;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingOneThenReplacing();1;16;1;14;5;1;0;15;1;14;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingThreeWithMixOfPrefixSize();1;11;1;9;5;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingThreeWithSuccessivelyLargerPrefixes();1;11;1;9;5;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingThreeWithSuccessivelySmallerPrefixes();1;11;1;9;5;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.addingTwoWithCommonPrefix();1;12;1;10;7;1;0;11;1;10;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.cannotRemoveByUniqueAbbreviation();1;11;1;9;6;1;0;10;1;9;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.empty();1;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.multipleKeysWithCommonPrefix();1;40;1;38;8;1;0;39;1;38;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.nullKeysAreIllegalToAdd();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.nullKeysAreIllegalToCheckForContains();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.nullKeysAreIllegalToRemove();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.nullValuesAreIllegal();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.removeKeyWithCommonPrefix();1;13;1;11;8;1;0;12;1;11;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.removingNonExistentKeyHasNoEffect();1;10;1;8;6;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.removingSingleKey();1;10;1;8;6;1;0;9;1;8;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.setUp();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.zeroLengthKeysAreIllegalToAdd();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapTest.zeroLengthKeysAreIllegalToRemove();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.AbbreviationMapToJavaUtilMapTest;;87;28;45;;;;60;15;45;;;;;;;0;
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addKeysWithCommonPrefixesStairstepStyle();1;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addKeysWithCommonPrefixesStairstepStyleJumbled();1;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingManyWithNoCommonPrefix();1;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingOne();1;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingOneThenReplacing();1;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingThreeWithMixOfPrefixSize();1;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingThreeWithSuccessivelyLargerPrefixes();1;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingThreeWithSuccessivelySmallerPrefixes();1;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.addingTwoWithCommonPrefix();1;5;1;3;4;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.empty();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.multipleKeysWithCommonPrefix();1;9;1;7;5;1;0;8;1;7;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.removeKeyWithCommonPrefix();1;6;1;4;5;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.AbbreviationMapToJavaUtilMapTest.setUp();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.Classes;;24;7;13;;;;17;5;12;;;;;;;0;
+Private Constructor;joptsimple.internal.Classes.Classes();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.internal.Classes.shortNameOf(String);2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Generic Method;joptsimple.internal.Classes.wrapperOf(Class<T>);3;3;1;1;3;1;0;2;1;1;2;2;2;1;0;0;0;0
+TypeVariable;joptsimple.internal.Classes.wrapperOf.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Class;joptsimple.internal.ClassesUtilityClassTest;;5;2;1;;;;3;2;1;;;;;;;0;
+Public Constructor;joptsimple.internal.ClassesUtilityClassTest.ClassesUtilityClassTest();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.internal.Columns;;50;21;32;;;;45;23;22;;;;;;;1;
+Constructor;joptsimple.internal.Columns.Columns(int,int);3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Method;joptsimple.internal.Columns.fit(Row);6;8;4;6;7;2;0;9;5;4;2;2;2;1;0;0;1;0
+Private Static Method;joptsimple.internal.Columns.itemOrEmpty(List<String>,int);3;3;1;1;3;1;0;2;1;1;2;2;2;1;0;0;0;0
+Private Method;joptsimple.internal.Columns.piecesOf(String,int);4;6;2;4;5;2;0;6;3;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.internal.Columns.piecesOfEmbeddedLine(String,int);4;12;5;10;9;4;1;13;6;7;3;3;3;1;0;0;1;0
+Private Method;joptsimple.internal.Columns.processNextWord(String,StringBuilder,int,int,int,List<String>);8;12;4;8;8;2;0;8;3;5;2;2;2;1;1;0;1;0
+Generic Class;joptsimple.internal.ConstructorInvokingValueConverter;;18;9;4;;;;10;6;4;;;;;;;0;
+Constructor;joptsimple.internal.ConstructorInvokingValueConverter.ConstructorInvokingValueConverter(Constructor<V>);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.internal.ConstructorInvokingValueConverter.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.internal.ConstructorInvokingValueConverter.convert(String);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ConstructorInvokingValueConverter.valuePattern();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ConstructorInvokingValueConverter.valueType();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.Messages;;12;6;6;;;;9;6;3;;;;;;;0;
+Private Constructor;joptsimple.internal.Messages.Messages();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.internal.Messages.message(Locale,String,Class<?>,String,Object...);11;7;4;5;6;1;0;6;4;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.MessagesUtilityClassTest;;5;2;1;;;;3;2;1;;;;;;;0;
+Public Constructor;joptsimple.internal.MessagesUtilityClassTest.MessagesUtilityClassTest();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Generic Class;joptsimple.internal.MethodInvokingValueConverter;;20;10;5;;;;12;7;5;;;;;;;0;
+Constructor;joptsimple.internal.MethodInvokingValueConverter.MethodInvokingValueConverter(Method,Class<V>);3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+TypeVariable;joptsimple.internal.MethodInvokingValueConverter.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.internal.MethodInvokingValueConverter.convert(String);3;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.MethodInvokingValueConverter.valuePattern();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.MethodInvokingValueConverter.valueType();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Generic Interface;joptsimple.internal.OptionNameMap;;8;7;0;;;;7;7;0;;;;;;;0;
+TypeVariable;joptsimple.internal.OptionNameMap.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Abstract Method;joptsimple.internal.OptionNameMap.contains(String);1;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.internal.OptionNameMap.get(String);2;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.internal.OptionNameMap.put(String,V);0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.internal.OptionNameMap.putAll(Iterable<String>,V);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.internal.OptionNameMap.remove(String);1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+Abstract Method;joptsimple.internal.OptionNameMap.toJavaUtilMap();3;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Class;joptsimple.internal.Problematic;;15;6;3;;;;9;6;3;;;;;;;0;
+Private Constructor;joptsimple.internal.Problematic.Problematic();1;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Constructor;joptsimple.internal.Problematic.Problematic(String);1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Method;joptsimple.internal.Problematic.boo();1;2;1;0;0;1;0;1;1;0;1;1;1;1;0;0;0;0
+Static Method;joptsimple.internal.Problematic.mute();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Method;joptsimple.internal.Problematic.stuff();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.Reflection;;63;16;38;;;;44;15;29;;;;;;;2;
+Private Constructor;joptsimple.internal.Reflection.Reflection();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Static Generic Method;joptsimple.internal.Reflection.constructorConverter(Class<V>);3;7;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+TypeVariable;joptsimple.internal.Reflection.constructorConverter.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Static Generic Method;joptsimple.internal.Reflection.convertWith(ValueConverter<V>,String);3;3;1;1;2;1;0;2;1;1;2;2;2;1;0;0;0;0
+TypeVariable;joptsimple.internal.Reflection.convertWith.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Static Generic Method;joptsimple.internal.Reflection.findConverter(Class<V>);3;10;4;8;4;3;0;9;4;5;3;3;3;3;2;2;1;2
+TypeVariable;joptsimple.internal.Reflection.findConverter.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Static Generic Method;joptsimple.internal.Reflection.instantiate(Constructor<T>,Object...);8;7;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+TypeVariable;joptsimple.internal.Reflection.instantiate.T;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Static Method;joptsimple.internal.Reflection.invoke(Method,Object...);6;7;1;4;3;2;0;4;1;3;2;2;2;1;1;0;1;0
+Private Static Method;joptsimple.internal.Reflection.meetsConverterRequirements(Method,Class<?>);3;4;2;2;6;1;0;3;2;1;1;1;3;1;0;0;0;0
+Private Static Method;joptsimple.internal.Reflection.reflectionException(Exception);3;9;1;7;3;4;1;8;1;7;4;4;4;4;3;3;1;3
+Private Static Generic Method;joptsimple.internal.Reflection.valueOfConverter(Class<V>);3;10;2;7;4;3;0;7;2;5;3;3;3;3;3;3;2;3
+TypeVariable;joptsimple.internal.Reflection.valueOfConverter.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Class;joptsimple.internal.ReflectionException;;6;3;2;;;;4;3;1;;;;;;;0;
+Constructor;joptsimple.internal.ReflectionException.ReflectionException(Throwable);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.ReflectionTest;;49;22;25;;;;34;16;18;;;;;;;0;
+Private Static Abstract Class;joptsimple.internal.ReflectionTest.AbstractProblematic;;4;2;0;;;;2;2;0;;;;;;;0;
+Protected Constructor;joptsimple.internal.ReflectionTest.AbstractProblematic.AbstractProblematic();0;2;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ReflectionTest.invokingConstructorQuietlyWrapsCauseOfInvocationTargetException();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ReflectionTest.invokingConstructorQuietlyWrapsIllegalAccessException();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ReflectionTest.invokingConstructorQuietlyWrapsIllegalArgumentException();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ReflectionTest.invokingConstructorQuietlyWrapsInstantiationException();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ReflectionTest.invokingStaticMethodQuietlyWrapsIllegalAccessException();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.ReflectionTest.invokingStaticMethodQuietlyWrapsIllegalArgumentException();2;6;2;4;5;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.ReflectionUtilityClassTest;;5;2;1;;;;3;2;1;;;;;;;0;
+Public Constructor;joptsimple.internal.ReflectionUtilityClassTest.ReflectionUtilityClassTest();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Class;joptsimple.internal.Row;;21;9;9;;;;15;7;8;;;;;;;1;
+Constructor;joptsimple.internal.Row.Row(String,String);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.Row.equals(Object);3;8;2;6;3;3;0;7;2;5;3;3;5;3;2;2;1;2
+Public Method;joptsimple.internal.Row.hashCode();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.RowEqualsHashCodeTest;;15;7;4;;;;7;4;3;;;;;;;0;
+Protected Method;joptsimple.internal.RowEqualsHashCodeTest.equal();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.internal.RowEqualsHashCodeTest.equalButDifferentClass();0;4;1;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.internal.RowEqualsHashCodeTest.equalButDifferentClass.(Anon_1);;1;0;1;;;;0;0;0;;;;;;;0;
+Protected Method;joptsimple.internal.RowEqualsHashCodeTest.notEqual();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.Rows;;51;18;26;;;;43;21;22;;;;;;;1;
+Public Constructor;joptsimple.internal.Rows.Rows(int,int);6;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Private Method;joptsimple.internal.Rows.add(Row);8;5;1;3;5;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.Rows.add(String,String);7;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.internal.Rows.descriptionWidth();5;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.Rows.fitToWidth();3;9;3;7;7;4;1;10;5;5;3;3;3;1;0;0;1;0
+Private Method;joptsimple.internal.Rows.optionWidth();6;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Private Method;joptsimple.internal.Rows.pad(StringBuilder,String,int);4;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.Rows.render();8;8;2;5;7;2;0;7;3;4;2;2;2;1;0;0;1;0
+Public Method;joptsimple.internal.Rows.reset();3;5;1;3;3;1;0;4;1;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.RowsTest;;43;11;30;;;;19;8;11;;;;;;;0;
+Private Method;joptsimple.internal.RowsTest.assertRows(Rows,String...);6;6;1;4;6;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.RowsTest.optionsAndDescriptionsWithinOverallWidth();0;8;2;6;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.RowsTest.someDescriptionsExceedOverallWidth();0;11;2;9;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.RowsTest.someOptionsExceedOverallWidth();0;13;2;11;3;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Generic Class;joptsimple.internal.SimpleOptionNameMap;;28;14;8;;;;16;9;7;;;;;;;1;
+TypeVariable;joptsimple.internal.SimpleOptionNameMap.V;;0;0;0;;;;0;0;0;;;;;;;0;
+Public Method;joptsimple.internal.SimpleOptionNameMap.contains(String);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMap.get(String);4;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMap.put(String,V);5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMap.putAll(Iterable<String>,V);3;4;1;2;1;2;0;4;2;2;2;2;2;1;0;0;1;0
+Public Method;joptsimple.internal.SimpleOptionNameMap.remove(String);3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMap.toJavaUtilMap();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.SimpleOptionNameMapTest;;42;21;25;;;;31;16;15;;;;;;;0;
+Public Method;joptsimple.internal.SimpleOptionNameMapTest.get();2;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMapTest.putAll();3;7;3;5;4;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMapTest.putAndContains();1;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMapTest.remove();1;6;2;4;4;1;0;5;2;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.internal.SimpleOptionNameMapTest.toJavaUtilMap();2;7;3;5;5;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.Strings;;19;8;9;;;;16;9;7;;;;;;;1;
+Private Constructor;joptsimple.internal.Strings.Strings();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.internal.Strings.isNullOrEmpty(String);7;3;1;1;2;1;0;2;1;1;1;1;2;1;0;0;0;0
+Public Static Method;joptsimple.internal.Strings.repeat(char,int);5;6;2;4;3;2;0;7;3;4;2;2;2;1;0;0;1;0
+Public Static Method;joptsimple.internal.Strings.surround(String,char,char);4;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.internal.StringsUtilityClassTest;;5;2;1;;;;3;2;1;;;;;;;0;
+Public Constructor;joptsimple.internal.StringsUtilityClassTest.StringsUtilityClassTest();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Package;joptsimple.util;;716;378;258;;;;477;290;187;;;;;;;3;
+Public Class;joptsimple.util.DateConverter;;52;18;28;;;;31;14;17;;;;;;;1;
+Public Constructor;joptsimple.util.DateConverter.DateConverter(DateFormat);10;5;1;3;2;2;0;4;1;3;2;2;2;1;0;0;1;0
+Public Method;joptsimple.util.DateConverter.convert(String);7;7;3;5;6;2;0;6;3;3;2;2;2;1;0;0;1;0
+Public Static Method;joptsimple.util.DateConverter.datePattern(String);11;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Private Method;joptsimple.util.DateConverter.message(String);4;17;3;12;4;2;0;9;3;6;2;2;2;1;1;0;1;0
+Public Method;joptsimple.util.DateConverter.revert(Object);2;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverter.valuePattern();3;5;1;3;2;1;0;2;1;1;2;2;2;1;0;0;0;0
+Public Method;joptsimple.util.DateConverter.valueType();3;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.DateConverterTest;;77;29;33;;;;45;20;25;;;;;;;0;
+Public Method;joptsimple.util.DateConverterTest.rejectsNonParsableValues();2;4;1;2;4;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.rejectsNullDateFormatter();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.rejectsNullDatePattern();1;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.rejectsValuesThatDoNotEntirelyMatch();3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.setUp();0;17;1;11;2;1;0;9;4;5;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.util.DateConverterTest.setUp.(Anon_1);;13;0;9;;;;6;3;3;;;;;;;0;
+Public Method;joptsimple.util.DateConverterTest.setUp.(Anon_1).format(Date,StringBuffer,FieldPosition);0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.setUp.(Anon_1).parse(String,ParsePosition);0;3;0;2;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldAnswerCorrectValueType();2;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldConvertValuesToDatesUsingADateFormat();1;4;2;2;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldCreateSimpleDateFormatConverter();0;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldGiveNoValuePatternIfFormatterNotASimpleDateFormat();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldGiveValuePatternIfFormatterIsASimpleDateFormat();1;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldRaiseExceptionThatContainsDatePatternAndValue();3;6;1;4;5;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.DateConverterTest.shouldRaiseExceptionThatContainsValueOnlyIfNotASimpleDateFormat();3;6;1;4;7;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Abstract Generic Class;joptsimple.util.EnumConverter;;46;19;22;;;;33;17;16;;;;;;;2;
+TypeVariable;joptsimple.util.EnumConverter.E;;0;0;0;;;;0;0;0;;;;;;;0;
+Protected Constructor;joptsimple.util.EnumConverter.EnumConverter(Class<E>);2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverter.convert(String);4;8;1;4;7;3;0;6;2;4;3;3;3;3;3;3;2;3
+Private Method;joptsimple.util.EnumConverter.message(String);2;6;4;4;6;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverter.revert(Object);1;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverter.setDelimiters(String);2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverter.valuePattern();4;12;3;9;9;3;0;11;4;7;3;3;3;1;0;0;2;0
+Public Method;joptsimple.util.EnumConverter.valueType();5;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.EnumConverterTest;;43;22;11;;;;23;13;10;;;;;;;0;
+Private Enum Type;joptsimple.util.EnumConverterTest.TestEnum;;3;2;0;;;;1;1;0;;;;;;;0;
+Public Method;joptsimple.util.EnumConverterTest.TestEnum.valueOf();0;0;0;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.TestEnum.values();0;0;0;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0
+Private Static Class;joptsimple.util.EnumConverterTest.TestEnumConverter;;5;2;1;;;;3;2;1;;;;;;;0;
+Constructor;joptsimple.util.EnumConverterTest.TestEnumConverter.TestEnumConverter();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.answersCorrectValueType();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.convertsEnumValuesToEnum();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.givesCustomValuePattern();1;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.givesDefaultValuePattern();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.ignoresCase();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.rejectsNonEnumeratedValues();3;4;1;2;2;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.EnumConverterTest.setUp();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.InetAddressConverter;;31;10;13;;;;13;6;7;;;;;;;1;
+Public Method;joptsimple.util.InetAddressConverter.convert(String);3;8;1;4;4;2;0;4;1;3;2;2;2;1;1;0;1;0
+Private Method;joptsimple.util.InetAddressConverter.message(String);3;8;1;6;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.InetAddressConverter.revert(Object);1;3;1;1;4;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.InetAddressConverter.valuePattern();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.InetAddressConverter.valueType();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.InetAddressConverterTest;;16;8;4;;;;9;5;4;;;;;;;0;
+Public Method;joptsimple.util.InetAddressConverterTest.localhost();1;4;1;2;6;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.InetAddressConverterTest.setUp();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.InetAddressConverterTest.unknownHost();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.KeyValuePair;;31;15;14;;;;22;12;10;;;;;;;1;
+Private Constructor;joptsimple.util.KeyValuePair.KeyValuePair(String,String);3;4;1;2;3;1;0;3;1;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePair.equals(Object);3;6;2;4;2;2;0;5;2;3;2;2;3;1;1;0;1;0
+Public Method;joptsimple.util.KeyValuePair.hashCode();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePair.toString();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.util.KeyValuePair.valueOf(String);17;8;4;6;5;2;0;7;4;3;3;3;3;1;1;0;1;0
+Public Class;joptsimple.util.KeyValuePairTest;;42;21;19;;;;27;14;13;;;;;;;0;
+Public Method;joptsimple.util.KeyValuePairTest.empty();2;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePairTest.multipleEqualsSignsDoNotMatter();2;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePairTest.noEqualsSign();2;5;2;3;3;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePairTest.nullArg();0;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePairTest.signAtEnd();2;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePairTest.signAtStart();2;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.KeyValuePairTest.typical();2;5;2;3;2;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.KeyValuePairUnequalKeysTest;;10;5;2;;;;5;3;2;;;;;;;0;
+Protected Method;joptsimple.util.KeyValuePairUnequalKeysTest.equal();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.util.KeyValuePairUnequalKeysTest.notEqual();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.KeyValuePairUnequalValuesTest;;10;5;2;;;;5;3;2;;;;;;;0;
+Protected Method;joptsimple.util.KeyValuePairUnequalValuesTest.equal();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Protected Method;joptsimple.util.KeyValuePairUnequalValuesTest.notEqual();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.PathConverter;;31;14;13;;;;21;12;9;;;;;;;3;
+Public Constructor;joptsimple.util.PathConverter.PathConverter(PathProperties...);9;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverter.convert(String);8;10;2;6;7;4;1;8;3;5;4;4;4;1;0;0;3;0
+Private Method;joptsimple.util.PathConverter.message(String,String);3;6;4;4;6;1;0;5;4;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverter.valuePattern();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverter.valueType();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.PathConverterTest;;66;32;39;;;;48;23;25;;;;;;;0;
+Public Method;joptsimple.util.PathConverterTest.answersCorrectValueType();1;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.convertsValuesToPaths();0;7;3;5;7;1;0;6;3;3;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.testDirectoryExisting();1;6;3;4;8;1;0;5;3;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.testDirectoryNotOverwritable();3;8;3;6;8;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.testNotExisting();1;5;2;3;7;1;0;4;2;2;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.testNotExistingNotOverwritable();3;8;3;6;7;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.testNotReadable();3;8;3;6;7;1;0;7;3;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathConverterTest.testReadableAndOverwritableFile();2;9;3;7;10;1;0;8;3;5;1;1;1;1;0;0;0;0
+Public Enum Type;joptsimple.util.PathProperties;;46;29;8;;;;19;11;8;;;;;;;0;
+Anonymous Class;joptsimple.util.PathProperties.(Anon_1);;5;3;1;;;;2;1;1;;;;;;;0;
+Method;joptsimple.util.PathProperties.(Anon_1).accept(Path);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.util.PathProperties.(Anon_2);;5;3;1;;;;2;1;1;;;;;;;0;
+Method;joptsimple.util.PathProperties.(Anon_2).accept(Path);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.util.PathProperties.(Anon_3);;5;3;1;;;;2;1;1;;;;;;;0;
+Method;joptsimple.util.PathProperties.(Anon_3).accept(Path);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.util.PathProperties.(Anon_4);;5;3;1;;;;2;1;1;;;;;;;0;
+Method;joptsimple.util.PathProperties.(Anon_4).accept(Path);3;3;1;1;2;1;0;2;1;1;1;1;2;1;0;0;0;0
+Anonymous Class;joptsimple.util.PathProperties.(Anon_5);;5;3;1;;;;2;1;1;;;;;;;0;
+Method;joptsimple.util.PathProperties.(Anon_5).accept(Path);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Anonymous Class;joptsimple.util.PathProperties.(Anon_6);;5;3;1;;;;2;1;1;;;;;;;0;
+Method;joptsimple.util.PathProperties.(Anon_6).accept(Path);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Constructor;joptsimple.util.PathProperties.PathProperties(String);1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Abstract Method;joptsimple.util.PathProperties.accept(Path);2;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+Method;joptsimple.util.PathProperties.getMessageKey();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathProperties.valueOf();0;0;0;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathProperties.values();0;0;0;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.PathPropertiesTest;;35;10;24;;;;28;7;21;;;;;;;0;
+Public Method;joptsimple.util.PathPropertiesTest.directory();0;10;2;8;6;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathPropertiesTest.nonExisting();0;10;2;8;5;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.PathPropertiesTest.readableFile();0;10;2;8;6;1;0;9;2;7;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.RegexMatcher;;34;13;15;;;;17;9;8;;;;;;;1;
+Public Constructor;joptsimple.util.RegexMatcher.RegexMatcher(String,int);5;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcher.convert(String);5;6;1;3;4;2;0;4;1;3;2;2;2;1;0;0;1;0
+Private Method;joptsimple.util.RegexMatcher.raiseValueConversionFailure(String);4;10;3;8;4;1;0;3;2;1;1;1;1;1;0;0;0;0
+Public Static Method;joptsimple.util.RegexMatcher.regex(String);3;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcher.valuePattern();2;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcher.valueType();2;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Class;joptsimple.util.RegexMatcherTest;;35;17;11;;;;20;10;10;;;;;;;0;
+Public Method;joptsimple.util.RegexMatcherTest.raisesExceptionContainingValueAndPattern();2;6;1;4;4;1;0;5;1;4;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcherTest.rejectsValueThatDoesNotMatchRegex();1;3;1;1;1;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcherTest.setUp();0;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcherTest.shouldAnswerCorrectValueType();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcherTest.shouldAttemptToMatchValueAgainstARegex();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcherTest.shouldGiveCorrectValuePattern();1;3;1;1;2;1;0;2;1;1;1;1;1;1;0;0;0;0
+Public Method;joptsimple.util.RegexMatcherTest.shouldOfferConvenienceMethodForCreatingMatcherWithNoFlags();0;3;1;1;3;1;0;2;1;1;1;1;1;1;0;0;0;0
+File;misc.xml;;11;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;modules.xml;;8;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;paste-examples.xml;;205;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;pom.xml;;339;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;prettify.css;;0;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;prettify.js;;1198;;;;1;0;798;202;596;1;1;1;1;;;12;
+Function;prettyPrint;;54;;;;3;0;34;12;22;3;3;3;1;;;2;
+Function;prettyPrint.doWork;;39;;;;34;2;25;8;17;10;10;16;5;;;6;
+Function;prettyPrintOne;;37;;;;24;1;24;6;18;9;9;9;1;;;4;
+File;site.xml;;20;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;vcs.xml;;6;;;;0;0;0;0;0;0;0;0;0;;;0;
+File;workspace.xml;;11;;;;0;0;0;0;0;0;0;0;0;;;0;

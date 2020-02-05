@@ -1,0 +1,2 @@
+org.apache.commons.lang3.CharUtilsTest.testToCharacterObject_char()
+[5,2,4,6]

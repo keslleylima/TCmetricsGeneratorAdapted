@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.solvers.UnivariateSolverUtilsTest.testNullFunction()
+[34,2,3,35]

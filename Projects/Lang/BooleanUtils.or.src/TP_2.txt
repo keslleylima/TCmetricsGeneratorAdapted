@@ -1,0 +1,5 @@
+org.apache.commons.lang3.BooleanUtilsTest.testOr_primitive_validInput_2items()
+[10,2,4,6,7,8,11]
+[10,2,4,6,7,6,7,6,9,11]
+[10,2,4,6,7,8,11]
+[10,2,4,6,7,6,7,8,11]

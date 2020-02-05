@@ -1,0 +1,5 @@
+org.apache.commons.lang3.BooleanUtilsTest.testCompare()
+[5,2,4,6]
+[5,2,3,6]
+[5,2,3,6]
+[5,2,4,6]

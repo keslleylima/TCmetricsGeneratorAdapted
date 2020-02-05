@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.interpolation.LoessInterpolatorTest.testCompletelyIncorrectBandwidth1()
+[12,3,5,13]

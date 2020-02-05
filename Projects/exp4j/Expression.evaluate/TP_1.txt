@@ -1,0 +1,2 @@
+net.objecthunter.exp4j.ExpressionTest.testExpression1()
+[35,2,3,4,5,3,4,5,3,4,6,12,13,14,16,17,18,19,3,32,34,36]

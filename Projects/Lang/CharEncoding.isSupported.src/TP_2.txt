@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharEncodingTest.testNotSupported()
+[7,2,4,8]
+[7,2,4,8]
+[7,2,4,8]
+[7,2,4,8]

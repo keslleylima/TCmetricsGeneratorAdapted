@@ -1,0 +1,2 @@
+org.apache.commons.math4.analysis.differentiation.FiniteDifferencesDifferentiatorTest.testTooLargeStep()
+[16,3,5,6,8,9,10,11,17]

@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.ID3WrapperTest.getAlbumReturnsV2TagsAlbumBeforeV1TagsAlbum()
+[7,2,3,8]

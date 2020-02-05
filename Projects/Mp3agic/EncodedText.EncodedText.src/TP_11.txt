@@ -1,0 +1,3 @@
+com.mpatric.mp3agic.EncodedTextTest.shouldStillReturnBytesWhenDataIsEmpty()
+[11,3,7,8,9,12]
+[11,3,7,8,9,12]

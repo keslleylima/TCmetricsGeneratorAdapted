@@ -1,0 +1,2 @@
+com.mpatric.mp3agic.ID3WrapperTest.clearsCommentFrameOnV2Tag()
+[7,2,3,4,6,8]
